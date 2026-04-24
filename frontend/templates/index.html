@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SoundMatch AI — Multi-Language Song Recommender</title>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,800;1,600&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  <!-- Cropper.js CDN -->
+  <link  rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.6.2/cropper.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.6.2/cropper.min.js" defer></script>
+
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+
+<!-- ══════════════════════════════════════════════════════════════════════════
+     NAVBAR
+══════════════════════════════════════════════════════════════════════════ -->
+<nav class="navbar" role="navigation" aria-label="Main navigation">
+  <div class="nav-inner">
+    <a href="/" class="nav-brand" aria-label="SoundMatch AI Home">
+      <span class="brand-icon" aria-hidden="true">♪</span>
+      <span class="brand-text">SoundMatch<em>AI</em></span>
+    </a>
+
+    <div class="nav-centre" aria-hidden="true">
+      <span class="nav-tagline">AI-powered music for every post</span>
+    </div>
+
+    <div class="nav-actions">
+      <a href="#how" class="nav-link">How it works</a>
+      <a href="#upload" class="nav-link">Try it free</a>
+      <button class="theme-toggle" id="themeToggle" aria-label="Toggle colour theme">
+        <span class="theme-icon" id="themeIcon">☀</span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<!-- ══════════════════════════════════════════════════════════════════════════
+     HERO
+══════════════════════════════════════════════════════════════════════════ -->
+<header class="hero" role="banner">
+  <div class="hero-inner">
+    <div class="hero-eyebrow">
+      <span class="eyebrow-dot"></span>
+      Advanced AI · Multi-Language · Crop-Aware
+    </div>
+
+    <h1 class="hero-title">
+      The <em>perfect song</em> for<br/>every image you post.
+    </h1>
+
+    <p class="hero-sub">
+      Upload any image. Our AI reads mood, colour psychology, and scene context —
+      then matches it with trending songs in English, Hindi, or Punjabi.
+    </p>
+
+    <div class="hero-actions">
+      <a href="#upload" class="btn-primary">Analyse My Image →</a>
+      <a href="#how"    class="btn-ghost">See how it works</a>
+    </div>
+
+    <div class="hero-badges">
+      <span class="badge">🇮🇳 Hindi</span>
+      <span class="badge">🌍 English</span>
+      <span class="badge">🎧 Punjabi</span>
+      <span class="badge">✂️ Crop-Aware</span>
+      <span class="badge">📊 Multi-Factor AI</span>
+    </div>
+  </div>
+
+  <!-- Decoration -->
+  <div class="hero-deco" aria-hidden="true">
+    <div class="deco-blob b1"></div>
+    <div class="deco-blob b2"></div>
+    <div class="deco-note n1">♩</div>
+    <div class="deco-note n2">♫</div>
+    <div class="deco-note n3">♪</div>
+    <div class="deco-note n4">𝄞</div>
+  </div>
+</header>
+
+<!-- ══════════════════════════════════════════════════════════════════════════
+     HOW IT WORKS
+══════════════════════════════════════════════════════════════════════════ -->
+<section class="how-section" id="how">
+  <div class="container">
+    <div class="section-header">
+      <div class="section-eyebrow">The Process</div>
+      <h2 class="section-title">How SoundMatch AI Works</h2>
+    </div>
+
+    <div class="steps-grid">
+      <div class="step-card">
+        <div class="step-num">01</div>
+        <div class="step-icon">🖼️</div>
+        <h3>Upload &amp; Crop</h3>
+        <p>Drop your image and optionally crop to focus the AI on the most important part of the frame.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-num">02</div>
+        <div class="step-icon">🧠</div>
+        <h3>6-Factor Analysis</h3>
+        <p>AI analyses mood, colour psychology, scene context, aesthetics, brightness, and warmth.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-num">03</div>
+        <div class="step-icon">🌐</div>
+        <h3>Choose Language</h3>
+        <p>Select Hindi, English, or Punjabi. Our engine scores songs using a weighted formula for your language.</p>
+      </div>
+      <div class="step-card">
+        <div class="step-num">04</div>
+        <div class="step-icon">🎵</div>
+        <h3>Smart Matching</h3>
+        <p>Mood × Context × Trend × Language × Aesthetic scoring returns your top 7 ranked songs.</p>
+      </div>
+    </div>
+
+    <!-- Scoring formula display -->
+    <div class="formula-card">
+      <div class="formula-title">⚡ Scoring Formula</div>
+      <div class="formula-body">
+        <span class="f-term mood">Mood Match<br/><em>× 0.30</em></span>
+        <span class="f-op">+</span>
+        <span class="f-term context">Context Match<br/><em>× 0.20</em></span>
+        <span class="f-op">+</span>
+        <span class="f-term trend">Trend Score<br/><em>× 0.25</em></span>
+        <span class="f-op">+</span>
+        <span class="f-term lang">Language Pref<br/><em>× 0.15</em></span>
+        <span class="f-op">+</span>
+        <span class="f-term aesthetic">Aesthetic Match<br/><em>× 0.10</em></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════════════════════════════════════════
+     UPLOAD & CROP SECTION
+══════════════════════════════════════════════════════════════════════════ -->
+<section class="upload-section" id="upload">
+  <div class="container">
+    <div class="section-header">
+      <div class="section-eyebrow">Step 1</div>
+      <h2 class="section-title">Upload Your Image</h2>
+      <p class="section-sub">Drag &amp; drop a photo, then optionally crop to focus the analysis.</p>
+    </div>
+
+    <div class="upload-card">
+
+      <!-- Drop Zone -->
+      <div class="drop-zone" id="dropZone" role="button" tabindex="0"
+           aria-label="Upload image by clicking or dragging a file here">
+        <div class="drop-content" id="dropContent">
+          <div class="drop-icon">📷</div>
+          <p class="drop-title">Drag &amp; drop your photo here</p>
+          <p class="drop-sub">or <label for="fileInput" class="file-label">browse files</label></p>
+          <p class="drop-hint">JPG · PNG · WEBP · up to 15 MB</p>
+        </div>
+        <img id="dropPreview" class="drop-preview hidden" alt="Uploaded image preview" />
+        <input type="file" id="fileInput" accept="image/*" class="visually-hidden" aria-label="Upload image file" />
+      </div>
+
+      <!-- Crop toolbar — shown after image selected -->
+      <div class="crop-toolbar hidden" id="cropToolbar">
+        <button class="crop-btn" id="openCropModal">
+          <span>✂️ Crop / Focus Region</span>
+        </button>
+        <span class="crop-status" id="cropStatus">No crop selected</span>
+        <button class="crop-clear-btn hidden" id="clearCrop">✕ Clear Crop</button>
+      </div>
+
+      <!-- Language selector -->
+      <div class="lang-selector-wrap">
+        <div class="lang-label">
+          <span>🌐</span> Choose music language:
+        </div>
+        <div class="lang-tabs" role="group" aria-label="Music language selection">
+          <button class="lang-tab active" data-lang="english"  aria-pressed="true">🌍 English</button>
+          <button class="lang-tab"        data-lang="hindi"    aria-pressed="false">🇮🇳 Hindi</button>
+          <button class="lang-tab"        data-lang="punjabi"  aria-pressed="false">🎧 Punjabi</button>
+        </div>
+      </div>
+
+      <!-- Analyse button -->
+      <button class="analyse-btn" id="analyseBtn" disabled aria-label="Analyse image and get song recommendations">
+        <span id="btnContent">
+          <span id="btnIcon">✦</span>
+          <span id="btnText">Analyse &amp; Recommend</span>
+        </span>
+        <span id="btnLoader" class="btn-loader hidden" aria-hidden="true"></span>
+      </button>
+
+    </div>
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════════════════════════════════════════
+     CROP MODAL
+══════════════════════════════════════════════════════════════════════════ -->
+<div class="modal-overlay hidden" id="cropModalOverlay" role="dialog" aria-modal="true" aria-label="Image crop tool">
+  <div class="crop-modal">
+    <div class="crop-modal-header">
+      <h3>✂️ Crop &amp; Focus</h3>
+      <p>Select the most important area — AI will prioritise this region.</p>
+      <button class="modal-close" id="cropModalClose" aria-label="Close crop modal">✕</button>
+    </div>
+
+    <div class="crop-container">
+      <img id="cropImage" alt="Image for cropping" />
+    </div>
+
+    <div class="crop-modal-actions">
+      <button class="crop-reset-btn" id="cropResetBtn">↺ Reset</button>
+      <button class="crop-confirm-btn" id="cropConfirmBtn">✓ Apply Crop</button>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════════
+     AI LOADING OVERLAY
+══════════════════════════════════════════════════════════════════════════ -->
+<div class="ai-loading hidden" id="aiLoading" role="status" aria-live="polite">
+  <div class="ai-loading-inner">
+    <div class="ai-spinner" aria-hidden="true">
+      <div class="spinner-ring r1"></div>
+      <div class="spinner-ring r2"></div>
+      <div class="spinner-ring r3"></div>
+      <div class="spinner-note">♫</div>
+    </div>
+    <p class="ai-loading-title" id="loadingTitle">Analysing your image…</p>
+    <p class="ai-loading-sub"   id="loadingSub">Reading colour psychology &amp; mood signals</p>
+    <div class="ai-steps" id="aiSteps">
+      <div class="ai-step active" data-step="1">🎨 Colour Analysis</div>
+      <div class="ai-step"        data-step="2">🧠 Mood Detection</div>
+      <div class="ai-step"        data-step="3">🌐 Language Matching</div>
+      <div class="ai-step"        data-step="4">🎵 Scoring Songs</div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════════
+     RESULTS SECTION
+══════════════════════════════════════════════════════════════════════════ -->
+<section class="results-section hidden" id="resultsSection" aria-live="polite">
+  <div class="container">
+
+    <!-- Analysis summary -->
+    <div class="analysis-summary" id="analysisSummary">
+      <div class="summary-left">
+        <div class="summary-eyebrow">AI DETECTED</div>
+        <div class="summary-mood-row">
+          <span class="summary-mood-pill" id="summaryMood">—</span>
+          <div class="summary-secondary" id="summarySecondary"></div>
+        </div>
+        <div class="summary-context" id="summaryContext"></div>
+      </div>
+      <div class="summary-right">
+        <div class="summary-metrics" id="summaryMetrics"></div>
+      </div>
+    </div>
+
+    <!-- Aesthetic grade card -->
+    <div class="aesthetic-card" id="aestheticCard"></div>
+
+    <!-- Score breakdown radar (pure CSS) -->
+    <div class="score-section">
+      <h3 class="score-label">Analysis Signals</h3>
+      <div class="signal-bars" id="signalBars"></div>
+    </div>
+
+    <!-- Songs header -->
+    <div class="results-header">
+      <div class="section-eyebrow">Top Recommendations</div>
+      <h2 class="section-title">Your <span id="resultLangLabel">English</span> Tracks</h2>
+      <p class="results-count" id="resultsCount"></p>
+    </div>
+
+    <!-- Song cards grid -->
+    <div class="cards-list" id="cardsList" role="list" aria-label="Song recommendations"></div>
+
+    <!-- Reset -->
+    <div class="reset-area">
+      <button class="reset-btn" id="resetBtn">↩ Try Another Image</button>
+    </div>
+
+  </div>
+</section>
+
+<!-- ══════════════════════════════════════════════════════════════════════════
+     FOOTER
+══════════════════════════════════════════════════════════════════════════ -->
+<footer class="footer" role="contentinfo">
+  <div class="container footer-inner">
+    <div class="footer-brand">
+      <span class="brand-icon">♪</span>
+      SoundMatch<em>AI</em>
+    </div>
+    <div class="footer-mid">
+      Built for creators &mdash; AI-powered &mdash; No account needed
+    </div>
+    <div class="footer-right">
+      <span class="footer-lang">🌍 🇮🇳 🎧 Multilingual</span>
+    </div>
+  </div>
+</footer>
+
+<!-- Toast -->
+<div class="toast" id="toast" role="alert" aria-live="assertive"></div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,3639 @@
+[
+  {
+    "id": "pa_001",
+    "song_name": "Lover",
+    "artist": "Diljit Dosanjh",
+    "mood": [
+      "romantic",
+      "happy",
+      "calm",
+      "fun"
+    ],
+    "context": [
+      "couple",
+      "aesthetic",
+      "sunset",
+      "travel",
+      "friends"
+    ],
+    "trend_score": 94,
+    "views": 430000000,
+    "likes": 3500000,
+    "published_days_ago": 900,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi Pop",
+    "bpm": 94,
+    "energy": 0.7,
+    "aesthetic_tags": [
+      "warm",
+      "vibrant",
+      "golden"
+    ],
+    "channel": "Diljit Dosanjh"
+  },
+  {
+    "id": "pa_002",
+    "song_name": "G.O.A.T.",
+    "artist": "Diljit Dosanjh",
+    "mood": [
+      "energetic",
+      "happy",
+      "confident",
+      "fun"
+    ],
+    "context": [
+      "party",
+      "gym",
+      "dance",
+      "celebration",
+      "fashion"
+    ],
+    "trend_score": 96,
+    "views": 580000000,
+    "likes": 4700000,
+    "published_days_ago": 1560,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi Hip-Hop",
+    "bpm": 118,
+    "energy": 0.9,
+    "aesthetic_tags": [
+      "vibrant",
+      "bold",
+      "urban"
+    ],
+    "channel": "Speed Records"
+  },
+  {
+    "id": "pa_003",
+    "song_name": "Brown Munde",
+    "artist": "AP Dhillon, Gurinder Gill & Shinda Kahlon",
+    "mood": [
+      "energetic",
+      "confident",
+      "fun",
+      "happy"
+    ],
+    "context": [
+      "party",
+      "friends",
+      "gym",
+      "dance",
+      "night"
+    ],
+    "trend_score": 97,
+    "views": 620000000,
+    "likes": 5200000,
+    "published_days_ago": 1260,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi Urban",
+    "bpm": 128,
+    "energy": 0.92,
+    "aesthetic_tags": [
+      "dark",
+      "urban",
+      "bold"
+    ],
+    "channel": "AP Dhillon"
+  },
+  {
+    "id": "pa_004",
+    "song_name": "With You",
+    "artist": "AP Dhillon",
+    "mood": [
+      "romantic",
+      "calm",
+      "emotional",
+      "nostalgic"
+    ],
+    "context": [
+      "couple",
+      "aesthetic",
+      "night",
+      "cozy",
+      "sunset"
+    ],
+    "trend_score": 95,
+    "views": 490000000,
+    "likes": 4000000,
+    "published_days_ago": 1100,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi R&B",
+    "bpm": 88,
+    "energy": 0.62,
+    "aesthetic_tags": [
+      "dark",
+      "moody",
+      "intimate"
+    ],
+    "channel": "AP Dhillon"
+  },
+  {
+    "id": "pa_005",
+    "song_name": "Excuses",
+    "artist": "AP Dhillon & Gurinder Gill",
+    "mood": [
+      "romantic",
+      "sad",
+      "emotional",
+      "intense"
+    ],
+    "context": [
+      "alone",
+      "night",
+      "aesthetic",
+      "reflection",
+      "couple"
+    ],
+    "trend_score": 93,
+    "views": 450000000,
+    "likes": 3700000,
+    "published_days_ago": 1400,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi R&B",
+    "bpm": 90,
+    "energy": 0.65,
+    "aesthetic_tags": [
+      "dark",
+      "moody",
+      "cool"
+    ],
+    "channel": "AP Dhillon"
+  },
+  {
+    "id": "pa_006",
+    "song_name": "Softly",
+    "artist": "Karan Aujla",
+    "mood": [
+      "romantic",
+      "calm",
+      "happy",
+      "fun"
+    ],
+    "context": [
+      "couple",
+      "friends",
+      "hangout",
+      "cozy",
+      "aesthetic"
+    ],
+    "trend_score": 96,
+    "views": 510000000,
+    "likes": 4200000,
+    "published_days_ago": 480,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi Pop",
+    "bpm": 96,
+    "energy": 0.72,
+    "aesthetic_tags": [
+      "warm",
+      "vibrant",
+      "smooth"
+    ],
+    "channel": "Karan Aujla"
+  },
+  {
+    "id": "pa_007",
+    "song_name": "Baller",
+    "artist": "Karan Aujla",
+    "mood": [
+      "energetic",
+      "confident",
+      "fun",
+      "aggressive"
+    ],
+    "context": [
+      "party",
+      "gym",
+      "night",
+      "friends",
+      "dance"
+    ],
+    "trend_score": 94,
+    "views": 380000000,
+    "likes": 3100000,
+    "published_days_ago": 600,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi Hip-Hop",
+    "bpm": 130,
+    "energy": 0.91,
+    "aesthetic_tags": [
+      "dark",
+      "urban",
+      "bold"
+    ],
+    "channel": "Karan Aujla"
+  },
+  {
+    "id": "pa_008",
+    "song_name": "Lahore",
+    "artist": "Guru Randhawa",
+    "mood": [
+      "happy",
+      "energetic",
+      "fun",
+      "romantic"
+    ],
+    "context": [
+      "party",
+      "dance",
+      "celebration",
+      "friends",
+      "travel"
+    ],
+    "trend_score": 85,
+    "views": 780000000,
+    "likes": 6100000,
+    "published_days_ago": 2400,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi Pop",
+    "bpm": 110,
+    "energy": 0.85,
+    "aesthetic_tags": [
+      "bright",
+      "vibrant",
+      "warm"
+    ],
+    "channel": "T-Series"
+  },
+  {
+    "id": "pa_009",
+    "song_name": "Kinni Kinni",
+    "artist": "Diljit Dosanjh",
+    "mood": [
+      "romantic",
+      "calm",
+      "emotional",
+      "happy"
+    ],
+    "context": [
+      "couple",
+      "aesthetic",
+      "nature",
+      "travel",
+      "sunset"
+    ],
+    "trend_score": 90,
+    "views": 320000000,
+    "likes": 2600000,
+    "published_days_ago": 960,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi Pop",
+    "bpm": 86,
+    "energy": 0.58,
+    "aesthetic_tags": [
+      "warm",
+      "golden",
+      "soft"
+    ],
+    "channel": "Diljit Dosanjh"
+  },
+  {
+    "id": "pa_010",
+    "song_name": "Vibe",
+    "artist": "Karan Aujla & Tania",
+    "mood": [
+      "happy",
+      "romantic",
+      "fun",
+      "energetic"
+    ],
+    "context": [
+      "couple",
+      "friends",
+      "summer",
+      "beach",
+      "travel"
+    ],
+    "trend_score": 91,
+    "views": 290000000,
+    "likes": 2300000,
+    "published_days_ago": 840,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi Pop",
+    "bpm": 100,
+    "energy": 0.76,
+    "aesthetic_tags": [
+      "bright",
+      "tropical",
+      "warm"
+    ],
+    "channel": "Karan Aujla"
+  },
+  {
+    "id": "pa_011",
+    "song_name": "After Hours",
+    "artist": "AP Dhillon",
+    "mood": [
+      "dark",
+      "intense",
+      "romantic",
+      "emotional"
+    ],
+    "context": [
+      "night",
+      "city",
+      "alone",
+      "aesthetic",
+      "party"
+    ],
+    "trend_score": 92,
+    "views": 360000000,
+    "likes": 2900000,
+    "published_days_ago": 720,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi R&B",
+    "bpm": 92,
+    "energy": 0.68,
+    "aesthetic_tags": [
+      "dark",
+      "neon",
+      "moody"
+    ],
+    "channel": "AP Dhillon"
+  },
+  {
+    "id": "pa_012",
+    "song_name": "Surma",
+    "artist": "Diljit Dosanjh",
+    "mood": [
+      "romantic",
+      "nostalgic",
+      "calm",
+      "emotional"
+    ],
+    "context": [
+      "couple",
+      "wedding",
+      "traditional",
+      "aesthetic"
+    ],
+    "trend_score": 86,
+    "views": 270000000,
+    "likes": 2100000,
+    "published_days_ago": 1800,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi Traditional",
+    "bpm": 78,
+    "energy": 0.5,
+    "aesthetic_tags": [
+      "warm",
+      "golden",
+      "traditional"
+    ],
+    "channel": "Diljit Dosanjh"
+  },
+  {
+    "id": "pa_013",
+    "song_name": "Phamous",
+    "artist": "Guru Randhawa & Millind Gaba",
+    "mood": [
+      "energetic",
+      "confident",
+      "fun",
+      "happy"
+    ],
+    "context": [
+      "party",
+      "gym",
+      "dance",
+      "friends",
+      "night"
+    ],
+    "trend_score": 82,
+    "views": 340000000,
+    "likes": 2700000,
+    "published_days_ago": 2100,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi Dance",
+    "bpm": 122,
+    "energy": 0.88,
+    "aesthetic_tags": [
+      "vibrant",
+      "bold",
+      "urban"
+    ],
+    "channel": "T-Series"
+  },
+  {
+    "id": "pa_014",
+    "song_name": "Hass Hass",
+    "artist": "Diljit Dosanjh & Sia",
+    "mood": [
+      "happy",
+      "fun",
+      "energetic",
+      "romantic"
+    ],
+    "context": [
+      "party",
+      "dance",
+      "celebration",
+      "summer",
+      "friends"
+    ],
+    "trend_score": 88,
+    "views": 410000000,
+    "likes": 3300000,
+    "published_days_ago": 780,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi Pop",
+    "bpm": 114,
+    "energy": 0.82,
+    "aesthetic_tags": [
+      "bright",
+      "warm",
+      "tropical"
+    ],
+    "channel": "Diljit Dosanjh"
+  },
+  {
+    "id": "pa_015",
+    "song_name": "Sher Khul Gaye",
+    "artist": "Diljit Dosanjh",
+    "mood": [
+      "energetic",
+      "motivated",
+      "confident",
+      "happy"
+    ],
+    "context": [
+      "gym",
+      "competition",
+      "inspiration",
+      "celebration"
+    ],
+    "trend_score": 93,
+    "views": 480000000,
+    "likes": 3800000,
+    "published_days_ago": 380,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Punjabi",
+    "bpm": 136,
+    "energy": 0.93,
+    "aesthetic_tags": [
+      "bold",
+      "vibrant",
+      "powerful"
+    ],
+    "channel": "Diljit Dosanjh"
+  },
+  {
+    "id": "pu_0016",
+    "song_name": "CALIFORNIA LOVE Cheema Y | Gur Sidhu | Punjabi Song 2023",
+    "artist": "Punjabi Song 2023",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 362950573,
+    "likes": 1638389,
+    "published_days_ago": 1141,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Brown Town Music",
+    "youtube_id": "rSxTumD4kew"
+  },
+  {
+    "id": "pu_0017",
+    "song_name": "WAVY (OFFICIAL VIDEO) KARAN AUJLA | LATEST PUNJABI SONGS 2024",
+    "artist": "LATEST PUNJABI SONGS 2024",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 44,
+    "views": 348653313,
+    "likes": 1698713,
+    "published_days_ago": 525,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "Karan Aujla",
+    "youtube_id": "XTp5jaRU3Ws"
+  },
+  {
+    "id": "pu_0018",
+    "song_name": "For A Reason Karan Aujla | Tania  | Ikky | Latest Punjabi Songs 2025",
+    "artist": "Latest Punjabi Songs 2025",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 59,
+    "views": 292909186,
+    "likes": 1832313,
+    "published_days_ago": 245,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.7,
+    "aesthetic_tags": [],
+    "channel": "Rehaan Records",
+    "youtube_id": "-YlmnPh-6rE"
+  },
+  {
+    "id": "pu_0019",
+    "song_name": "Fly Karke | Sabba Ft. Pranjal Dahiya & Jasmeen Akhtar | Latest Punjabi Songs 2024 | Speed Records",
+    "artist": "Speed Records",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 259896691,
+    "likes": 874843,
+    "published_days_ago": 611,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "MQDfrFCrafA"
+  },
+  {
+    "id": "pu_0020",
+    "song_name": "Parindey - B Praak | Gippy Grewal, Sargun Mehta & Roopi Gill | Avvy Sra | Latest Punjabi Songs 2024",
+    "artist": "B Praak | Gippy Grewal, Sargun Mehta & Roopi Gill | Avvy Sra",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 209151890,
+    "likes": 859865,
+    "published_days_ago": 808,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "x5nd2acYjXg"
+  },
+  {
+    "id": "pu_0021",
+    "song_name": "22 22 Gulab Sidhu | Sidhu Moose Wala | Latest Punjabi Songs 2020",
+    "artist": "Latest Punjabi Songs 2020",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 206938372,
+    "likes": 2073740,
+    "published_days_ago": 1994,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "5911 Records",
+    "youtube_id": "_MqGhYihNr0"
+  },
+  {
+    "id": "pu_0022",
+    "song_name": "BOYFRIEND(MUSIC VIDEO) KARAN AUJLA| SUNANDA | IKKY | Latest Punjabi Songs 2025",
+    "artist": "Latest Punjabi Songs 2025",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 58,
+    "views": 169682113,
+    "likes": 941061,
+    "published_days_ago": 185,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.69,
+    "aesthetic_tags": [],
+    "channel": "Karan Aujla",
+    "youtube_id": "5GCfYLguTIs"
+  },
+  {
+    "id": "pu_0023",
+    "song_name": "SNAKE (Official Music Video) Cheema Y | Gur Sidhu | New Punjabi Song 2024",
+    "artist": "New Punjabi Song 2024",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 37,
+    "views": 141168434,
+    "likes": 728812,
+    "published_days_ago": 553,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Brown Town Music",
+    "youtube_id": "Il4vvuBF5DI"
+  },
+  {
+    "id": "pu_0024",
+    "song_name": "TRUMP (Official Music Video) Cheema Y | Gur Sidhu | New Punjabi Song 2024",
+    "artist": "New Punjabi Song 2024",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 137546342,
+    "likes": 887746,
+    "published_days_ago": 618,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Brown Town Music",
+    "youtube_id": "nSstUsPpRUk"
+  },
+  {
+    "id": "pu_0025",
+    "song_name": "Goin Off Karan Aujla | Mxrci | Latest Punjabi Songs 2024",
+    "artist": "Latest Punjabi Songs 2024",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 118684105,
+    "likes": 742876,
+    "published_days_ago": 715,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Rehaan Records",
+    "youtube_id": "pLQw0DbubdM"
+  },
+  {
+    "id": "pu_0026",
+    "song_name": "Tu Jo Mileya | Official Video | Juss x MixSingh | New Punjabi Love Song 2026 | Latest Punjabi Song",
+    "artist": "Latest Punjabi Song",
+    "mood": [
+      "romantic",
+      "sad",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 115390239,
+    "likes": 726943,
+    "published_days_ago": 815,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Times Music",
+    "youtube_id": "kR2Tlxzi5Is"
+  },
+  {
+    "id": "pu_0027",
+    "song_name": "Got You | G Khan | Jasmeen Akhtar | Rukhsar | Fateh Shergill | Kulshan Sandhu | New Punjabi Song",
+    "artist": "New Punjabi Song",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 37,
+    "views": 111644298,
+    "likes": 498496,
+    "published_days_ago": 526,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Organised Rhyme",
+    "youtube_id": "_RywJ_FJ_3U"
+  },
+  {
+    "id": "pu_0028",
+    "song_name": "Pani di gal | new punjabi song | desi jatt | Maninder Butter #shorts #trending #animallover #jatt",
+    "artist": "Maninder Butter #shorts #trending #animallover #jatt",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 111346176,
+    "likes": 1345626,
+    "published_days_ago": 1764,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Ekam Maan",
+    "youtube_id": "EOOMdhYKNsw"
+  },
+  {
+    "id": "pu_0029",
+    "song_name": "At Peace Karan Aujla | Latest Punjabi Songs 2025",
+    "artist": "Latest Punjabi Songs 2025",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "travel"
+    ],
+    "trend_score": 50,
+    "views": 107197514,
+    "likes": 701442,
+    "published_days_ago": 302,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "Rehaan Records",
+    "youtube_id": "jVVwYXV22zg"
+  },
+  {
+    "id": "pu_0030",
+    "song_name": "R Nait | Distance Age | Ft Gurlej Akhtar | Latest Punjabi Song 2020 | Speed Records",
+    "artist": "Speed Records",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 93498303,
+    "likes": 889831,
+    "published_days_ago": 2100,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "pO2witxHuj0"
+  },
+  {
+    "id": "pu_0031",
+    "song_name": "Latest Punjabi Songs 2024 - Lahore (Full Video) Gulab Sidhu | Jang Dhillon | New Punjabi Songs 2024",
+    "artist": "Lahore (Full Video) Gulab Sidhu | Jang Dhillon | New Punjabi",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 85411728,
+    "likes": 389881,
+    "published_days_ago": 520,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Gulab Sidhu Music",
+    "youtube_id": "WGixRvyCR00"
+  },
+  {
+    "id": "pu_0032",
+    "song_name": "Deewane (Official Video ) Navaan Sandhu Ft Bir | Daaku | New Punjabi Songs 2025",
+    "artist": "New Punjabi Songs 2025",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 57,
+    "views": 108397515,
+    "likes": 686618,
+    "published_days_ago": 180,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.69,
+    "aesthetic_tags": [],
+    "channel": "Navaan Sandhu",
+    "youtube_id": "B-2BCSxnyHA"
+  },
+  {
+    "id": "pu_0033",
+    "song_name": "60 Pound Gulab Sidhu | Gurlez Akhtar | Jang Dhillon | Iris Music | New Punjabi Song",
+    "artist": "New Punjabi Song",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 83914692,
+    "likes": 493243,
+    "published_days_ago": 659,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Leaf Records",
+    "youtube_id": "nrrVJEaHAPI"
+  },
+  {
+    "id": "pu_0034",
+    "song_name": "Mera Mann : Juss Feat. Parul Gulati & Mix Singh | Latest Punjabi Song 2024 | New Punjabi Song 2024",
+    "artist": "New Punjabi Song 2024",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 80256515,
+    "likes": 634223,
+    "published_days_ago": 525,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "QwL0rLScmyU"
+  },
+  {
+    "id": "pu_0035",
+    "song_name": "SIFAR SAFAR (Music Video) KARAN AUJLA  |  LATEST PUNJABI SONGS 2024",
+    "artist": "LATEST PUNJABI SONGS 2024",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 80371322,
+    "likes": 562576,
+    "published_days_ago": 553,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Rehaan Records",
+    "youtube_id": "TU1HQnU_9ME"
+  },
+  {
+    "id": "pu_0036",
+    "song_name": "Diljit Dosanjh: Born To Shine (Official Music Video) G.O.A.T",
+    "artist": "Diljit Dosanjh",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 39,
+    "views": 511681628,
+    "likes": 3521989,
+    "published_days_ago": 2057,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "Diljit Dosanjh",
+    "youtube_id": "dCmp56tSSmA"
+  },
+  {
+    "id": "pu_0037",
+    "song_name": "LEHNGA : DILJIT DOSANJH | NEERU BAJWA | LATEST PUNJABI SONGS 2024 | NEW PUNJABI SONGS 2024",
+    "artist": "NEW PUNJABI SONGS 2024",
+    "mood": [
+      "romantic",
+      "sad",
+      "nostalgic"
+    ],
+    "context": [
+      "travel"
+    ],
+    "trend_score": 35,
+    "views": 359791335,
+    "likes": 957970,
+    "published_days_ago": 673,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "G8PU1HjZZj4"
+  },
+  {
+    "id": "pu_0038",
+    "song_name": "Diljit Dosanjh - G.O.A.T. (Official Music Video)",
+    "artist": "G.O.A.T. (Official Music Video)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 35,
+    "views": 356268663,
+    "likes": 2895514,
+    "published_days_ago": 2095,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Diljit Dosanjh",
+    "youtube_id": "cl0a3i2wFcc"
+  },
+  {
+    "id": "pu_0039",
+    "song_name": "Hass Hass Diljit X Sia",
+    "artist": "Diljit Dosanjh",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 340887224,
+    "likes": 1868922,
+    "published_days_ago": 910,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Diljit Dosanjh",
+    "youtube_id": "jADTdg-o8i0"
+  },
+  {
+    "id": "pu_0040",
+    "song_name": "Diljit Dosanjh | Raat Di Gedi Neeru Bajwa | Jatinder Shah| Latest Punjabi Song 2018",
+    "artist": "Latest Punjabi Song 2018",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 232957968,
+    "likes": 1531405,
+    "published_days_ago": 3044,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "RQaVzbxZqXY"
+  },
+  {
+    "id": "pu_0041",
+    "song_name": "Diljit Dosanjh: Lalkaara (Video) Feat. Sultaan | GHOST | Intense, Raj Ranjodh",
+    "artist": "Intense, Raj Ranjodh",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 208627732,
+    "likes": 1048153,
+    "published_days_ago": 915,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Diljit Dosanjh",
+    "youtube_id": "-mgGnx1p3b8"
+  },
+  {
+    "id": "pu_0042",
+    "song_name": "Diljit Dosanjh: LOVER (Official Music Video) Intense | Raj Ranjodh | MoonChild Era",
+    "artist": "MoonChild Era",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 199622508,
+    "likes": 1279717,
+    "published_days_ago": 1707,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Diljit Dosanjh",
+    "youtube_id": "mH_LFkWxpI0"
+  },
+  {
+    "id": "pu_0043",
+    "song_name": "Naina | Crew | Diljit Dosanjh, Ft. Badshah | Tabu, Kareena Kapoor Khan, Kriti Sanon | Raj Ranjodh",
+    "artist": "Raj Ranjodh",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 192041886,
+    "likes": 812709,
+    "published_days_ago": 780,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Tips Official",
+    "youtube_id": "3u6lLWGjFLY"
+  },
+  {
+    "id": "pu_0044",
+    "song_name": "Choli Ke Peeche | Crew - Kareena Kapoor K, @diljitdosanjh, Ila Arun, Alka Yagnik, Akshay & IP",
+    "artist": "Kareena Kapoor K, @diljitdosanjh, Ila Arun, Alka Yagnik, Aks",
+    "mood": [
+      "romantic",
+      "energetic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 180001110,
+    "likes": 590681,
+    "published_days_ago": 765,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Tips Official",
+    "youtube_id": "co4EBYZZhg4"
+  },
+  {
+    "id": "pu_0045",
+    "song_name": "Putt Jatt Da (OfficialVideo ) | Diljit Dosanjh | Ikka I Kaater I Latest Songs 2024 | New Songs",
+    "artist": "New Songs",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 173442170,
+    "likes": 1403185,
+    "published_days_ago": 2736,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "In0oiD2PDSc"
+  },
+  {
+    "id": "pu_0046",
+    "song_name": "Diljit Dosanjh: CASE GHOST",
+    "artist": "Diljit Dosanjh",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 170962881,
+    "likes": 918425,
+    "published_days_ago": 932,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Diljit Dosanjh",
+    "youtube_id": "g-Ij0idc_dk"
+  },
+  {
+    "id": "pu_0047",
+    "song_name": "Poplin | Sardaarji 2 | Diljit Dosanjh, Sonam Bajwa, Monica Gill | Latest Punjabi Song",
+    "artist": "Latest Punjabi Song",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 167967965,
+    "likes": 534353,
+    "published_days_ago": 3613,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "RvoZGmpL_7Y"
+  },
+  {
+    "id": "pu_0048",
+    "song_name": "Happy Birthday | Disco Singh | Diljit Dosanjh | Surveen Chawla | Latest Punjabi Songs 2024",
+    "artist": "Latest Punjabi Songs 2024",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 142004889,
+    "likes": 899800,
+    "published_days_ago": 4406,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "sqkzN2Ye_pk"
+  },
+  {
+    "id": "pu_0049",
+    "song_name": "Diljit Dosanjh: CLASH (Official) Music Video | G.O.A.T.",
+    "artist": "G.O.A.T.",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 126336544,
+    "likes": 985439,
+    "published_days_ago": 2082,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Diljit Dosanjh",
+    "youtube_id": "KX06ksuS6Xo"
+  },
+  {
+    "id": "pu_0050",
+    "song_name": "Nain Matakka | Baby John | Varun Dhawan, Keerthy Suresh, Diljit Dosanjh | Dhee, Thaman S, Irshad K",
+    "artist": "Dhee, Thaman S, Irshad K",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 124090838,
+    "likes": 707924,
+    "published_days_ago": 515,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "q8TTdhoxWm8"
+  },
+  {
+    "id": "pu_0051",
+    "song_name": "HAYE JULIET: DILJIT DOSANJH | JAANI | NEERU BAJWA |LATEST PUNJABI SONGS 2024 |NEW PUNJABI SONGS 2024",
+    "artist": "NEW PUNJABI SONGS 2024",
+    "mood": [
+      "romantic",
+      "sad",
+      "nostalgic"
+    ],
+    "context": [
+      "travel"
+    ],
+    "trend_score": 30,
+    "views": 101277571,
+    "likes": 373108,
+    "published_days_ago": 678,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "Dulnr8YvJW8"
+  },
+  {
+    "id": "pu_0052",
+    "song_name": "Diljit Dosanjh: Peaches (Official Music Video) Intense | Raj Ranjodh | Drive Thru",
+    "artist": "Drive Thru",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 88917301,
+    "likes": 582007,
+    "published_days_ago": 1379,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Diljit Dosanjh",
+    "youtube_id": "s0JTpcDu1Tk"
+  },
+  {
+    "id": "pu_0053",
+    "song_name": "Chauffeur: Official Music Video | Diljit Dosanjh x Tory Lanez | Ikky",
+    "artist": "Ikky",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 85430164,
+    "likes": 845239,
+    "published_days_ago": 1471,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Diljit Dosanjh",
+    "youtube_id": "6nxrllqnP2Q"
+  },
+  {
+    "id": "pu_0054",
+    "song_name": "Diljit Dosanjh: Tension (Official Music Video) Advisory",
+    "artist": "Diljit Dosanjh",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 42,
+    "views": 77708816,
+    "likes": 574218,
+    "published_days_ago": 442,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "Diljit Dosanjh",
+    "youtube_id": "hNgI9E_-v24"
+  },
+  {
+    "id": "pu_0055",
+    "song_name": "Kufar I Official Video | Diljit Dosanjh I Manushi Chhillar | Aura I Raj Ranjodh I MixSingh",
+    "artist": "Aura I Raj Ranjodh I MixSingh",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 75901694,
+    "likes": 355190,
+    "published_days_ago": 191,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Diljit Dosanjh",
+    "youtube_id": "WVq1siHnPxI"
+  },
+  {
+    "id": "pu_0056",
+    "song_name": "BROWN MUNDE - AP DHILLON | GURINDER GILL | SHINDA KAHLON (Official Music Video)",
+    "artist": "AP DHILLON | GURINDER GILL | SHINDA KAHLON (Official Music V",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 49,
+    "views": 770211990,
+    "likes": 7659884,
+    "published_days_ago": 2044,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "APDHILLON",
+    "youtube_id": "VNs_cCtdbPc"
+  },
+  {
+    "id": "pu_0057",
+    "song_name": "Tauba Tauba | Bad Newz | Vicky Kaushal | Triptii Dimri | Karan Aujla",
+    "artist": "Karan Aujla",
+    "mood": [
+      "happy",
+      "energetic"
+    ],
+    "context": [
+      "party",
+      "travel"
+    ],
+    "trend_score": 43,
+    "views": 573257278,
+    "likes": 2696015,
+    "published_days_ago": 661,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "Saregama Music",
+    "youtube_id": "LK7-_dgAVQE"
+  },
+  {
+    "id": "pu_0058",
+    "song_name": "Jhol | Coke Studio Pakistan | Season 15 | Maanu x Annural Khalid",
+    "artist": "Maanu x Annural Khalid",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 42,
+    "views": 542053510,
+    "likes": 3495369,
+    "published_days_ago": 678,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "Coke Studio Pakistan",
+    "youtube_id": "-2RAq5o5pwc"
+  },
+  {
+    "id": "pu_0059",
+    "song_name": "Excuses | AP Dhillon | Gurinder Gill | Intense",
+    "artist": "Intense",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 41,
+    "views": 539772255,
+    "likes": 4595976,
+    "published_days_ago": 2100,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "Intense",
+    "youtube_id": "vX2cDW8LUWk"
+  },
+  {
+    "id": "pu_0060",
+    "song_name": "MILLIONAIRE SONG (Full Video): @YoYoHoneySingh  | GLORY | BHUSHAN KUMAR",
+    "artist": "BHUSHAN KUMAR",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 49,
+    "views": 468143699,
+    "likes": 6391777,
+    "published_days_ago": 606,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "XO8wew38VM8"
+  },
+  {
+    "id": "pu_0061",
+    "song_name": "SOFTLY (Official Music Video) KARAN AUJLA | IKKY | LATEST PUNJABI SONGS 2023",
+    "artist": "LATEST PUNJABI SONGS 2023",
+    "mood": [
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 461183298,
+    "likes": 2142221,
+    "published_days_ago": 914,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Karan Aujla",
+    "youtube_id": "cWMxCE2HTag"
+  },
+  {
+    "id": "pu_0062",
+    "song_name": "Shubh - Cheques (Official Music Video)",
+    "artist": "Cheques (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 461105682,
+    "likes": 3450882,
+    "published_days_ago": 1008,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "SHUBH",
+    "youtube_id": "4tywp83zkmk"
+  },
+  {
+    "id": "pu_0063",
+    "song_name": "Dhanda Nyoliwala - Russian Bandana (Music Video) | Deepesh Goyal | VYRL Haryanvi",
+    "artist": "Russian Bandana (Music Video) | Deepesh Goyal | VYRL Haryanv",
+    "mood": [
+      "energetic",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 44,
+    "views": 409870419,
+    "likes": 2959060,
+    "published_days_ago": 589,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "VYRL Haryanvi",
+    "youtube_id": "1OAjeECW90E"
+  },
+  {
+    "id": "pu_0064",
+    "song_name": "Ishq Official Lyrical Video I Amir Ameer | Faheem Abdullah | Rauhan Malik I Love Song 2024",
+    "artist": "Rauhan Malik I Love Song 2024",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 35,
+    "views": 407948489,
+    "likes": 2522675,
+    "published_days_ago": 748,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Artiste First",
+    "youtube_id": "hHuG7FIKgtc"
+  },
+  {
+    "id": "pu_0065",
+    "song_name": "GURU RANDHAWA - \"AZUL\"  MV",
+    "artist": "\"AZUL\"  MV",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 58,
+    "views": 290113393,
+    "likes": 1908349,
+    "published_days_ago": 261,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.69,
+    "aesthetic_tags": [],
+    "channel": "Guru Randhawa",
+    "youtube_id": "vB0V3iCSzQw"
+  },
+  {
+    "id": "pu_0066",
+    "song_name": "Talja Jassa Dhillon | Deepak Dhillon | Gur Sidhu | Punjabi Song | Above All Album",
+    "artist": "Above All Album",
+    "mood": [
+      "sad"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 272279890,
+    "likes": 2208044,
+    "published_days_ago": 1833,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Brown Town Music",
+    "youtube_id": "wyQg8bBIwLE"
+  },
+  {
+    "id": "pu_0067",
+    "song_name": "With You - AP Dhillon (Official Music Video)",
+    "artist": "AP Dhillon (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 237580962,
+    "likes": 1698907,
+    "published_days_ago": 987,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "APDHILLON",
+    "youtube_id": "mZQH8CPQ-wo"
+  },
+  {
+    "id": "pu_0068",
+    "song_name": "Aaye Haaye | Karan Aujla, Nora Fatehi, Neha Kakkar, Jay Trak | Bhushan Kumar",
+    "artist": "Bhushan Kumar",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 42,
+    "views": 208836323,
+    "likes": 1205770,
+    "published_days_ago": 505,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "uChhQpHMmXE"
+  },
+  {
+    "id": "pu_0069",
+    "song_name": "Guru Randhawa - SIRRA ( Official Video )",
+    "artist": "SIRRA ( Official Video )",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 205792833,
+    "likes": 1483141,
+    "published_days_ago": 297,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Guru Randhawa",
+    "youtube_id": "knGCfzm4jWs"
+  },
+  {
+    "id": "pu_0070",
+    "song_name": "Shubh - Supreme (Official Music Video)",
+    "artist": "Supreme (Official Music Video)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 49,
+    "views": 187674938,
+    "likes": 1387638,
+    "published_days_ago": 371,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "SHUBH",
+    "youtube_id": "AX1zRInC_TA"
+  },
+  {
+    "id": "pu_0071",
+    "song_name": "Phulkari : Karan Randhawa Simar Kaur | Rav Dhillon | GK Digital | Geet MP3",
+    "artist": "Geet MP3",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 412809788,
+    "likes": 3132364,
+    "published_days_ago": 1992,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Geet MP3",
+    "youtube_id": "gY0et3otYbc"
+  },
+  {
+    "id": "pu_0072",
+    "song_name": "Chitta Kurta (Full video) Karan Aujla feat. Gurlez Akhtar | Deep jandu | Punjabi Songs 2019",
+    "artist": "Punjabi Songs 2019",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 345468659,
+    "likes": 2239682,
+    "published_days_ago": 2334,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Rehaan Records",
+    "youtube_id": "o9PY6NsB3_E"
+  },
+  {
+    "id": "pu_0073",
+    "song_name": "Guilty : Inder Chahal | Karan Aujla | Shraddha Arya | Punjabi Songs",
+    "artist": "Punjabi Songs",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 269127532,
+    "likes": 3009030,
+    "published_days_ago": 1930,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Savage Rechords",
+    "youtube_id": "B8G3zCnZvMU"
+  },
+  {
+    "id": "pu_0074",
+    "song_name": "Don't Look (4K Video) Karan Aujla | Rupan Bal | Jay Trak | Latest Punjabi Songs 2019",
+    "artist": "Latest Punjabi Songs 2019",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 248884615,
+    "likes": 2017139,
+    "published_days_ago": 2615,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Rehaan Records",
+    "youtube_id": "6Pd-3nvYDRk"
+  },
+  {
+    "id": "pu_0075",
+    "song_name": "52 Bars  Karan Aujla | Ikky | Four You EP | First Song | Latest Punjabi Songs 2023",
+    "artist": "Latest Punjabi Songs 2023",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 224078718,
+    "likes": 1728547,
+    "published_days_ago": 1176,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Karan Aujla",
+    "youtube_id": "4DfVxVeqk2o"
+  },
+  {
+    "id": "pu_0076",
+    "song_name": "Jhanjar (Full Video) Karan Aujla | Desi Crew | Latest Punjabi Songs 2020",
+    "artist": "Latest Punjabi Songs 2020",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 203909448,
+    "likes": 1929599,
+    "published_days_ago": 2288,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Rehaan Records",
+    "youtube_id": "ZnGMxARIxoY"
+  },
+  {
+    "id": "pu_0077",
+    "song_name": "Badshah X Karan Aujla - Players | 3:00 AM Sessions",
+    "artist": "Players (Official Video) | 3:00 AM Sessions",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 198333722,
+    "likes": 1604423,
+    "published_days_ago": 1220,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Badshah",
+    "youtube_id": "CeFQO9MQNqs"
+  },
+  {
+    "id": "pu_0078",
+    "song_name": "Adhiya : Karan Aujla | YeahProof | Punjabi Song",
+    "artist": "Punjabi Song",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 190155252,
+    "likes": 1907247,
+    "published_days_ago": 2009,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Street Gang Music",
+    "youtube_id": "zsmcSN7sW0s"
+  },
+  {
+    "id": "pu_0079",
+    "song_name": "Mexico Koka | Karan Aujla (Full Video) Mahira Sharma Latest Punjabi Song 2021",
+    "artist": "Karan Aujla (Full Video) Mahira Sharma Latest Punjabi Song 2",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 176772371,
+    "likes": 2005478,
+    "published_days_ago": 1876,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Single Track Studio",
+    "youtube_id": "2sAzb3kraoQ"
+  },
+  {
+    "id": "pu_0080",
+    "song_name": "HINT (Full Video) Karan Aujla | Rupan Bal | Jay Trak | Latest Punjabi Songs 2019",
+    "artist": "Latest Punjabi Songs 2019",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 159671769,
+    "likes": 1262668,
+    "published_days_ago": 2361,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Rehaan Records",
+    "youtube_id": "cHwQowOzAf0"
+  },
+  {
+    "id": "pu_0081",
+    "song_name": "KARAN AUJLA | Chithiyaan | Desi Crew | Rupan Bal | Latest Punjabi Songs 2020",
+    "artist": "Latest Punjabi Songs 2020",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 157632808,
+    "likes": 1942266,
+    "published_days_ago": 1990,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "M4DwGuTINsc"
+  },
+  {
+    "id": "pu_0082",
+    "song_name": "Take It Easy Karan Aujla. | Ikky | Four You EP | Latest Punjabi Songs 2023",
+    "artist": "Latest Punjabi Songs 2023",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 130099229,
+    "likes": 842510,
+    "published_days_ago": 1163,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Rehaan Records",
+    "youtube_id": "Guq9Vl8dK30"
+  },
+  {
+    "id": "pu_0083",
+    "song_name": "8 Parche | Baani Sandhu | Gur Sidhu | Gurneet Dosanjh | Punjabi Song | Ishtar Punjabi #punjabisong",
+    "artist": "Ishtar Punjabi #punjabisong",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1196065357,
+    "likes": 6557968,
+    "published_days_ago": 2416,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Ishtar Punjabi",
+    "youtube_id": "8WWv5_k8D14"
+  },
+  {
+    "id": "pu_0084",
+    "song_name": "Trending Nakhra : Amrit Maan ft. Ginni Kapoor | Intense | Punjabi Song",
+    "artist": "Punjabi Song",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 365101910,
+    "likes": 2084589,
+    "published_days_ago": 2962,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Bamb Beats",
+    "youtube_id": "nqzIQh2D_Es"
+  },
+  {
+    "id": "pu_0085",
+    "song_name": "BAROTA (MUSIC VIDEO) SIDHU MOOSE WALA | THE KIDD | LATEST PUNJABI SONGS 2025",
+    "artist": "LATEST PUNJABI SONGS 2025",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 71,
+    "views": 108036755,
+    "likes": 2908113,
+    "published_days_ago": 147,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.76,
+    "aesthetic_tags": [],
+    "channel": "Sidhu Moose Wala",
+    "youtube_id": "tHVDy4vYApA"
+  },
+  {
+    "id": "pu_0086",
+    "song_name": "Defender (Full Video) Harf Cheema - Sudesh Kumari - Sruishty Mann - Latest Punjabi Song - Geet MP3",
+    "artist": "Geet MP3",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "travel"
+    ],
+    "trend_score": 39,
+    "views": 98886237,
+    "likes": 413244,
+    "published_days_ago": 476,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "Geet MP3",
+    "youtube_id": "OKDGEYVzIGI"
+  },
+  {
+    "id": "pu_0087",
+    "song_name": "JORDAN SANDHU : Tareefan | Mehar Vaani | Sargun Mehta | Sidhus Of Southall | Punjabi Love Songs",
+    "artist": "Punjabi Love Songs",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 91890688,
+    "likes": 427596,
+    "published_days_ago": 979,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "White Hill Music",
+    "youtube_id": "P-FF3wqE69Y"
+  },
+  {
+    "id": "pu_0088",
+    "song_name": "KOKA GAANI Ranjit Bawa | Bunty Bains | Desi Crew | Kulmeet | New Punjabi Song 2025",
+    "artist": "New Punjabi Song 2025",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 48,
+    "views": 89141304,
+    "likes": 301334,
+    "published_days_ago": 293,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.64,
+    "aesthetic_tags": [],
+    "channel": "Brand B",
+    "youtube_id": "6kBkiENmCag"
+  },
+  {
+    "id": "pu_0089",
+    "song_name": "Same Beef Song | BOHEMIA | Ft. Sidhu Moose Wala | Byg Byrd | Punjabi Song | Rap Song | Music Video",
+    "artist": "Music Video",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 45,
+    "views": 666778117,
+    "likes": 6226645,
+    "published_days_ago": 2440,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "YRF",
+    "youtube_id": "qk2WMmiiVFE"
+  },
+  {
+    "id": "pu_0090",
+    "song_name": "Angreji Beat: Yo Yo Honey Singh |Gippy Grewal|International Villager | New Punjabi Songs",
+    "artist": "New Punjabi Songs",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 194039819,
+    "likes": 1841744,
+    "published_days_ago": 5230,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "Iu8210k9WQc"
+  },
+  {
+    "id": "pu_0091",
+    "song_name": "Dhanda Nyoliwala - Up To U (Official Music Video) | New Rap Song 2022",
+    "artist": "Up To U (Official Music Video) | New Rap Song 2022",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 155766994,
+    "likes": 1208126,
+    "published_days_ago": 1308,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "FarArmy Productions",
+    "youtube_id": "T0H_LWLiOGk"
+  },
+  {
+    "id": "pu_0092",
+    "song_name": "COURTSIDE (OFFICIAL MUSIC VIDEO) KARAN AUJLA  | LATEST PUNJABI SONGS 2025",
+    "artist": "LATEST PUNJABI SONGS 2025",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "nature"
+    ],
+    "trend_score": 48,
+    "views": 123794720,
+    "likes": 686700,
+    "published_days_ago": 346,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.64,
+    "aesthetic_tags": [],
+    "channel": "Karan Aujla",
+    "youtube_id": "Z8IRRphKFZA"
+  },
+  {
+    "id": "pu_0093",
+    "song_name": "Bachke Bachke (Full Video) Karan Aujla I Ikky | Latest Punjabi Songs 2023",
+    "artist": "Latest Punjabi Songs 2023",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 122822973,
+    "likes": 706422,
+    "published_days_ago": 890,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Rehaan Records",
+    "youtube_id": "fRJ03btNsao"
+  },
+  {
+    "id": "pu_0094",
+    "song_name": "MAJHAIL (OFFICIAL VIDEO) | AP DHILLON | GURINDER GILL | MANNI SANDHU | LATEST PUNJABI SONGS 2020",
+    "artist": "LATEST PUNJABI SONGS 2020",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 118188435,
+    "likes": 960506,
+    "published_days_ago": 2135,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Collab Creations",
+    "youtube_id": "yzIyufV6ADk"
+  },
+  {
+    "id": "pu_0095",
+    "song_name": "MF GABHRU! KARAN AUJLA | IKKY | Latest Punjabi Songs 2025",
+    "artist": "Latest Punjabi Songs 2025",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 103366751,
+    "likes": 896566,
+    "published_days_ago": 266,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Karan Aujla",
+    "youtube_id": "Fbv6-50S1lc"
+  },
+  {
+    "id": "pu_0096",
+    "song_name": "What We Do (Official Music Video) - Jxggi | Sickboi",
+    "artist": "Jxggi | Sickboi",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 85548530,
+    "likes": 262802,
+    "published_days_ago": 573,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Jxggi",
+    "youtube_id": "IdML5RUzx34"
+  },
+  {
+    "id": "pu_0097",
+    "song_name": "Teri Black Dress | Official Song | PRNC | Aatma Music | Punjabi Song | Latest Hindi Song 2018",
+    "artist": "Latest Hindi Song 2018",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 78043439,
+    "likes": 544132,
+    "published_days_ago": 2832,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Aatma Music",
+    "youtube_id": "e1BxHIS9TMc"
+  },
+  {
+    "id": "pu_0098",
+    "song_name": "I REALLY DO (MUSIC VIDEO) KARAN AUJLA| IKKY | Aveera | Latest Punjabi Songs 2025",
+    "artist": "Latest Punjabi Songs 2025",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 75735601,
+    "likes": 531319,
+    "published_days_ago": 220,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Karan Aujla",
+    "youtube_id": "K9R7KcaettM"
+  },
+  {
+    "id": "pu_0099",
+    "song_name": "KHAAB | AKHIL | PARMISH VERMA |  PUNJABI SONG 2025 | CROWN RECORDS | LATEST PUNJABI 2025 |",
+    "artist": "",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 982212326,
+    "likes": 7085771,
+    "published_days_ago": 3722,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Crown Records",
+    "youtube_id": "2eliQ_KR8yA"
+  },
+  {
+    "id": "pu_0100",
+    "song_name": "Prada : Jass Manak Satti Dhillon - Romantic Song - Hit Punjabi Song - Geet MP3",
+    "artist": "Geet MP3",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 937603484,
+    "likes": 6742512,
+    "published_days_ago": 2872,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "Geet MP3",
+    "youtube_id": "PjTU0DmBWiU"
+  },
+  {
+    "id": "pu_0101",
+    "song_name": "ISHARE TERE Song | Guru Randhawa, Dhvani Bhanushali | DirectorGifty | Bhushan Kumar",
+    "artist": "Bhushan Kumar",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 45,
+    "views": 745888716,
+    "likes": 3955278,
+    "published_days_ago": 2830,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "8nGFWWJLHio"
+  },
+  {
+    "id": "pu_0102",
+    "song_name": "Sheh : Singga | Ellde Fazilka | Latest Punjabi Romantic Song | Vaaho Entertainments",
+    "artist": "Vaaho Entertainments",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 386319487,
+    "likes": 2863430,
+    "published_days_ago": 2435,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Vaaho Entertainments",
+    "youtube_id": "o7ifbZsxfTU"
+  },
+  {
+    "id": "pu_0103",
+    "song_name": "Kaka : Teeji Seat Aakansha | New Punjabi Songs 2021-Latest Punjabi Songs 2020 2021",
+    "artist": "New Punjabi Songs 2021-Latest Punjabi Songs 2020 2021",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 338410179,
+    "likes": 3747824,
+    "published_days_ago": 1903,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Yaarvelly Productions",
+    "youtube_id": "terrX5lNBkU"
+  },
+  {
+    "id": "pu_0104",
+    "song_name": "KAKA New Punjabi Song - Mitti De Tibbe | Afsha Khan | Latest Punjabi Songs 2026",
+    "artist": "Mitti De Tibbe (Official Video) | Afsha Khan | Latest Punjab",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 300354238,
+    "likes": 2970421,
+    "published_days_ago": 1366,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Times Music",
+    "youtube_id": "dRr_eF3YifA"
+  },
+  {
+    "id": "pu_0105",
+    "song_name": "Girlfriend : Jass Manak Satti Dhillon | Snappy | GK DIGITAL | Geet MP3",
+    "artist": "Geet MP3",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 35,
+    "views": 275233753,
+    "likes": 3157863,
+    "published_days_ago": 2627,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Geet MP3",
+    "youtube_id": "Stkx7UrtiBs"
+  },
+  {
+    "id": "pu_0106",
+    "song_name": "Kulwinder Billa Time Table 2 (ਟਾਈਮ ਟੇਬਲ 2) Full Video | Latest Punjabi Song 2015",
+    "artist": "Latest Punjabi Song 2015",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 249690585,
+    "likes": 787931,
+    "published_days_ago": 3809,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series Apna Punjab",
+    "youtube_id": "ZFybffBA8Oc"
+  },
+  {
+    "id": "pu_0107",
+    "song_name": "Sohne Lagde Sidhu Moose Wala ft The PropheC | Latest Punjabi Songs 2019",
+    "artist": "Latest Punjabi Songs 2019",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 247695374,
+    "likes": 1849876,
+    "published_days_ago": 2475,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Sidhu Moose Wala",
+    "youtube_id": "9VGJdP5HtZc"
+  },
+  {
+    "id": "pu_0108",
+    "song_name": "Mera Yaar (Full Video) LEKH | Gurnam Bhullar | Tania | B Praak | Jaani | Jagdeep Sidhu",
+    "artist": "Jagdeep Sidhu",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 188201538,
+    "likes": 1455246,
+    "published_days_ago": 1491,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Ishtar Punjabi",
+    "youtube_id": "QHJstKwI0Ic"
+  },
+  {
+    "id": "pu_0109",
+    "song_name": "Parshawan - Harnoor Gifty | JayB Singh | ICan Films | @LegacyRecords",
+    "artist": "Harnoor (Official Video) Gifty | JayB Singh | ICan Films | @",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 182657367,
+    "likes": 1749438,
+    "published_days_ago": 1779,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Legacy Records",
+    "youtube_id": "jn77BhLMGc8"
+  },
+  {
+    "id": "pu_0110",
+    "song_name": "Kismat Teri (Officical Video) : Inder Chahal | Shivangi Joshi | Babbu | Punjabi Song",
+    "artist": "Punjabi Song",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 179233099,
+    "likes": 1347391,
+    "published_days_ago": 1857,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Savage Rechords",
+    "youtube_id": "PEU8cdL4RAg"
+  },
+  {
+    "id": "pu_0111",
+    "song_name": "Daru Badnaam | Kamal Kahlon & Param Singh | Official Video | Pratik Studio | Latest Punjabi Songs",
+    "artist": "Latest Punjabi Songs",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1209969054,
+    "likes": 6562864,
+    "published_days_ago": 3407,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "VIP Records",
+    "youtube_id": "bzW9fmwcmG4"
+  },
+  {
+    "id": "pu_0112",
+    "song_name": "Kala Chashma | Baar Baar Dekho | Sidharth M Katrina K | Prem, Hardeep, Badshah, Kam, Neha, Indeep",
+    "artist": "Prem, Hardeep, Badshah, Kam, Neha, Indeep",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 52,
+    "views": 1167709447,
+    "likes": 4107836,
+    "published_days_ago": 3558,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "k4yXQkG2s1E"
+  },
+  {
+    "id": "pu_0113",
+    "song_name": "\"3 Peg Sharry Mann\" (Full Video) | Mista Baaz | Parmish Verma | Ravi Raj | Latest Punjabi Songs 2016",
+    "artist": "Latest Punjabi Songs 2016",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 51,
+    "views": 954701951,
+    "likes": 4005686,
+    "published_days_ago": 3415,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "T-Series Apna Punjab",
+    "youtube_id": "hzTg4zPBtDU"
+  },
+  {
+    "id": "pu_0114",
+    "song_name": "Official Video: Nikle Currant Song | Jassi Gill | Neha Kakkar | Sukh-E Muzical Doctorz | Jaani",
+    "artist": "Jaani",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 51,
+    "views": 950631227,
+    "likes": 4736557,
+    "published_days_ago": 2751,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "uBaqgt5V0mU"
+  },
+  {
+    "id": "pu_0115",
+    "song_name": "So High | Sidhu Moose Wala ft. BYG BYRD | Humble Music",
+    "artist": "Humble Music",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 934852175,
+    "likes": 8584322,
+    "published_days_ago": 3179,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Humble Music",
+    "youtube_id": "GgmFC8y8q3k"
+  },
+  {
+    "id": "pu_0116",
+    "song_name": "Kaka New Song | Kale Je Libaas Di Ginni Kapoor | Punjabi song",
+    "artist": "Punjabi song",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 51,
+    "views": 862549270,
+    "likes": 8667442,
+    "published_days_ago": 1963,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "Single Track Studio",
+    "youtube_id": "V5En3Ks3OjE"
+  },
+  {
+    "id": "pu_0117",
+    "song_name": "295 (Official Audio) | Sidhu Moose Wala | The Kidd | Moosetape",
+    "artist": "Moosetape",
+    "mood": [
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 818389649,
+    "likes": 12230611,
+    "published_days_ago": 1745,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Sidhu Moose Wala",
+    "youtube_id": "n_FCrCQ6-bA"
+  },
+  {
+    "id": "pu_0118",
+    "song_name": "ILLEGAL WEAPON | GARRY SANDHU /JASMINE SANDLAS | INTENSE | FRESH MEDIA RECORDS",
+    "artist": "FRESH MEDIA RECORDS",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 45,
+    "views": 748854704,
+    "likes": 3617633,
+    "published_days_ago": 3129,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "Fresh Media Records",
+    "youtube_id": "H7_yY3yr-jE"
+  },
+  {
+    "id": "pu_0119",
+    "song_name": "Gypsy (Official Music Video) - Pranjal Dahiya & Dinesh Golan | GD Kaur | Haryanvi Song | Real Music",
+    "artist": "Pranjal Dahiya & Dinesh Golan | GD Kaur | Haryanvi Song | Re",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 39,
+    "views": 564882889,
+    "likes": 2779722,
+    "published_days_ago": 1445,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "Real Music",
+    "youtube_id": "cZSrWoBMSrg"
+  },
+  {
+    "id": "pu_0120",
+    "song_name": "SOLID BODY || Ajay Hooda & Anjali Raghav || Raju Punjabi & Sheenam || New song of 2015 || Mor Music",
+    "artist": "Mor Music",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 427560710,
+    "likes": 1346446,
+    "published_days_ago": 4035,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Mor Haryanvi",
+    "youtube_id": "ou-litQ9hWQ"
+  },
+  {
+    "id": "pu_0121",
+    "song_name": "Same Time Same Jagah (Chaar Din) ● Sandeep Brar ● Kulwinder Billa ● New Punjabi Songs",
+    "artist": "Lokdhun Punjabi",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 35,
+    "views": 412096954,
+    "likes": 1994684,
+    "published_days_ago": 3749,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Lokdhun Punjabi",
+    "youtube_id": "HC172grgTwU"
+  },
+  {
+    "id": "pu_0122",
+    "song_name": "KALI ACTIVA : PIND DE GERHE (Full Video) | Rupinder Handa | Latest Punjabi Songs",
+    "artist": "Latest Punjabi Songs",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 402571436,
+    "likes": 1410199,
+    "published_days_ago": 3945,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "T-Series Apna Punjab",
+    "youtube_id": "DXSDe1HF1VU"
+  },
+  {
+    "id": "pu_0123",
+    "song_name": "J STAR | HULARA | Full Official Music Video | Blockbuster Punjabi Song 2014",
+    "artist": "Blockbuster Punjabi Song 2014",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 371255524,
+    "likes": 2192975,
+    "published_days_ago": 4375,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "J STAR Productions",
+    "youtube_id": "hmjlQ4vPt4c"
+  },
+  {
+    "id": "pu_0124",
+    "song_name": "New Punjabi Songs 2020 | Sharara Shivjot | Latest Punjabi Songs 2020",
+    "artist": "Latest Punjabi Songs 2020",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 348506475,
+    "likes": 1798285,
+    "published_days_ago": 2054,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "T-Series Apna Punjab",
+    "youtube_id": "L7lHiqc8-O8"
+  },
+  {
+    "id": "pu_0125",
+    "song_name": "Guru Randhawa: High Rated Gabru Official Song | DirectorGifty | Bhushan Kumar | T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1305735356,
+    "likes": 6858189,
+    "published_days_ago": 3216,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "hjWf8A0YNSE"
+  },
+  {
+    "id": "pu_0126",
+    "song_name": "Guru Randhawa: Lahore Bhushan Kumar | Vee | DirectorGifty | T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1160725365,
+    "likes": 6584400,
+    "published_days_ago": 3053,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "dZ0fwJojhrs"
+  },
+  {
+    "id": "pu_0127",
+    "song_name": "Guru Randhawa: MADE IN INDIA | Bhushan Kumar | DirectorGifty | Elnaaz Norouzi | Vee",
+    "artist": "Vee",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 43,
+    "views": 669299790,
+    "likes": 3858927,
+    "published_days_ago": 2879,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "pnMQLrS5sTE"
+  },
+  {
+    "id": "pu_0128",
+    "song_name": "Patola Video Song | Blackmail | Irrfan Khan & Kirti Kulhari | Guru Randhawa",
+    "artist": "Guru Randhawa",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 40,
+    "views": 611028990,
+    "likes": 2110765,
+    "published_days_ago": 2972,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "z-ZEHL4Df-A"
+  },
+  {
+    "id": "pu_0129",
+    "song_name": "Suit Full Video Song | Guru Randhawa Feat. Arjun | T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 39,
+    "views": 585536760,
+    "likes": 2172844,
+    "published_days_ago": 3591,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "uQ763VvqiEM"
+  },
+  {
+    "id": "pu_0130",
+    "song_name": "Guru Randhawa: Ishq Tera | Nushrat Bharucha | Bhushan Kumar | T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 42,
+    "views": 579793528,
+    "likes": 4749500,
+    "published_days_ago": 2424,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "3KXZduvOfDo"
+  },
+  {
+    "id": "pu_0131",
+    "song_name": "Baby Girl | Guru Randhawa Dhvani Bhanushali | Remo D'Souza | Bhushan Kumar | Vee",
+    "artist": "Vee",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 41,
+    "views": 549939441,
+    "likes": 4322853,
+    "published_days_ago": 2031,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "pLhNdJNwGC8"
+  },
+  {
+    "id": "pu_0132",
+    "song_name": "PAYAL SONG: YO YO HONEY SINGH | NORA FATEHI | PARADOX | GLORY | BHUSHAN KUMAR",
+    "artist": "BHUSHAN KUMAR",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 49,
+    "views": 397027213,
+    "likes": 4068761,
+    "published_days_ago": 522,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "a-PAcmi5Kas"
+  },
+  {
+    "id": "pu_0133",
+    "song_name": "High Rated Gabru | Nawabzaade | Varun D, Shraddha K | Guru Randhawa | Raghav Punit Dharmesh",
+    "artist": "Raghav Punit Dharmesh",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 369075055,
+    "likes": 2059566,
+    "published_days_ago": 2857,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "DxCfhmYe-Cw"
+  },
+  {
+    "id": "pu_0134",
+    "song_name": "DANCE MERI RANI: Guru Randhawa Ft Nora Fatehi | Tanishk, Zahrah | Rashmi Virag, Bosco | Bhushan K",
+    "artist": "Bhushan K",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 34,
+    "views": 282919177,
+    "likes": 2839719,
+    "published_days_ago": 1585,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "G-XMiVMlLRI"
+  },
+  {
+    "id": "pu_0135",
+    "song_name": "SLOWLY SLOWLY | Guru Randhawa ft. Pitbull | Bhushan Kumar | DJ Shadow, Blackout, Vee, DJ MoneyWillz",
+    "artist": "DJ Shadow, Blackout, Vee, DJ MoneyWillz",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 34,
+    "views": 281612574,
+    "likes": 2720425,
+    "published_days_ago": 2562,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "hGsVLXnFgbA"
+  },
+  {
+    "id": "pu_0136",
+    "song_name": "Guru Randhawa: Downtown | Bhushan Kumar | DirectorGifty | Vee | Delbar Arya",
+    "artist": "Delbar Arya",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 262327689,
+    "likes": 2035905,
+    "published_days_ago": 2747,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "klzyuLXNsGE"
+  },
+  {
+    "id": "pu_0137",
+    "song_name": "Guru Randhawa - QATAL -",
+    "artist": "(Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 51,
+    "views": 255879839,
+    "likes": 1838615,
+    "published_days_ago": 371,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "Guru Randhawa",
+    "youtube_id": "c-FKlE3_kHo"
+  },
+  {
+    "id": "pu_0138",
+    "song_name": "Guru Randhawa: FASHION Video Song | Latest Punjabi Song 2016 | T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 254433979,
+    "likes": 1224803,
+    "published_days_ago": 3503,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "vgr2y70Vlk0"
+  },
+  {
+    "id": "pu_0139",
+    "song_name": "Mehendi Wale Haath |Guru Randhawa Sanjana Sanghi |Sayeed Q Sachet-Parampara Arvindr |Bhushan Kumar",
+    "artist": "Bhushan Kumar",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 35,
+    "views": 251413282,
+    "likes": 3278308,
+    "published_days_ago": 1926,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "uJ6WU-u4i3w"
+  },
+  {
+    "id": "pu_0140",
+    "song_name": "Official Video: Raat Kamaal Hai | Guru Randhawa & Khushali Kumar | Tulsi Kumar | New Song 2018",
+    "artist": "New Song 2018",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 31,
+    "views": 235746846,
+    "likes": 1711627,
+    "published_days_ago": 2920,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "aNwWdF8qq-M"
+  },
+  {
+    "id": "pu_0141",
+    "song_name": "Tera Yaar Bolda | Punjabi Audio Song | Surjit Bindrakhia | Phulkari | T-Series Apna Puinjab",
+    "artist": "T-Series Apna Puinjab",
+    "mood": [
+      "romantic",
+      "happy",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 177513414,
+    "likes": 686933,
+    "published_days_ago": 3399,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series Apna Punjab",
+    "youtube_id": "-4svi1QBfjk"
+  },
+  {
+    "id": "pu_0142",
+    "song_name": "Minna Minna | Garry Sandhu ft Manpreet Toor ( Punjabi Song 2023 ) Fresh Media Records",
+    "artist": "Garry Sandhu ft Manpreet Toor ( Punjabi Song 2023 ) Fresh Me",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 146322630,
+    "likes": 644519,
+    "published_days_ago": 1109,
+    "verified": true,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Fresh Media Records",
+    "youtube_id": "-6dleqTJs0o"
+  },
+  {
+    "id": "pu_0143",
+    "song_name": "New Punjabi Song 2022 | Lachi Wargi Naar - Deep Bajwa ft Gurlez Akhtar |  Punjabi Song 2022",
+    "artist": "Deep Bajwa ft Gurlez Akhtar |  Punjabi Song 2022",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 141361288,
+    "likes": 508687,
+    "published_days_ago": 1276,
+    "verified": false,
+    "language": "punjabi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Ishqpura07 films",
+    "youtube_id": "oQ7YL2v5o7U"
+  }
+]

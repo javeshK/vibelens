@@ -1,0 +1,15 @@
+# SoundMatch AI Dependencies
+# ============================
+# Install with: pip install -r requirements.txt
+
+# Web Framework
+flask>=2.0.0
+flask-cors>=3.0.0
+
+# Image Processing
+Pillow>=9.0.0
+numpy>=1.21.0
+opencv-python>=4.8.0
+
+# HTTP Client (for YouTube API)
+requests>=2.28.0

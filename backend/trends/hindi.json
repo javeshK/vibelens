@@ -1,0 +1,3702 @@
+[
+  {
+    "id": "hi_001",
+    "song_name": "Tum Se Hi",
+    "artist": "Mohit Chauhan",
+    "mood": [
+      "romantic",
+      "calm",
+      "emotional",
+      "nostalgic"
+    ],
+    "context": [
+      "couple",
+      "sunset",
+      "nature",
+      "cozy",
+      "travel"
+    ],
+    "trend_score": 90,
+    "views": 320000000,
+    "likes": 2800000,
+    "published_days_ago": 5840,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood",
+    "bpm": 84,
+    "energy": 0.55,
+    "aesthetic_tags": [
+      "warm",
+      "golden",
+      "soft"
+    ],
+    "channel": "YRF Music"
+  },
+  {
+    "id": "hi_002",
+    "song_name": "Kesariya",
+    "artist": "Arijit Singh",
+    "mood": [
+      "romantic",
+      "emotional",
+      "nostalgic",
+      "happy"
+    ],
+    "context": [
+      "couple",
+      "sunset",
+      "travel",
+      "aesthetic",
+      "nature"
+    ],
+    "trend_score": 97,
+    "views": 890000000,
+    "likes": 6900000,
+    "published_days_ago": 720,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood",
+    "bpm": 92,
+    "energy": 0.62,
+    "aesthetic_tags": [
+      "warm",
+      "golden",
+      "vibrant"
+    ],
+    "channel": "Sony Music India"
+  },
+  {
+    "id": "hi_003",
+    "song_name": "Raataan Lambiyan",
+    "artist": "Jubin Nautiyal & Asees Kaur",
+    "mood": [
+      "romantic",
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "couple",
+      "night",
+      "cozy",
+      "aesthetic"
+    ],
+    "trend_score": 93,
+    "views": 680000000,
+    "likes": 5200000,
+    "published_days_ago": 1100,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood",
+    "bpm": 88,
+    "energy": 0.6,
+    "aesthetic_tags": [
+      "soft",
+      "warm",
+      "intimate"
+    ],
+    "channel": "Sony Music India"
+  },
+  {
+    "id": "hi_004",
+    "song_name": "Apna Bana Le",
+    "artist": "Arijit Singh",
+    "mood": [
+      "romantic",
+      "emotional",
+      "calm",
+      "nostalgic"
+    ],
+    "context": [
+      "wedding",
+      "couple",
+      "aesthetic",
+      "celebration"
+    ],
+    "trend_score": 92,
+    "views": 540000000,
+    "likes": 4300000,
+    "published_days_ago": 630,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood",
+    "bpm": 78,
+    "energy": 0.52,
+    "aesthetic_tags": [
+      "warm",
+      "golden",
+      "elegant"
+    ],
+    "channel": "T-Series"
+  },
+  {
+    "id": "hi_005",
+    "song_name": "Dil Chahte Ho",
+    "artist": "Jubin Nautiyal",
+    "mood": [
+      "happy",
+      "romantic",
+      "energetic"
+    ],
+    "context": [
+      "friends",
+      "party",
+      "hangout",
+      "couple"
+    ],
+    "trend_score": 88,
+    "views": 480000000,
+    "likes": 3900000,
+    "published_days_ago": 1260,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood Pop",
+    "bpm": 96,
+    "energy": 0.72,
+    "aesthetic_tags": [
+      "bright",
+      "warm",
+      "fun"
+    ],
+    "channel": "T-Series"
+  },
+  {
+    "id": "hi_006",
+    "song_name": "Ve Maahi",
+    "artist": "Arijit Singh & Asees Kaur",
+    "mood": [
+      "romantic",
+      "emotional",
+      "sad",
+      "nostalgic"
+    ],
+    "context": [
+      "travel",
+      "nature",
+      "couple",
+      "sunset",
+      "mountains"
+    ],
+    "trend_score": 91,
+    "views": 620000000,
+    "likes": 5000000,
+    "published_days_ago": 1820,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood",
+    "bpm": 80,
+    "energy": 0.58,
+    "aesthetic_tags": [
+      "cool",
+      "moody",
+      "expansive"
+    ],
+    "channel": "Sony Music India"
+  },
+  {
+    "id": "hi_007",
+    "song_name": "Tere Vaaste",
+    "artist": "Varun Jain & Sachin-Jigar",
+    "mood": [
+      "romantic",
+      "happy",
+      "calm",
+      "emotional"
+    ],
+    "context": [
+      "couple",
+      "aesthetic",
+      "cozy",
+      "wedding"
+    ],
+    "trend_score": 95,
+    "views": 710000000,
+    "likes": 5600000,
+    "published_days_ago": 540,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood",
+    "bpm": 86,
+    "energy": 0.6,
+    "aesthetic_tags": [
+      "warm",
+      "soft",
+      "dreamy"
+    ],
+    "channel": "Zee Music Company"
+  },
+  {
+    "id": "hi_008",
+    "song_name": "Besharam Rang",
+    "artist": "Shilpa Rao & Caralisa Monteiro",
+    "mood": [
+      "energetic",
+      "happy",
+      "fun",
+      "bold"
+    ],
+    "context": [
+      "fashion",
+      "party",
+      "beach",
+      "summer",
+      "dance"
+    ],
+    "trend_score": 94,
+    "views": 790000000,
+    "likes": 5800000,
+    "published_days_ago": 840,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood Dance",
+    "bpm": 118,
+    "energy": 0.88,
+    "aesthetic_tags": [
+      "bright",
+      "vibrant",
+      "bold"
+    ],
+    "channel": "YRF Music"
+  },
+  {
+    "id": "hi_009",
+    "song_name": "Mann Mera",
+    "artist": "Gajendra Verma",
+    "mood": [
+      "sad",
+      "emotional",
+      "calm",
+      "nostalgic"
+    ],
+    "context": [
+      "alone",
+      "reflection",
+      "night",
+      "cozy"
+    ],
+    "trend_score": 78,
+    "views": 390000000,
+    "likes": 3200000,
+    "published_days_ago": 3600,
+    "verified": true,
+    "language": "hindi",
+    "category": "Indie Pop",
+    "bpm": 72,
+    "energy": 0.45,
+    "aesthetic_tags": [
+      "cool",
+      "dark",
+      "moody"
+    ],
+    "channel": "Gajendra Verma"
+  },
+  {
+    "id": "hi_010",
+    "song_name": "Zindagi Kuch Toh Bata",
+    "artist": "Pritam & Jubin Nautiyal",
+    "mood": [
+      "emotional",
+      "calm",
+      "nostalgic",
+      "sad"
+    ],
+    "context": [
+      "travel",
+      "nature",
+      "reflection",
+      "mountains"
+    ],
+    "trend_score": 82,
+    "views": 340000000,
+    "likes": 2700000,
+    "published_days_ago": 1560,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood",
+    "bpm": 68,
+    "energy": 0.42,
+    "aesthetic_tags": [
+      "cool",
+      "expansive",
+      "soft"
+    ],
+    "channel": "T-Series"
+  },
+  {
+    "id": "hi_011",
+    "song_name": "Ghungroo",
+    "artist": "Arijit Singh & Shilpa Rao",
+    "mood": [
+      "energetic",
+      "happy",
+      "romantic",
+      "fun"
+    ],
+    "context": [
+      "dance",
+      "party",
+      "celebration",
+      "fashion"
+    ],
+    "trend_score": 89,
+    "views": 560000000,
+    "likes": 4400000,
+    "published_days_ago": 1650,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood Dance",
+    "bpm": 124,
+    "energy": 0.86,
+    "aesthetic_tags": [
+      "vibrant",
+      "golden",
+      "warm"
+    ],
+    "channel": "YRF Music"
+  },
+  {
+    "id": "hi_012",
+    "song_name": "Ik Vaari Aa",
+    "artist": "Arijit Singh",
+    "mood": [
+      "sad",
+      "emotional",
+      "nostalgic",
+      "romantic"
+    ],
+    "context": [
+      "alone",
+      "reflection",
+      "nature",
+      "travel",
+      "sunset"
+    ],
+    "trend_score": 85,
+    "views": 410000000,
+    "likes": 3300000,
+    "published_days_ago": 2800,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood",
+    "bpm": 74,
+    "energy": 0.48,
+    "aesthetic_tags": [
+      "soft",
+      "cool",
+      "melancholic"
+    ],
+    "channel": "Sony Music India"
+  },
+  {
+    "id": "hi_013",
+    "song_name": "Naina Da Kya Kasoor",
+    "artist": "Arnav Bose",
+    "mood": [
+      "romantic",
+      "calm",
+      "emotional"
+    ],
+    "context": [
+      "couple",
+      "cozy",
+      "night",
+      "aesthetic"
+    ],
+    "trend_score": 87,
+    "views": 280000000,
+    "likes": 2200000,
+    "published_days_ago": 720,
+    "verified": true,
+    "language": "hindi",
+    "category": "Indie",
+    "bpm": 82,
+    "energy": 0.52,
+    "aesthetic_tags": [
+      "warm",
+      "intimate",
+      "soft"
+    ],
+    "channel": "Zee Music Company"
+  },
+  {
+    "id": "hi_014",
+    "song_name": "Jai Ho",
+    "artist": "A.R. Rahman",
+    "mood": [
+      "energetic",
+      "motivated",
+      "happy",
+      "celebratory"
+    ],
+    "context": [
+      "celebration",
+      "gym",
+      "competition",
+      "inspiration"
+    ],
+    "trend_score": 83,
+    "views": 520000000,
+    "likes": 4100000,
+    "published_days_ago": 5400,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood",
+    "bpm": 140,
+    "energy": 0.92,
+    "aesthetic_tags": [
+      "bright",
+      "bold",
+      "vibrant"
+    ],
+    "channel": "Sony Music India"
+  },
+  {
+    "id": "hi_015",
+    "song_name": "O Maahi",
+    "artist": "Arijit Singh",
+    "mood": [
+      "sad",
+      "emotional",
+      "romantic",
+      "nostalgic"
+    ],
+    "context": [
+      "alone",
+      "sunset",
+      "nature",
+      "couple",
+      "reflection"
+    ],
+    "trend_score": 96,
+    "views": 750000000,
+    "likes": 5900000,
+    "published_days_ago": 360,
+    "verified": true,
+    "language": "hindi",
+    "category": "Bollywood",
+    "bpm": 76,
+    "energy": 0.5,
+    "aesthetic_tags": [
+      "cool",
+      "melancholic",
+      "golden"
+    ],
+    "channel": "Pritam"
+  },
+  {
+    "id": "hi_0016",
+    "song_name": "Official Video: Humnava Mere Song | Jubin Nautiyal | Manoj Muntashir | Rocky - Shiv | Bhushan Kumar",
+    "artist": "Shiv | Bhushan Kumar",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1257941157,
+    "likes": 8361173,
+    "published_days_ago": 2893,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "TmRgK-pXH9c"
+  },
+  {
+    "id": "hi_0017",
+    "song_name": "Full Song: KHAIRIYAT (BONUS TRACK) | CHHICHHORE | Sushant, Shraddha | Pritam, Amitabh B|Arijit Singh",
+    "artist": "Arijit Singh",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 1245892700,
+    "likes": 8370594,
+    "published_days_ago": 2402,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "hoNb6HuNmU0"
+  },
+  {
+    "id": "hi_0018",
+    "song_name": "Kala Chashma | Baar Baar Dekho | Sidharth M Katrina K | Prem, Hardeep, Badshah, Kam, Neha, Indeep",
+    "artist": "Prem, Hardeep, Badshah, Kam, Neha, Indeep",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 52,
+    "views": 1167708722,
+    "likes": 4107835,
+    "published_days_ago": 3558,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "k4yXQkG2s1E"
+  },
+  {
+    "id": "hi_0019",
+    "song_name": "Jaha Tum Rahoge | Maheruh | Amit Dolawat & Drisha More | Altamash Faridi | Kalyan Bhardhan",
+    "artist": "Kalyan Bhardhan",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 50,
+    "views": 1124116665,
+    "likes": 1850283,
+    "published_days_ago": 3095,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "Mi3GdCyzHCY"
+  },
+  {
+    "id": "hi_0020",
+    "song_name": "'Chittiyaan Kalaiyaan' FULL VIDEO SONG | Roy | Meet Bros Anjjan, Kanika Kapoor | T-SERIES",
+    "artist": "T-SERIES",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 1016465093,
+    "likes": 4156232,
+    "published_days_ago": 4082,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "zpsVpnvFfZQ"
+  },
+  {
+    "id": "hi_0021",
+    "song_name": "Tera Fitoor Lyrical - Genius | Utkarsh Sharma, Ishita Chauhan | Arijit Singh | Himesh Reshammiya",
+    "artist": "Genius | Utkarsh Sharma, Ishita Chauhan | Arijit Singh | Him",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 50,
+    "views": 904523793,
+    "likes": 4572516,
+    "published_days_ago": 2838,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "Tips Official",
+    "youtube_id": "qfdShSZZxlg"
+  },
+  {
+    "id": "hi_0022",
+    "song_name": "Jeene Laga Hoon Lyrical - Ramaiya Vastavaiya|Girish Kumar, Shruti Haasan |Atif Aslam, Shreya Ghoshal",
+    "artist": "Ramaiya Vastavaiya|Girish Kumar, Shruti Haasan |Atif Aslam, ",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 50,
+    "views": 893058101,
+    "likes": 4787454,
+    "published_days_ago": 4652,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "Tips Official",
+    "youtube_id": "qpIdoaaPa6U"
+  },
+  {
+    "id": "hi_0023",
+    "song_name": "Besharam Rang Song | Pathaan | Shah Rukh Khan, Deepika Padukone | Vishal & Sheykhar | Shilpa, Kumaar",
+    "artist": "Shilpa, Kumaar",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 48,
+    "views": 818993482,
+    "likes": 4925565,
+    "published_days_ago": 1229,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.64,
+    "aesthetic_tags": [],
+    "channel": "YRF",
+    "youtube_id": "huxhqphtDrM"
+  },
+  {
+    "id": "hi_0024",
+    "song_name": "Blue Eyes Full Video Song Yo Yo Honey Singh | Blockbuster Song Of 2013",
+    "artist": "Blockbuster Song Of 2013",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 48,
+    "views": 799536820,
+    "likes": 6243055,
+    "published_days_ago": 4550,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.64,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "NbyHNASFi6U"
+  },
+  {
+    "id": "hi_0025",
+    "song_name": "Raataan Lambiyan - Lyric Video | Shershaah | Sidharth, Kiara | Tanishk B. | Jubin | Asees",
+    "artist": "Lyric Video | Shershaah | Sidharth, Kiara | Tanishk B. | Jub",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 45,
+    "views": 753662643,
+    "likes": 3651121,
+    "published_days_ago": 1697,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "Sony Music India",
+    "youtube_id": "orYf6VDtj_k"
+  },
+  {
+    "id": "hi_0026",
+    "song_name": "DILBAR Full Song | Satyameva Jayate | John Abraham Nora Fatehi | Tanishk B Neha Kakkar Ikka Dhvani",
+    "artist": "Tanishk B Neha Kakkar Ikka Dhvani",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 42,
+    "views": 702272852,
+    "likes": 2194063,
+    "published_days_ago": 2796,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "TRa9IMvccjg"
+  },
+  {
+    "id": "hi_0027",
+    "song_name": "She Move It Like | Badshah | Warina Hussain | ONE Album",
+    "artist": "Official Video | Badshah | Warina Hussain | ONE Album",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 42,
+    "views": 648208069,
+    "likes": 3666063,
+    "published_days_ago": 2692,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "Sony Music India",
+    "youtube_id": "Ci0WbaUH3no"
+  },
+  {
+    "id": "hi_0028",
+    "song_name": "Aastha Gill - Buzz feat Badshah | Priyank Sharma",
+    "artist": "Buzz feat Badshah | Priyank Sharma | Official Music Video",
+    "mood": [
+      "energetic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 40,
+    "views": 573858543,
+    "likes": 3301646,
+    "published_days_ago": 2934,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "Sony Music India",
+    "youtube_id": "dUaCEs3HfdI"
+  },
+  {
+    "id": "hi_0029",
+    "song_name": "Tauba Tauba | Bad Newz | Vicky Kaushal | Triptii Dimri | Karan Aujla",
+    "artist": "Karan Aujla",
+    "mood": [
+      "happy",
+      "energetic"
+    ],
+    "context": [
+      "party",
+      "travel"
+    ],
+    "trend_score": 43,
+    "views": 573257278,
+    "likes": 2696015,
+    "published_days_ago": 661,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "Saregama Music",
+    "youtube_id": "LK7-_dgAVQE"
+  },
+  {
+    "id": "hi_0030",
+    "song_name": "Hook Up Song -  Student Of The Year 2 | Tiger Shroff & Alia | Vishal and Shekhar |Neha Kakkar|Kumaar",
+    "artist": "Student Of The Year 2 | Tiger Shroff & Alia | Vishal and She",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 40,
+    "views": 567501096,
+    "likes": 3007598,
+    "published_days_ago": 2551,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "zuaLWHiRXkg"
+  },
+  {
+    "id": "hi_0031",
+    "song_name": "Main Tera Hero | Galat Baat Hai Full Video Song | Varun Dhawan, Ileana D'Cruz, Nargis Fakhri",
+    "artist": "Varun Dhawan, Ileana D'Cruz, Nargis Fakhri",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 554205116,
+    "likes": 2028413,
+    "published_days_ago": 4395,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "coQ95u7w_18"
+  },
+  {
+    "id": "hi_0032",
+    "song_name": "Tere Hawaale (Full Video) Laal Singh Chaddha | Aamir,Kareena | Arijit,Shilpa | Pritam,Amitabh,Advait",
+    "artist": "Pritam,Amitabh,Advait",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 522588803,
+    "likes": 2738326,
+    "published_days_ago": 1263,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "KUpwupYj_tY"
+  },
+  {
+    "id": "hi_0033",
+    "song_name": "Full Video: Raanjhan | Do Patti | Kriti Sanon, Shaheer Sheikh | Parampara Tandon | Sachet-Parampara",
+    "artist": "Sachet-Parampara",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 49,
+    "views": 477323357,
+    "likes": 2705612,
+    "published_days_ago": 520,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "lBvbNxiVmZA"
+  },
+  {
+    "id": "hi_0034",
+    "song_name": "Nayan Video Song | Dhvani B Jubin N | Lijo G Dj Chetas Manoj M Manhar U | Radhika Vinay |  Bhushan K",
+    "artist": "Bhushan K",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 451698201,
+    "likes": 3963096,
+    "published_days_ago": 1963,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "uKHlnmepnNA"
+  },
+  {
+    "id": "hi_0035",
+    "song_name": "Kalank Title Track - Lyrical | Alia Bhatt , Varun Dhawan | Arijit Singh | Pritam| Amitabh",
+    "artist": "Lyrical | Alia Bhatt , Varun Dhawan | Arijit Singh | Pritam|",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 35,
+    "views": 402906285,
+    "likes": 2420721,
+    "published_days_ago": 2564,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "Grr0FlC8SQA"
+  },
+  {
+    "id": "hi_0036",
+    "song_name": "Lut Gaye Emraan Hashmi, Yukti | Jubin N, Tanishk B, Manoj M | Bhushan K | Radhika-Vinay",
+    "artist": "Radhika-Vinay",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 54,
+    "views": 1531849431,
+    "likes": 11636848,
+    "published_days_ago": 1892,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "sCbbMZ-q4-I"
+  },
+  {
+    "id": "hi_0037",
+    "song_name": "Guru Randhawa: High Rated Gabru Official Song | DirectorGifty | Bhushan Kumar | T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1305735356,
+    "likes": 6858189,
+    "published_days_ago": 3216,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "hjWf8A0YNSE"
+  },
+  {
+    "id": "hi_0038",
+    "song_name": "Guru Randhawa: Lahore Bhushan Kumar | Vee | DirectorGifty | T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1160725365,
+    "likes": 6584400,
+    "published_days_ago": 3053,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "dZ0fwJojhrs"
+  },
+  {
+    "id": "hi_0039",
+    "song_name": "Badri Ki Dulhania (Title Track) Varun,Alia,Tanishk,Neha,Monali,Ikka |Badrinath Ki Dulhania|Holi Song",
+    "artist": "Holi Song",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 51,
+    "views": 1013650036,
+    "likes": 3234912,
+    "published_days_ago": 3364,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "1YBl3Zbt80A"
+  },
+  {
+    "id": "hi_0040",
+    "song_name": "ISHARE TERE Song | Guru Randhawa, Dhvani Bhanushali | DirectorGifty | Bhushan Kumar",
+    "artist": "Bhushan Kumar",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 45,
+    "views": 745888716,
+    "likes": 3955277,
+    "published_days_ago": 2830,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "8nGFWWJLHio"
+  },
+  {
+    "id": "hi_0041",
+    "song_name": "Srivalli (Video) | Pushpa | Allu Arjun, Rashmika Mandanna | Javed Ali | DSP | Sukumar",
+    "artist": "Sukumar",
+    "mood": [
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 45,
+    "views": 685547847,
+    "likes": 5902005,
+    "published_days_ago": 1571,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "hcMzwMrr1tE"
+  },
+  {
+    "id": "hi_0042",
+    "song_name": "Guru Randhawa: MADE IN INDIA | Bhushan Kumar | DirectorGifty | Elnaaz Norouzi | Vee",
+    "artist": "Vee",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 43,
+    "views": 669299790,
+    "likes": 3858926,
+    "published_days_ago": 2879,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "pnMQLrS5sTE"
+  },
+  {
+    "id": "hi_0043",
+    "song_name": "JAWAN: Chaleya (Hindi) | Shah Rukh Khan | Nayanthara | Atlee | Anirudh | Arijit S, Shilpa R | Kumaar",
+    "artist": "Kumaar",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 42,
+    "views": 636594998,
+    "likes": 3842173,
+    "published_days_ago": 984,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "VAdGW7QDJiU"
+  },
+  {
+    "id": "hi_0044",
+    "song_name": "Nachange Saari Raat Full Video Song | JUNOONIYAT | Pulkit Samrat,Yami Gautam| T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 41,
+    "views": 628296022,
+    "likes": 2349904,
+    "published_days_ago": 3585,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "rxMmistOjCA"
+  },
+  {
+    "id": "hi_0045",
+    "song_name": "\"Oh Humsafar\" Song | Neha Kakkar Himansh Kohli | Tony Kakkar | Bhushan Kumar | Manoj Muntashir",
+    "artist": "Manoj Muntashir",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 41,
+    "views": 612711123,
+    "likes": 3414914,
+    "published_days_ago": 2929,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "g4HDfqEWf6Y"
+  },
+  {
+    "id": "hi_0046",
+    "song_name": "Patola Video Song | Blackmail | Irrfan Khan & Kirti Kulhari | Guru Randhawa",
+    "artist": "Guru Randhawa",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 40,
+    "views": 611028990,
+    "likes": 2110764,
+    "published_days_ago": 2972,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "z-ZEHL4Df-A"
+  },
+  {
+    "id": "hi_0047",
+    "song_name": "WAJAH TUM HO Full Video Song | HATE STORY 3 Songs | Zareen Khan, Karan Singh Grover | T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 40,
+    "views": 603757411,
+    "likes": 2519301,
+    "published_days_ago": 3783,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "__ZvXBf1rmw"
+  },
+  {
+    "id": "hi_0048",
+    "song_name": "Teri Baaton Mein Aisa Uljha Jiya (Title Track): Shahid Kapoor, Kriti Sanon | Raghav,Tanishk,Asees",
+    "artist": "Raghav,Tanishk,Asees",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 40,
+    "views": 593809733,
+    "likes": 2264710,
+    "published_days_ago": 816,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "XLqmL9cPN1E"
+  },
+  {
+    "id": "hi_0049",
+    "song_name": "'Gallan Goodiyaan' Full VIDEO Song | Dil Dhadakne Do | T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 42,
+    "views": 669783345,
+    "likes": 2257170,
+    "published_days_ago": 3968,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "jCEdTq3j-0U"
+  },
+  {
+    "id": "hi_0050",
+    "song_name": "Jogi - Lyrical | Shaadi Mein Zaroor Aana | Rajkummar Rao, Kriti Kharbanda | Arko ft Aakanksha Sharma",
+    "artist": "Lyrical | Shaadi Mein Zaroor Aana | Rajkummar Rao, Kriti Kha",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 41,
+    "views": 653432573,
+    "likes": 2578561,
+    "published_days_ago": 3088,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "HexFqifusOk"
+  },
+  {
+    "id": "hi_0051",
+    "song_name": "Zihaal e Miskin (Video) Javed-Mohsin | Vishal Mishra, Shreya Ghoshal | Rohit Z, Nimrit A | Kunaal V",
+    "artist": "Kunaal V",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 42,
+    "views": 591893551,
+    "likes": 4977572,
+    "published_days_ago": 1065,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "Universal Music India",
+    "youtube_id": "11OWuPcElJw"
+  },
+  {
+    "id": "hi_0052",
+    "song_name": "SOFTLY (Official Music Video) KARAN AUJLA | IKKY | LATEST PUNJABI SONGS 2023",
+    "artist": "LATEST PUNJABI SONGS 2023",
+    "mood": [
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 461183298,
+    "likes": 2142221,
+    "published_days_ago": 914,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Karan Aujla",
+    "youtube_id": "cWMxCE2HTag"
+  },
+  {
+    "id": "hi_0053",
+    "song_name": "Chuttamalle | Devara Second Single | NTR | Janhvi Kapoor | Anirudh Ravichander | Shilpa Rao | 27 Sep",
+    "artist": "27 Sep",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 41,
+    "views": 385901770,
+    "likes": 2446538,
+    "published_days_ago": 627,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "T-Series Telugu",
+    "youtube_id": "5vsOv_bcnhs"
+  },
+  {
+    "id": "hi_0054",
+    "song_name": "LEHNGA : DILJIT DOSANJH | NEERU BAJWA | LATEST PUNJABI SONGS 2024 | NEW PUNJABI SONGS 2024",
+    "artist": "NEW PUNJABI SONGS 2024",
+    "mood": [
+      "romantic",
+      "sad",
+      "nostalgic"
+    ],
+    "context": [
+      "travel"
+    ],
+    "trend_score": 35,
+    "views": 359791335,
+    "likes": 957968,
+    "published_days_ago": 673,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "G8PU1HjZZj4"
+  },
+  {
+    "id": "hi_0055",
+    "song_name": "Mere Mehboob | Vicky Vidya Ka Woh Wala Video | Rajkummar | Triptii Dimri |Sachin-Jigar,Shilpa,Sachet",
+    "artist": "Sachin-Jigar,Shilpa,Sachet",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "travel"
+    ],
+    "trend_score": 41,
+    "views": 330399400,
+    "likes": 1638217,
+    "published_days_ago": 577,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "UdsO4SM4wKI"
+  },
+  {
+    "id": "hi_0056",
+    "song_name": "Bole Chudiyan | K3G | Amitabh, Shah Rukh, Kajol, Kareena, Hrithik | Udit Narayan | Karan Johar | 4K",
+    "artist": "4K",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 32,
+    "views": 314832830,
+    "likes": 1469606,
+    "published_days_ago": 1430,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Sony Music India",
+    "youtube_id": "b54oABKKV7E"
+  },
+  {
+    "id": "hi_0057",
+    "song_name": "Jhoome Jo Pathaan Song | Shah Rukh Khan, Deepika | Vishal & Sheykhar, Arijit Singh, Sukriti, Kumaar",
+    "artist": "Vishal & Sheykhar, Arijit Singh, Sukriti, Kumaar",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1246237762,
+    "likes": 7223226,
+    "published_days_ago": 1219,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "YRF",
+    "youtube_id": "YxWlaYCA8MU"
+  },
+  {
+    "id": "hi_0058",
+    "song_name": "Phir Bhi Tumko Chaahunga - Full Song | Arijit Singh | Arjun K & Shraddha K | Mithoon, Manoj M",
+    "artist": "Full Song | Arijit Singh | Arjun K & Shraddha K | Mithoon, M",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1227805841,
+    "likes": 6679881,
+    "published_days_ago": 3214,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "_iktURk0X-A"
+  },
+  {
+    "id": "hi_0059",
+    "song_name": "Gerua - Shah Rukh Khan | Kajol | Dilwale | Pritam | Arijit Singh | Antara Mitra",
+    "artist": "Shah Rukh Khan | Kajol | Dilwale | Pritam | Arijit Singh | A",
+    "mood": [
+      "romantic",
+      "motivational"
+    ],
+    "context": [
+      "romantic"
+    ],
+    "trend_score": 43,
+    "views": 656394595,
+    "likes": 3636544,
+    "published_days_ago": 3809,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "Sony Music India",
+    "youtube_id": "AEIVhBS6baE"
+  },
+  {
+    "id": "hi_0060",
+    "song_name": "Heeriye Jasleen Royal ft Arijit Singh| Dulquer Salmaan| Aditya Sharma |Taani Tanvir",
+    "artist": "Taani Tanvir",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 483176098,
+    "likes": 3493810,
+    "published_days_ago": 1004,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "Jasleen Royal",
+    "youtube_id": "RLzC55ai0eo"
+  },
+  {
+    "id": "hi_0061",
+    "song_name": "Dunki: O Maahi (Full Video) | Shah Rukh Khan | Taapsee Pannu | Pritam | Arijit Singh | Irshad Kamil",
+    "artist": "Irshad Kamil",
+    "mood": [
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 284284720,
+    "likes": 1150525,
+    "published_days_ago": 810,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "Etkd-07gnxM"
+  },
+  {
+    "id": "hi_0062",
+    "song_name": "First Class - Full Video | Kalank | Varun Dhawan, Alia Bhatt, Kiara | Arijit Singh | Pritam| Amitabh",
+    "artist": "Full Video | Kalank | Varun Dhawan, Alia Bhatt, Kiara | Arij",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 281350202,
+    "likes": 1806305,
+    "published_days_ago": 2537,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "e8B0AzmXPV8"
+  },
+  {
+    "id": "hi_0063",
+    "song_name": "Ed Sheeran - Sapphire (Official Music Video)",
+    "artist": "Sapphire (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 59,
+    "views": 279845737,
+    "likes": 4307193,
+    "published_days_ago": 322,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.7,
+    "aesthetic_tags": [],
+    "channel": "Ed Sheeran",
+    "youtube_id": "JgDNFQ2RaLQ"
+  },
+  {
+    "id": "hi_0064",
+    "song_name": "Main Tera Hero | Shanivaar Raati | Full Video Song | Arijit Singh | Varun Dhawan",
+    "artist": "Varun Dhawan",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 268236798,
+    "likes": 1077180,
+    "published_days_ago": 4395,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "Ee_9J9lGgS0"
+  },
+  {
+    "id": "hi_0065",
+    "song_name": "Dhun Song | Saiyaara | Ahaan Panday, Aneet Padda | Mithoon | Arijit Singh",
+    "artist": "Arijit Singh",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 219737226,
+    "likes": 1244654,
+    "published_days_ago": 297,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "YRF",
+    "youtube_id": "cUmUOb7j3dc"
+  },
+  {
+    "id": "hi_0066",
+    "song_name": "Gehra Hua | Dhurandhar | Ranveer Singh, Sara Arjun, Shashwat Sachdev, Arijit Singh, Irshad Kamil",
+    "artist": "Ranveer Singh, Sara Arjun, Shashwat Sachdev, Arijit Singh, I",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "romantic"
+    ],
+    "trend_score": 62,
+    "views": 219853881,
+    "likes": 1373954,
+    "published_days_ago": 147,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.71,
+    "aesthetic_tags": [],
+    "channel": "Saregama Music",
+    "youtube_id": "GX9x62kFsVU"
+  },
+  {
+    "id": "hi_0067",
+    "song_name": "Apna Bana Le (From \"Bhediya\")",
+    "artist": "Arijit Singh - Topic",
+    "mood": [
+      "motivational"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 208994689,
+    "likes": 1140010,
+    "published_days_ago": 1266,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Arijit Singh - Topic",
+    "youtube_id": "YALvuUpY_b0"
+  },
+  {
+    "id": "hi_0068",
+    "song_name": "Sajni (Song): Arijit Singh, Ram Sampath | Laapataa Ladies | Aamir Khan Productions",
+    "artist": "Aamir Khan Productions",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 206103590,
+    "likes": 1194020,
+    "published_days_ago": 802,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "k3g_WjLCsXM"
+  },
+  {
+    "id": "hi_0069",
+    "song_name": "Tainu Khabar Nahi - Arijit Singh | Munjya | Sharvari, Abhay Verma| Sachin-Jigar,Amitabh Bhattacharya",
+    "artist": "Arijit Singh | Munjya | Sharvari, Abhay Verma| Sachin-Jigar,",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 190808875,
+    "likes": 1039264,
+    "published_days_ago": 692,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "6d5SS0gS5bU"
+  },
+  {
+    "id": "hi_0070",
+    "song_name": "Chhod Diya (Lyrics) - Arijit Singh, Kanika Kapoor | Baazaar",
+    "artist": "Arijit Singh, Kanika Kapoor | Baazaar",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 160739577,
+    "likes": 2059081,
+    "published_days_ago": 2021,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Musicroo",
+    "youtube_id": "KMz2pTfRIxw"
+  },
+  {
+    "id": "hi_0071",
+    "song_name": "O Bedardeya (Film Version) Tu Jhoothi Main Makkaar | Ranbir, Shraddha | Pritam, Arijit S, Amitabh B",
+    "artist": "Pritam, Arijit S, Amitabh B",
+    "mood": [
+      "sad"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 149764453,
+    "likes": 812773,
+    "published_days_ago": 1055,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "npwn6KVMtFI"
+  },
+  {
+    "id": "hi_0072",
+    "song_name": "Mile Ho Tum - Reprise Version | Neha Kakkar | Tony Kakkar | Fever | Gaurav Jang",
+    "artist": "Reprise Version | Neha Kakkar | Tony Kakkar | Fever | Gaurav",
+    "mood": [
+      "romantic",
+      "motivational"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1394524778,
+    "likes": 8208066,
+    "published_days_ago": 3558,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "N2-HsIYd0Go"
+  },
+  {
+    "id": "hi_0073",
+    "song_name": "Baarish Ban Jaana Payal Dev, Stebin Ben | Hina Khan, Shaheer Sheikh | Kunaal Vermaa",
+    "artist": "Kunaal Vermaa",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "nature"
+    ],
+    "trend_score": 47,
+    "views": 792851654,
+    "likes": 5429079,
+    "published_days_ago": 1786,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.64,
+    "aesthetic_tags": [],
+    "channel": "Universal Music India",
+    "youtube_id": "KVh4KtUSW3A"
+  },
+  {
+    "id": "hi_0074",
+    "song_name": "Filhaal2 Mohabbat | Akshay Kumar Ft Nupur Sanon | Ammy Virk | BPraak | Jaani | Arvindr Khaira",
+    "artist": "Arvindr Khaira",
+    "mood": [
+      "romantic",
+      "sad"
+    ],
+    "context": [
+      "romantic"
+    ],
+    "trend_score": 48,
+    "views": 751199738,
+    "likes": 6862207,
+    "published_days_ago": 1753,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.64,
+    "aesthetic_tags": [],
+    "channel": "DM - Desi Melodies",
+    "youtube_id": "DUwlGduupRI"
+  },
+  {
+    "id": "hi_0075",
+    "song_name": "B Praak: Dil Tod Ke Official Song | Rochak Kohli , Manoj M |Abhishek S, Kaashish V | Bhushan Kumar",
+    "artist": "Bhushan Kumar",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 41,
+    "views": 561687432,
+    "likes": 4742862,
+    "published_days_ago": 2109,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "ZTBwxy4wsBQ"
+  },
+  {
+    "id": "hi_0076",
+    "song_name": "Kinna Sona Full Video | Marjaavaan | Sidharth M, Tara S | Meet Bros,Jubin N, Dhvani Bhanushali",
+    "artist": "Meet Bros,Jubin N, Dhvani Bhanushali",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 520616636,
+    "likes": 2405818,
+    "published_days_ago": 2340,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "7lfFZs50JHM"
+  },
+  {
+    "id": "hi_0077",
+    "song_name": "Kya Loge Tum | Akshay Kumar | Amyra Dastur | BPraak | Jaani | Arvindr Khaira | Zohrajabeen",
+    "artist": "Zohrajabeen",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 465961715,
+    "likes": 3639562,
+    "published_days_ago": 1075,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "DM - Desi Melodies",
+    "youtube_id": "cAMHx-m9oh8"
+  },
+  {
+    "id": "hi_0078",
+    "song_name": "Tere Sang Yaara - Rustom | Akshay Kumar & Ileana D'cruz | Arko | Manoj Muntashir",
+    "artist": "Rustom | Akshay Kumar & Ileana D'cruz | Arko | Manoj Muntash",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 357228330,
+    "likes": 887836,
+    "published_days_ago": 3579,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "5gwy0gcjIkI"
+  },
+  {
+    "id": "hi_0079",
+    "song_name": "AASHIQUI 2 MASHUP FULL SONG | KIRAN KAMATH | BEST BOLLYWOOD MASHUPS",
+    "artist": "BEST BOLLYWOOD MASHUPS",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 301151541,
+    "likes": 1934865,
+    "published_days_ago": 4713,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "izy2tV-Ssj8"
+  },
+  {
+    "id": "hi_0080",
+    "song_name": "Hauli Hauli Bhul Javange Tainu Sohneya Yaara Ve  | Sanam Parowal - Sad Love Story - Punjabi Songs",
+    "artist": "Punjabi Songs",
+    "mood": [
+      "romantic",
+      "sad",
+      "happy"
+    ],
+    "context": [
+      "romantic"
+    ],
+    "trend_score": 32,
+    "views": 263311566,
+    "likes": 2056189,
+    "published_days_ago": 2533,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Lokdhun Punjabi",
+    "youtube_id": "jynMDYYFB9I"
+  },
+  {
+    "id": "hi_0081",
+    "song_name": "\"Kabhi Jo Badal Barse\" Song Video Jackpot | Arijit Singh | Sachiin J Joshi, Sunny Leone",
+    "artist": "Sachiin J Joshi, Sunny Leone",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 252104946,
+    "likes": 1407678,
+    "published_days_ago": 4552,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "RazuWp5kSHk"
+  },
+  {
+    "id": "hi_0082",
+    "song_name": "Dil Lauta Do | Jubin Nautiyal, Payal Dev | Sunny K, Saiyami K | Kunaal V | Navjit B",
+    "artist": "Navjit B",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 213269651,
+    "likes": 850851,
+    "published_days_ago": 1712,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "9XxLrIeWMl4"
+  },
+  {
+    "id": "hi_0083",
+    "song_name": "Ishq Nahi Karte (Video) Emraan Hashmi | B Praak | Jaani | Sahher B | Raj Jaiswal | New Sad Song 2022",
+    "artist": "New Sad Song 2022",
+    "mood": [
+      "romantic",
+      "sad"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 212266365,
+    "likes": 2129486,
+    "published_days_ago": 1492,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "DRJ Records",
+    "youtube_id": "EriDC-_m6IQ"
+  },
+  {
+    "id": "hi_0084",
+    "song_name": "Katrina Kaif and Vicky Kaushal, Dance On Swag Se Swagat and Most Popular Dialogue How Is The Josh...",
+    "artist": "Beats On Music",
+    "mood": [
+      "sad",
+      "happy",
+      "nostalgic"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 49,
+    "views": 220392313,
+    "likes": 8581920,
+    "published_days_ago": 1483,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "Beats On Music",
+    "youtube_id": "DY5uo9o4wD4"
+  },
+  {
+    "id": "hi_0085",
+    "song_name": "Dil: Shreya's Version | Ek Villain Returns | John Disha Arjun Tara | Kaushik-Guddu, Mohit",
+    "artist": "Kaushik-Guddu, Mohit",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 197816227,
+    "likes": 1159237,
+    "published_days_ago": 1350,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "nWbj7W_pD9U"
+  },
+  {
+    "id": "hi_0086",
+    "song_name": "Balamuwa Ke Ballam ( Latest Bhojpuri Song 2024 ) Samar Singh & #Namrita Malla",
+    "artist": "T-Series Hamaar Bhojpuri",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 435506378,
+    "likes": 1353918,
+    "published_days_ago": 663,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "T-Series Hamaar Bhojpuri",
+    "youtube_id": "B_Y2Ya4e9PY"
+  },
+  {
+    "id": "hi_0087",
+    "song_name": "Full Video: Dupatta Tera Nau Rang Da | Partner | Salman Khan, Govinda, Katrina, Lara Dutta",
+    "artist": "Salman Khan, Govinda, Katrina, Lara Dutta",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 402520849,
+    "likes": 1578709,
+    "published_days_ago": 5448,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "W2mjfazc9eM"
+  },
+  {
+    "id": "hi_0088",
+    "song_name": "Yo Yo Honey Singh: MAKHNA Video Song | Neha Kakkar, Singhsta, TDO | Bhushan Kumar",
+    "artist": "Bhushan Kumar",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 399214880,
+    "likes": 4617239,
+    "published_days_ago": 2681,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "1bvYHkQxWmg"
+  },
+  {
+    "id": "hi_0089",
+    "song_name": "Nadiyon Paar - Nadiyon Paar - Full Song | Roohi | Janhvi Kapoor | Sachin-Jigar | Shamur | Rashmeet K",
+    "artist": "Full Song | Roohi | Janhvi Kapoor | Sachin-Jigar | Shamur | ",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 31,
+    "views": 292394085,
+    "likes": 1395960,
+    "published_days_ago": 1788,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "SonyMusicIndiaVEVO",
+    "youtube_id": "bi5PhlIQpwU"
+  },
+  {
+    "id": "hi_0090",
+    "song_name": "Daaru Peeke Dance Lyrical Video | Neha Kakkar | Kuch Kuch Locha Hai | Sunny Leone  | Amjad Nadeem",
+    "artist": "Amjad Nadeem",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 263826417,
+    "likes": 1166898,
+    "published_days_ago": 3690,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "UuQjAqO-WUM"
+  },
+  {
+    "id": "hi_0091",
+    "song_name": "Taras | Munjya | Sharvari & Abhay Verma | Sachin-Jigar, Jasmine Sandlas | Amitabh Bhattacharya",
+    "artist": "Amitabh Bhattacharya",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 255537435,
+    "likes": 1021322,
+    "published_days_ago": 697,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "kfXy4W0aD40"
+  },
+  {
+    "id": "hi_0092",
+    "song_name": "Radha - SOTY | Alia Bhatt | Sidharth Malhotra | Varun Dhawan | Udit Narayan | Shreya Ghoshal | 4K",
+    "artist": "SOTY | Alia Bhatt | Sidharth Malhotra | Varun Dhawan | Udit ",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 228777496,
+    "likes": 1133400,
+    "published_days_ago": 1464,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Sony Music India",
+    "youtube_id": "52deq20h6Q4"
+  },
+  {
+    "id": "hi_0093",
+    "song_name": "Dil Lutiya | Jazzy B | Ft. Apache Indian | Sukshinder | Romeo | Jihne Mera Dil Luteya | Punjabi Hits",
+    "artist": "Punjabi Hits",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 215061399,
+    "likes": 1718982,
+    "published_days_ago": 2047,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Tips Punjabi",
+    "youtube_id": "TI7RQO2cuh0"
+  },
+  {
+    "id": "hi_0094",
+    "song_name": "Dance Pe Chance | Full Song | Rab Ne Bana Di Jodi | Shah Rukh Khan, Anushka | Sunidhi, Labh Janjua",
+    "artist": "Sunidhi, Labh Janjua",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 211086206,
+    "likes": 802261,
+    "published_days_ago": 5209,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "YRF",
+    "youtube_id": "rap8SoUIPaw"
+  },
+  {
+    "id": "hi_0095",
+    "song_name": "Sawan Mein Lag Gayi Aag - Ginny Weds Sunny | Yami, Vikrant | Mika, Neha & Badshah | Payal D, Mohsin",
+    "artist": "Ginny Weds Sunny | Yami, Vikrant | Mika, Neha & Badshah | Pa",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 210310168,
+    "likes": 1086175,
+    "published_days_ago": 2034,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Sony Music India",
+    "youtube_id": "7iAmXLrLizM"
+  },
+  {
+    "id": "hi_0096",
+    "song_name": "Soni Soni | Ishq Vishk Rebound | Rohit Saraf, Pashmina| @DarshanRavalDZ@jonitamusic, Rochak,Gurpreet",
+    "artist": "@DarshanRavalDZ@jonitamusic, Rochak,Gurpreet",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 169676618,
+    "likes": 771803,
+    "published_days_ago": 700,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Tips Official",
+    "youtube_id": "axepn8QqxRk"
+  },
+  {
+    "id": "hi_0097",
+    "song_name": "Aaj Ki Raat - Full Song | Stree 2| Tamannaah Bhatia, Rajkummar Rao, Sachin-Jigar, Madhubanti,Divya K",
+    "artist": "Full Song | Stree 2| Tamannaah Bhatia, Rajkummar Rao, Sachin",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 61,
+    "views": 982597356,
+    "likes": 3042288,
+    "published_days_ago": 547,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.71,
+    "aesthetic_tags": [],
+    "channel": "Saregama Music",
+    "youtube_id": "hxMNYkLN7tI"
+  },
+  {
+    "id": "hi_0098",
+    "song_name": "#Video | #Khesari Lal New Song ~ नथुनिया | Priyanka Singh | Nathuniya | Bhojpuri Naya Gana",
+    "artist": "Bhojpuri Naya Gana",
+    "mood": [
+      "sad"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 40,
+    "views": 585834760,
+    "likes": 2846216,
+    "published_days_ago": 1453,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "Saregama Hum Bhojpuri",
+    "youtube_id": "iYRqAc10Ii8"
+  },
+  {
+    "id": "hi_0099",
+    "song_name": "Ghagra Full Video Song | Yeh Jawaani Hai Deewani | Pritam | Madhuri Dixit, Ranbir Kapoor",
+    "artist": "Madhuri Dixit, Ranbir Kapoor",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 349964134,
+    "likes": 1702313,
+    "published_days_ago": 4682,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "caoGNx1LF2Q"
+  },
+  {
+    "id": "hi_0100",
+    "song_name": "Malang Sajna (Video) Sachet Tandon, Parampara Tandon | Adil Shaikh, Kumaar | Bhushan Kumar",
+    "artist": "Bhushan Kumar",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 318065267,
+    "likes": 1674187,
+    "published_days_ago": 1222,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "UbMgcdmYC70"
+  },
+  {
+    "id": "hi_0101",
+    "song_name": "'DJ' Video Song | Hey Bro | Sunidhi Chauhan, Feat. Ali Zafar | Ganesh Acharya | T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 271007524,
+    "likes": 1034114,
+    "published_days_ago": 4102,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "LTT4MYQqz4o"
+  },
+  {
+    "id": "hi_0102",
+    "song_name": "Saaho: Bad Boy Song | Prabhas, Jacqueline Fernandez | Badshah, Neeti Mohan",
+    "artist": "Badshah, Neeti Mohan",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 264291195,
+    "likes": 2009012,
+    "published_days_ago": 2440,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "EAJCr5vvYz0"
+  },
+  {
+    "id": "hi_0103",
+    "song_name": "With You - AP Dhillon (Official Music Video)",
+    "artist": "AP Dhillon (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 237580178,
+    "likes": 1698905,
+    "published_days_ago": 987,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "APDHILLON",
+    "youtube_id": "mZQH8CPQ-wo"
+  },
+  {
+    "id": "hi_0104",
+    "song_name": "Akshath - Nadaaniyan Aisha Ahmed",
+    "artist": "Nadaaniyan (Official Video) Aisha Ahmed",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 228622339,
+    "likes": 1706364,
+    "published_days_ago": 667,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Akshath ",
+    "youtube_id": "gPpQNzQP6gE"
+  },
+  {
+    "id": "hi_0105",
+    "song_name": "Dil Galti Kar Baitha Hai | Meet Bros Ft. Jubin Nautiyal | Mouni Roy | Manoj M | Ashish P | Bhushan K",
+    "artist": "Bhushan K",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 46,
+    "views": 709997875,
+    "likes": 6669419,
+    "published_days_ago": 1672,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.63,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "1--qqQrimMA"
+  },
+  {
+    "id": "hi_0106",
+    "song_name": "Parvati Boli Shankar Se - O Bholenath Ji | Hansraj Raghuwanshi | Full Song | Bhole Baba Song",
+    "artist": "O Bholenath Ji | Hansraj Raghuwanshi | Full Song | Bhole Bab",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 43,
+    "views": 671977421,
+    "likes": 3490601,
+    "published_days_ago": 1537,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "NAV Records",
+    "youtube_id": "4DkNCgUXbig"
+  },
+  {
+    "id": "hi_0107",
+    "song_name": "Meri Aashiqui Song | Rochak Kohli Feat. Jubin Nautiyal | Ihana D | Shree Anwar Sagar | Bhushan Kumar",
+    "artist": "Bhushan Kumar",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 40,
+    "views": 510684327,
+    "likes": 4429425,
+    "published_days_ago": 2151,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "SVjkxdjivts"
+  },
+  {
+    "id": "hi_0108",
+    "song_name": "Tum Hi Aana Full Video | Marjaavaan | Riteish D, Sidharth M, Tara S | Jubin N | Payal Dev Kunaal V",
+    "artist": "Payal Dev Kunaal V",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 39,
+    "views": 500773490,
+    "likes": 3647817,
+    "published_days_ago": 2343,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "RemShT6JAHw"
+  },
+  {
+    "id": "hi_0109",
+    "song_name": "Tujhe Kitna Chahein Aur Hum | Kabir Singh | Jubin Nautiyal Live | Mithoon | Thomso 2019 | IIT Roorke",
+    "artist": "IIT Roorke",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "romantic"
+    ],
+    "trend_score": 34,
+    "views": 269901845,
+    "likes": 2986986,
+    "published_days_ago": 2351,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Jubin Nautiyal Fan",
+    "youtube_id": "h7gyJRWrjbg"
+  },
+  {
+    "id": "hi_0110",
+    "song_name": "Dil Chahte Ho | Jubin Nautiyal, Mandy Takhar | Payal Dev, A.M.Turaz | Navjit Buttar | Bhushan Kumar",
+    "artist": "Bhushan Kumar",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 243925640,
+    "likes": 2585406,
+    "published_days_ago": 2066,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "pgQPquFKKpc"
+  },
+  {
+    "id": "hi_0111",
+    "song_name": "Video: Mast Nazron Se | Rochak K ft Jubin Nautiyal, Nikita Dutta | Manoj M | Ashish P | Bhushan K",
+    "artist": "Bhushan K",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 237491826,
+    "likes": 2407945,
+    "published_days_ago": 1485,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "Tc8kb5HBNrA"
+  },
+  {
+    "id": "hi_0112",
+    "song_name": "Agar Tum Saath Ho Maahi Ve l T-Series Mixtape l Jubin N Prakriti K Abhijit V l Bhushan Kumar Ahmed K",
+    "artist": "T-Series",
+    "mood": [
+      "energetic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 235444435,
+    "likes": 1528143,
+    "published_days_ago": 3203,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "Q2S7CDuBTOc"
+  },
+  {
+    "id": "hi_0113",
+    "song_name": "Rabba Janda - Full Video | Mission Majnu | Sidharth Malhotra, Rashmika | Jubin N, Tanishk B, Shabbir",
+    "artist": "Full Video | Mission Majnu | Sidharth Malhotra, Rashmika | J",
+    "mood": [
+      "sad",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 229890782,
+    "likes": 825332,
+    "published_days_ago": 1145,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "GjfxDRRLXAQ"
+  },
+  {
+    "id": "hi_0114",
+    "song_name": "Chitthi Video Song | Feat. Jubin Nautiyal & Akanksha Puri | Kumaar | New Song 2019 | T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 190079783,
+    "likes": 2019583,
+    "published_days_ago": 2606,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "AV8xUbIFhdc"
+  },
+  {
+    "id": "hi_0115",
+    "song_name": "Rim Jhim | Jubin Nautiyal | Ami Mishra | Parth S, Diksha S | Kunaal V | Ashish P",
+    "artist": "Ashish P",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 184636543,
+    "likes": 598158,
+    "published_days_ago": 1653,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "87x5whfu0Fo"
+  },
+  {
+    "id": "hi_0116",
+    "song_name": "Khushi Jab Bhi Teri Song |Jubin Nautiyal, Khushalii Kumar | Rochak Kohli,A M Turaz | Bhushan K",
+    "artist": "Bhushan K",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 173284629,
+    "likes": 2316555,
+    "published_days_ago": 1705,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "c7mWC6CN7kY"
+  },
+  {
+    "id": "hi_0117",
+    "song_name": "Tum Tum - Video Song | Enemy (Tamil) | Vishal,Arya | Anand Shankar | Vinod Kumar | Thaman S",
+    "artist": "Video Song | Enemy (Tamil) | Vishal,Arya | Anand Shankar | V",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 45,
+    "views": 722642299,
+    "likes": 4021598,
+    "published_days_ago": 1621,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "Divo Music",
+    "youtube_id": "tYSrY4iPX6w"
+  },
+  {
+    "id": "hi_0118",
+    "song_name": "Tera Mera Viah : Jass Manak | KV Dhillon Marriage | Davy | Hit Punjabi Wedding Songs - Geet MP3",
+    "artist": "Geet MP3",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 34,
+    "views": 342172184,
+    "likes": 2663838,
+    "published_days_ago": 2337,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Geet MP3",
+    "youtube_id": "lmdLCz4CAeA"
+  },
+  {
+    "id": "hi_0119",
+    "song_name": "Sabki Baaratein Aayi | Zaara Yesmin, Parth Samthaan | Dev Negi, Seepi Jha | Raaj | Anu Malik",
+    "artist": "Anu Malik",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 32,
+    "views": 292529138,
+    "likes": 1967830,
+    "published_days_ago": 1551,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Tips Official",
+    "youtube_id": "DsROfrRB-1k"
+  },
+  {
+    "id": "hi_0120",
+    "song_name": "Aaj Sajeya | Alaya F | Goldie Sohel | Punit Malhotra | Official Video |#SneakerSong | Dharma 2.0",
+    "artist": "Dharma 2.0",
+    "mood": [
+      "nostalgic"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 31,
+    "views": 208489767,
+    "likes": 1965403,
+    "published_days_ago": 1851,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Saregama Music",
+    "youtube_id": "8mYeTuzBQr4"
+  },
+  {
+    "id": "hi_0121",
+    "song_name": "Diljit Dosanjh: LOVER (Official Music Video) Intense | Raj Ranjodh | MoonChild Era",
+    "artist": "MoonChild Era",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 199622224,
+    "likes": 1279717,
+    "published_days_ago": 1707,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Diljit Dosanjh",
+    "youtube_id": "mH_LFkWxpI0"
+  },
+  {
+    "id": "hi_0122",
+    "song_name": "Kudmayi (Film Version) | Rocky Aur Rani Kii Prem Kahaani | Ranveer | Alia | Shahid | Pritam |Amitabh",
+    "artist": "Amitabh",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 185845870,
+    "likes": 801016,
+    "published_days_ago": 995,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Saregama Music",
+    "youtube_id": "3qpxJEp4Ec4"
+  },
+  {
+    "id": "hi_0123",
+    "song_name": "Wedding Sehra | Mazhar Rahi | Fiza Ali | 2022 | The Panther Records",
+    "artist": "The Panther Records",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 94136114,
+    "likes": 448152,
+    "published_days_ago": 1972,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "The Panther Records",
+    "youtube_id": "HD4UtsmAV4Y"
+  },
+  {
+    "id": "hi_0124",
+    "song_name": "MADHANYA - Rahul Vaidya & Disha Parmar | Asees Kaur |Lijo-DJ Chetas| Anshul Garg | Wedding Song 2021",
+    "artist": "Rahul Vaidya & Disha Parmar | Asees Kaur |Lijo-DJ Chetas| An",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 31,
+    "views": 73048601,
+    "likes": 1190006,
+    "published_days_ago": 1832,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Desi Music Factory",
+    "youtube_id": "M-dsSdYJ-cw"
+  },
+  {
+    "id": "hi_0125",
+    "song_name": "Aaj Sajeya | Alaya F | Goldie Sohel | Latest Punjabi Songs 2021 | Punit M",
+    "artist": "Punit M",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 69531025,
+    "likes": 353988,
+    "published_days_ago": 1634,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Saregama Punjabi",
+    "youtube_id": "lFml8NrHoeo"
+  },
+  {
+    "id": "hi_0126",
+    "song_name": "Palki Mein Hoke Sawaar - Take 2 | Ishwak S, Tanya M |@AseesKaurMusic  Shahid M | Raaj A, Seepi J",
+    "artist": "Take 2 | Ishwak S, Tanya M |@AseesKaurMusic  Shahid M | Raaj",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 39,
+    "views": 27194870,
+    "likes": 130557,
+    "published_days_ago": 450,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "Tips Official",
+    "youtube_id": "ep_GKAtOH9I"
+  },
+  {
+    "id": "hi_0127",
+    "song_name": "Bollywood DJ | Indian Wedding Dance Non-Stop Mix | Dance Hits 2019 | New Jersey, USA",
+    "artist": "New Jersey, USA",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 26575631,
+    "likes": 289985,
+    "published_days_ago": 2631,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "DJ Amit",
+    "youtube_id": "8YLVaMaAfSM"
+  },
+  {
+    "id": "hi_0128",
+    "song_name": "Bollywood Punjabi Chartbusters - Video Jukebox | Diwali Party Songs | Latest Hindi Party Songs",
+    "artist": "Video Jukebox | Diwali Party Songs | Latest Hindi Party Song",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 21584217,
+    "likes": 125559,
+    "published_days_ago": 2729,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "9FQS1zD1SUc"
+  },
+  {
+    "id": "hi_0129",
+    "song_name": "Top 5 Most popular Songs Of Indian Shaadi Function😍🎧| Lal Dupatta-Sajna |#explore​​ #song​​ #ytshort",
+    "artist": "#explore​​ #song​​ #ytshort",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "party",
+      "travel"
+    ],
+    "trend_score": 50,
+    "views": 45115438,
+    "likes": 0,
+    "published_days_ago": 193,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "Samir Insann",
+    "youtube_id": "HY9fcQ0Os0s"
+  },
+  {
+    "id": "hi_0130",
+    "song_name": "Top 15 Latest Bollywood Wedding Songs★New Indian Wedding Songs|Hindi Wedding Songs | Video Jukebox",
+    "artist": "Video Jukebox",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 20380429,
+    "likes": 171938,
+    "published_days_ago": 2326,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "Z-fBFSUoWPk"
+  },
+  {
+    "id": "hi_0131",
+    "song_name": "Top 10 Indian Wedding Dance Songs 2018 |  Video Jukebox | T-Series",
+    "artist": "T-Series",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 19902666,
+    "likes": 145072,
+    "published_days_ago": 2676,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "L5Q3SBCyYe8"
+  },
+  {
+    "id": "hi_0132",
+    "song_name": "Mehndi & Sangeet Songs - JUKEBOX | Ishtar Music",
+    "artist": "JUKEBOX | Ishtar Music",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 19833391,
+    "likes": 105653,
+    "published_days_ago": 2605,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Ishtar Music",
+    "youtube_id": "iZ6FHXHCmf0"
+  },
+  {
+    "id": "hi_0133",
+    "song_name": "90's Wedding Songs | Audio Jukebox | Bollywood Wedding Songs | Marriage Songs | Wedding Playlist",
+    "artist": "Wedding Playlist",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 34,
+    "views": 19657108,
+    "likes": 85052,
+    "published_days_ago": 521,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Reels Trending Hindi Songs",
+    "youtube_id": "4hSfli8RQ9Q"
+  },
+  {
+    "id": "hi_0134",
+    "song_name": "Wedding Dance Mashup 2022 | Dj Avi | Sukhen Visual | Best Of Wedding Dance Songs 2023",
+    "artist": "Best Of Wedding Dance Songs 2023",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 16835104,
+    "likes": 179972,
+    "published_days_ago": 1231,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Dj Avi",
+    "youtube_id": "VQQ9paVddvk"
+  },
+  {
+    "id": "hi_0135",
+    "song_name": "Vela Milan Ni | Jigardan Gadhavi - Yati Upadhyay | Jigrra | Kavya Limaye |Gujarati Wedding Song 2024",
+    "artist": "Yati Upadhyay | Jigrra | Kavya Limaye |Gujarati Wedding Song",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 15793615,
+    "likes": 97665,
+    "published_days_ago": 1587,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Jigrra",
+    "youtube_id": "GMs445idyVY"
+  },
+  {
+    "id": "hi_0136",
+    "song_name": "'One Bottle Down' Full Song with LYRICS | Yo Yo Honey Singh | T-SERIES",
+    "artist": "T-SERIES",
+    "mood": [
+      "romantic",
+      "nostalgic"
+    ],
+    "context": [
+      "night"
+    ],
+    "trend_score": 33,
+    "views": 324052427,
+    "likes": 1803147,
+    "published_days_ago": 4043,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "TwFBtV13KQQ"
+  },
+  {
+    "id": "hi_0137",
+    "song_name": "MAKHNA Video With Lyrics  | Yo Yo Honey Singh | Neha Kakkar, Singhsta, TDO | Bhushan Kumar",
+    "artist": "Bhushan Kumar",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 171822823,
+    "likes": 825873,
+    "published_days_ago": 2648,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "3fwtD3SplNM"
+  },
+  {
+    "id": "hi_0138",
+    "song_name": "\"Senorita Zindagi Na Milegi Dobara\" Full HD Video Song | Farhan Akhtar, Hrithik Roshan, Abhay Deol",
+    "artist": "Farhan Akhtar, Hrithik Roshan, Abhay Deol",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 158646047,
+    "likes": 746636,
+    "published_days_ago": 4962,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "yDv0WSgXJVg"
+  },
+  {
+    "id": "hi_0139",
+    "song_name": "Subha Hone Na De",
+    "artist": "Mika Singh - Topic",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 151826814,
+    "likes": 759651,
+    "published_days_ago": 4336,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Mika Singh - Topic",
+    "youtube_id": "_wMsvhz8YSk"
+  },
+  {
+    "id": "hi_0140",
+    "song_name": "Aaj Ki Raat (From \"Stree 2\")",
+    "artist": "Sachin-Jigar - Topic",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 129875739,
+    "likes": 692637,
+    "published_days_ago": 639,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Sachin-Jigar - Topic",
+    "youtube_id": "XtZTpxnrHAc"
+  },
+  {
+    "id": "hi_0141",
+    "song_name": "Bijuria | Sunny Sanskari Ki Tulsi Kumari | Varun, Janhvi,Sanya, Rohit | Sonu, Tanishk, Ravi, Asees",
+    "artist": "Sonu, Tanishk, Ravi, Asees",
+    "mood": [
+      "romantic",
+      "energetic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 99287584,
+    "likes": 696745,
+    "published_days_ago": 233,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Sony Music India",
+    "youtube_id": "nYLkyW2dDXU"
+  },
+  {
+    "id": "hi_0142",
+    "song_name": "Taras (From \"Munjya\")",
+    "artist": "Sachin-Jigar - Topic",
+    "mood": [
+      "motivational"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 53912817,
+    "likes": 241113,
+    "published_days_ago": 697,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Sachin-Jigar - Topic",
+    "youtube_id": "XtPK901WkQ0"
+  },
+  {
+    "id": "hi_0143",
+    "song_name": "Paas Woh Aane Lage , Urwa Khan New Bollywood Song Dance Performance 2024",
+    "artist": "SGSaraiki",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 50342716,
+    "likes": 68085,
+    "published_days_ago": 595,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "SGSaraiki",
+    "youtube_id": "-IwhiGrMnRU"
+  },
+  {
+    "id": "hi_0144",
+    "song_name": "GULZAAR CHHANIWALA - DAUR ( Official Video ) | New Haryanvi Song 2024",
+    "artist": "DAUR ( Official Video ) | New Haryanvi Song 2024",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 46724499,
+    "likes": 410965,
+    "published_days_ago": 784,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Gulzaar Chhaniwala",
+    "youtube_id": "HmTFyH-jKMg"
+  },
+  {
+    "id": "hi_0145",
+    "song_name": "Best Party Songs - 2014 | Sooraj Dooba Hain | T-Series",
+    "artist": "2014 | Sooraj Dooba Hain | T-Series",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 34203279,
+    "likes": 166740,
+    "published_days_ago": 4112,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "B7vFWy8NxIU"
+  },
+  {
+    "id": "hi_0146",
+    "song_name": "||BEST DANCE SONGS||💁💁 TOP HINDI BOLLYWOOD 1 HOUR NON STOP DANCE||",
+    "artist": "",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 28254620,
+    "likes": 162662,
+    "published_days_ago": 2396,
+    "verified": false,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Swarno's playlist",
+    "youtube_id": "9TqXiT_bLCs"
+  },
+  {
+    "id": "hi_0147",
+    "song_name": "Party Songs Audio Jukebox - Chandigarh Mein, Kala Chashma, Hook Up Song | Happy New Year 2023",
+    "artist": "Chandigarh Mein, Kala Chashma, Hook Up Song | Happy New Year",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 28460217,
+    "likes": 207962,
+    "published_days_ago": 2306,
+    "verified": true,
+    "language": "hindi",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "ZSNnoMDOgFc"
+  }
+]

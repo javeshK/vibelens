@@ -1,0 +1,4927 @@
+[
+  {
+    "id": "en_001",
+    "song_name": "Die With A Smile",
+    "artist": "Lady Gaga & Bruno Mars",
+    "mood": [
+      "romantic",
+      "emotional",
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "couple",
+      "sunset",
+      "aesthetic",
+      "cozy",
+      "friends"
+    ],
+    "trend_score": 99,
+    "views": 980000000,
+    "likes": 7200000,
+    "published_days_ago": 210,
+    "verified": true,
+    "language": "english",
+    "category": "Pop",
+    "bpm": 80,
+    "energy": 0.6,
+    "aesthetic_tags": [
+      "warm",
+      "golden",
+      "intimate"
+    ],
+    "channel": "Lady Gaga VEVO"
+  },
+  {
+    "id": "en_002",
+    "song_name": "Espresso",
+    "artist": "Sabrina Carpenter",
+    "mood": [
+      "happy",
+      "energetic",
+      "flirty",
+      "fun"
+    ],
+    "context": [
+      "party",
+      "hangout",
+      "summer",
+      "fashion",
+      "friends"
+    ],
+    "trend_score": 98,
+    "views": 750000000,
+    "likes": 5100000,
+    "published_days_ago": 120,
+    "verified": true,
+    "language": "english",
+    "category": "Pop",
+    "bpm": 104,
+    "energy": 0.92,
+    "aesthetic_tags": [
+      "bright",
+      "vibrant",
+      "playful"
+    ],
+    "channel": "Sabrina Carpenter VEVO"
+  },
+  {
+    "id": "en_003",
+    "song_name": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "mood": [
+      "romantic",
+      "calm",
+      "emotional",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "couple",
+      "cozy",
+      "alone",
+      "nature"
+    ],
+    "trend_score": 96,
+    "views": 620000000,
+    "likes": 4800000,
+    "published_days_ago": 280,
+    "verified": true,
+    "language": "english",
+    "category": "Indie Pop",
+    "bpm": 111,
+    "energy": 0.58,
+    "aesthetic_tags": [
+      "cool",
+      "moody",
+      "soft"
+    ],
+    "channel": "Billie Eilish"
+  },
+  {
+    "id": "en_004",
+    "song_name": "luther",
+    "artist": "Kendrick Lamar & SZA",
+    "mood": [
+      "romantic",
+      "calm",
+      "emotional",
+      "nostalgic"
+    ],
+    "context": [
+      "sunset",
+      "couple",
+      "cozy",
+      "aesthetic",
+      "city"
+    ],
+    "trend_score": 97,
+    "views": 540000000,
+    "likes": 4400000,
+    "published_days_ago": 95,
+    "verified": true,
+    "language": "english",
+    "category": "R&B",
+    "bpm": 98,
+    "energy": 0.62,
+    "aesthetic_tags": [
+      "warm",
+      "golden",
+      "smooth"
+    ],
+    "channel": "Kendrick Lamar VEVO"
+  },
+  {
+    "id": "en_005",
+    "song_name": "Cruel Summer",
+    "artist": "Taylor Swift",
+    "mood": [
+      "energetic",
+      "nostalgic",
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "summer",
+      "travel",
+      "sunset",
+      "road_trip",
+      "friends"
+    ],
+    "trend_score": 95,
+    "views": 890000000,
+    "likes": 6800000,
+    "published_days_ago": 1800,
+    "verified": true,
+    "language": "english",
+    "category": "Pop",
+    "bpm": 170,
+    "energy": 0.88,
+    "aesthetic_tags": [
+      "warm",
+      "bright",
+      "nostalgic"
+    ],
+    "channel": "Taylor Swift"
+  },
+  {
+    "id": "en_006",
+    "song_name": "Blinding Lights",
+    "artist": "The Weeknd",
+    "mood": [
+      "energetic",
+      "nostalgic",
+      "dark",
+      "intense"
+    ],
+    "context": [
+      "night",
+      "city",
+      "drive",
+      "party",
+      "aesthetic"
+    ],
+    "trend_score": 93,
+    "views": 1200000000,
+    "likes": 8900000,
+    "published_days_ago": 1600,
+    "verified": true,
+    "language": "english",
+    "category": "Synthpop",
+    "bpm": 171,
+    "energy": 0.85,
+    "aesthetic_tags": [
+      "dark",
+      "neon",
+      "cool"
+    ],
+    "channel": "TheWeekndVEVO"
+  },
+  {
+    "id": "en_007",
+    "song_name": "Golden Hour",
+    "artist": "JVKE",
+    "mood": [
+      "romantic",
+      "happy",
+      "calm",
+      "nostalgic"
+    ],
+    "context": [
+      "sunset",
+      "couple",
+      "travel",
+      "aesthetic",
+      "nature"
+    ],
+    "trend_score": 88,
+    "views": 420000000,
+    "likes": 3600000,
+    "published_days_ago": 780,
+    "verified": true,
+    "language": "english",
+    "category": "Pop",
+    "bpm": 97,
+    "energy": 0.65,
+    "aesthetic_tags": [
+      "warm",
+      "golden",
+      "soft"
+    ],
+    "channel": "JVKE"
+  },
+  {
+    "id": "en_008",
+    "song_name": "As It Was",
+    "artist": "Harry Styles",
+    "mood": [
+      "sad",
+      "nostalgic",
+      "calm",
+      "emotional"
+    ],
+    "context": [
+      "alone",
+      "reflection",
+      "sunset",
+      "nature",
+      "travel"
+    ],
+    "trend_score": 89,
+    "views": 1100000000,
+    "likes": 7500000,
+    "published_days_ago": 900,
+    "verified": true,
+    "language": "english",
+    "category": "Indie Pop",
+    "bpm": 174,
+    "energy": 0.73,
+    "aesthetic_tags": [
+      "soft",
+      "pastel",
+      "nostalgic"
+    ],
+    "channel": "Harry Styles"
+  },
+  {
+    "id": "en_009",
+    "song_name": "good 4 u",
+    "artist": "Olivia Rodrigo",
+    "mood": [
+      "energetic",
+      "angry",
+      "fun",
+      "empowered"
+    ],
+    "context": [
+      "gym",
+      "party",
+      "empowerment",
+      "friends"
+    ],
+    "trend_score": 82,
+    "views": 680000000,
+    "likes": 5200000,
+    "published_days_ago": 1050,
+    "verified": true,
+    "language": "english",
+    "category": "Pop Punk",
+    "bpm": 166,
+    "energy": 0.9,
+    "aesthetic_tags": [
+      "bright",
+      "vibrant",
+      "bold"
+    ],
+    "channel": "Olivia Rodrigo"
+  },
+  {
+    "id": "en_010",
+    "song_name": "Flowers",
+    "artist": "Miley Cyrus",
+    "mood": [
+      "happy",
+      "empowered",
+      "confident",
+      "fun"
+    ],
+    "context": [
+      "solo",
+      "beach",
+      "summer",
+      "fashion",
+      "empowerment"
+    ],
+    "trend_score": 86,
+    "views": 790000000,
+    "likes": 5800000,
+    "published_days_ago": 480,
+    "verified": true,
+    "language": "english",
+    "category": "Pop",
+    "bpm": 117,
+    "energy": 0.77,
+    "aesthetic_tags": [
+      "bright",
+      "warm",
+      "bold"
+    ],
+    "channel": "Miley Cyrus VEVO"
+  },
+  {
+    "id": "en_011",
+    "song_name": "Levitating",
+    "artist": "Dua Lipa",
+    "mood": [
+      "happy",
+      "energetic",
+      "fun",
+      "romantic"
+    ],
+    "context": [
+      "party",
+      "gym",
+      "dance",
+      "night",
+      "friends"
+    ],
+    "trend_score": 87,
+    "views": 860000000,
+    "likes": 6200000,
+    "published_days_ago": 1400,
+    "verified": true,
+    "language": "english",
+    "category": "Pop",
+    "bpm": 103,
+    "energy": 0.86,
+    "aesthetic_tags": [
+      "vibrant",
+      "glitter",
+      "neon"
+    ],
+    "channel": "Dua Lipa"
+  },
+  {
+    "id": "en_012",
+    "song_name": "Lose Yourself",
+    "artist": "Eminem",
+    "mood": [
+      "energetic",
+      "motivated",
+      "intense",
+      "aggressive"
+    ],
+    "context": [
+      "gym",
+      "workout",
+      "focus",
+      "competition"
+    ],
+    "trend_score": 80,
+    "views": 1400000000,
+    "likes": 9800000,
+    "published_days_ago": 7900,
+    "verified": true,
+    "language": "english",
+    "category": "Hip-Hop",
+    "bpm": 171,
+    "energy": 0.94,
+    "aesthetic_tags": [
+      "dark",
+      "intense",
+      "urban"
+    ],
+    "channel": "EminemMusicVEVO"
+  },
+  {
+    "id": "en_013",
+    "song_name": "Sunflower",
+    "artist": "Post Malone & Swae Lee",
+    "mood": [
+      "happy",
+      "calm",
+      "romantic",
+      "fun"
+    ],
+    "context": [
+      "nature",
+      "travel",
+      "summer",
+      "couple",
+      "friends"
+    ],
+    "trend_score": 83,
+    "views": 1100000000,
+    "likes": 7400000,
+    "published_days_ago": 2100,
+    "verified": true,
+    "language": "english",
+    "category": "Pop",
+    "bpm": 100,
+    "energy": 0.68,
+    "aesthetic_tags": [
+      "warm",
+      "soft",
+      "golden"
+    ],
+    "channel": "PostMaloneVEVO"
+  },
+  {
+    "id": "en_014",
+    "song_name": "Anti-Hero",
+    "artist": "Taylor Swift",
+    "mood": [
+      "sad",
+      "fun",
+      "relatable",
+      "emotional"
+    ],
+    "context": [
+      "alone",
+      "reflection",
+      "cozy",
+      "hangout"
+    ],
+    "trend_score": 91,
+    "views": 720000000,
+    "likes": 5500000,
+    "published_days_ago": 570,
+    "verified": true,
+    "language": "english",
+    "category": "Pop",
+    "bpm": 97,
+    "energy": 0.7,
+    "aesthetic_tags": [
+      "pastel",
+      "quirky",
+      "soft"
+    ],
+    "channel": "Taylor Swift"
+  },
+  {
+    "id": "en_015",
+    "song_name": "Calm Down",
+    "artist": "Rema & Selena Gomez",
+    "mood": [
+      "happy",
+      "calm",
+      "romantic",
+      "fun"
+    ],
+    "context": [
+      "beach",
+      "sunset",
+      "chill",
+      "travel",
+      "couple"
+    ],
+    "trend_score": 91,
+    "views": 640000000,
+    "likes": 5000000,
+    "published_days_ago": 700,
+    "verified": true,
+    "language": "english",
+    "category": "Afrobeats",
+    "bpm": 106,
+    "energy": 0.78,
+    "aesthetic_tags": [
+      "warm",
+      "vibrant",
+      "tropical"
+    ],
+    "channel": "Rema"
+  },
+  {
+    "id": "en_0016",
+    "song_name": "Dua Lipa - New Rules (Official Music Video)",
+    "artist": "New Rules (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 3269731997,
+    "likes": 18386944,
+    "published_days_ago": 3212,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Dua Lipa",
+    "youtube_id": "k2qgadSvNyU"
+  },
+  {
+    "id": "en_0017",
+    "song_name": "The Weeknd - Save Your Tears (Official Music Video)",
+    "artist": "Save Your Tears (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 2121571774,
+    "likes": 10790420,
+    "published_days_ago": 1934,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "TheWeekndVEVO",
+    "youtube_id": "XXYlFuWEuKI"
+  },
+  {
+    "id": "en_0018",
+    "song_name": "Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video)",
+    "artist": "Die With A Smile (Official Music Video)",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 61,
+    "views": 1650764761,
+    "likes": 13665480,
+    "published_days_ago": 616,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.71,
+    "aesthetic_tags": [],
+    "channel": "LadyGagaVEVO",
+    "youtube_id": "kPa7bsKwL-c"
+  },
+  {
+    "id": "en_0019",
+    "song_name": "Sam Smith, Normani - Dancing With A Stranger (Official Music Video)",
+    "artist": "Dancing With A Stranger (Official Music Video)",
+    "mood": [
+      "sad",
+      "calm"
+    ],
+    "context": [
+      "night"
+    ],
+    "trend_score": 52,
+    "views": 1004818645,
+    "likes": 3844241,
+    "published_days_ago": 2642,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "SamSmithVEVO",
+    "youtube_id": "av5JD1dfj_c"
+  },
+  {
+    "id": "en_0020",
+    "song_name": "Justin Bieber - Intentions (Official Video (Short Version)) ft. Quavo",
+    "artist": "Intentions (Official Video (Short Version)) ft. Quavo",
+    "mood": [
+      "sad",
+      "happy",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 50,
+    "views": 919785411,
+    "likes": 4699395,
+    "published_days_ago": 2262,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "JustinBieberVEVO",
+    "youtube_id": "3AyMjyHu1bA"
+  },
+  {
+    "id": "en_0021",
+    "song_name": "Billie Eilish - BIRDS OF A FEATHER (Official Music Video)",
+    "artist": "BIRDS OF A FEATHER (Official Music Video)",
+    "mood": [
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 56,
+    "views": 796488542,
+    "likes": 5244205,
+    "published_days_ago": 573,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.68,
+    "aesthetic_tags": [],
+    "channel": "BillieEilishVEVO",
+    "youtube_id": "V9PVRfjEBTI"
+  },
+  {
+    "id": "en_0022",
+    "song_name": "Harrdy Sandhu - Kya Baat Ay | Jaani | B Praak | Arvindr Khaira",
+    "artist": "Kya Baat Ay | Jaani | B Praak | Arvindr Khaira | Official Mu",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 46,
+    "views": 740149089,
+    "likes": 4862302,
+    "published_days_ago": 2768,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.63,
+    "aesthetic_tags": [],
+    "channel": "Sony Music India",
+    "youtube_id": "G0Hx6uN2AJE"
+  },
+  {
+    "id": "en_0023",
+    "song_name": "Sabrina Carpenter - Espresso",
+    "artist": "Espresso",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 41,
+    "views": 585196721,
+    "likes": 4225746,
+    "published_days_ago": 741,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "SabrinaCarpenterVEVO",
+    "youtube_id": "eVli-tstM5E"
+  },
+  {
+    "id": "en_0024",
+    "song_name": "Mercy - Badshah Feat. Lauren Gottlieb | Latest Hit Song 2017",
+    "artist": "Badshah Feat. Lauren Gottlieb | Official Music Video | Lates",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 37,
+    "views": 489202177,
+    "likes": 2705781,
+    "published_days_ago": 3309,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Sony Music India",
+    "youtube_id": "Jyst8oIHOAY"
+  },
+  {
+    "id": "en_0025",
+    "song_name": "MILLIONAIRE SONG (Full Video): @YoYoHoneySingh  | GLORY | BHUSHAN KUMAR",
+    "artist": "BHUSHAN KUMAR",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 49,
+    "views": 468070974,
+    "likes": 6391390,
+    "published_days_ago": 606,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "XO8wew38VM8"
+  },
+  {
+    "id": "en_0026",
+    "song_name": "PAYAL SONG: YO YO HONEY SINGH | NORA FATEHI | PARADOX | GLORY | BHUSHAN KUMAR",
+    "artist": "BHUSHAN KUMAR",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 49,
+    "views": 396966175,
+    "likes": 4068445,
+    "published_days_ago": 521,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "a-PAcmi5Kas"
+  },
+  {
+    "id": "en_0027",
+    "song_name": "Espresso",
+    "artist": "Sabrina Carpenter - Topic",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 39,
+    "views": 283729296,
+    "likes": 2029733,
+    "published_days_ago": 609,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "Sabrina Carpenter - Topic",
+    "youtube_id": "kIft-LUHHVA"
+  },
+  {
+    "id": "en_0028",
+    "song_name": "Ed Sheeran - Sapphire (Official Music Video)",
+    "artist": "Sapphire (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 59,
+    "views": 279746533,
+    "likes": 4306731,
+    "published_days_ago": 322,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.7,
+    "aesthetic_tags": [],
+    "channel": "Ed Sheeran",
+    "youtube_id": "JgDNFQ2RaLQ"
+  },
+  {
+    "id": "en_0029",
+    "song_name": "Dua Lipa - Houdini (Official Music Video)",
+    "artist": "Houdini (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 248369976,
+    "likes": 1606047,
+    "published_days_ago": 896,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Dua Lipa",
+    "youtube_id": "suAR1PYFNYA"
+  },
+  {
+    "id": "en_0030",
+    "song_name": "Badshah - Gone Girl (लड़की ख़राब) | Payal Dev | Sakshi Vaidya",
+    "artist": "Gone Girl (लड़की ख़राब) | Official Music Video | Payal Dev |",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 170379458,
+    "likes": 1297313,
+    "published_days_ago": 990,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Badshah",
+    "youtube_id": "mvCWGL_r-Zg"
+  },
+  {
+    "id": "en_0031",
+    "song_name": "Morni | Badshah | Sharvi Yadav | Preity Mukhundhan | Hiten",
+    "artist": "Hiten",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "nature"
+    ],
+    "trend_score": 39,
+    "views": 155366072,
+    "likes": 1054551,
+    "published_days_ago": 525,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "Saregama Music",
+    "youtube_id": "Zrt77f7nTqY"
+  },
+  {
+    "id": "en_0032",
+    "song_name": "SNAKE (Official Music Video) Cheema Y | Gur Sidhu | New Punjabi Song 2024",
+    "artist": "New Punjabi Song 2024",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 37,
+    "views": 141118540,
+    "likes": 728649,
+    "published_days_ago": 553,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Brown Town Music",
+    "youtube_id": "Il4vvuBF5DI"
+  },
+  {
+    "id": "en_0033",
+    "song_name": "Madison Beer - make you mine (Official Music Video)",
+    "artist": "make you mine (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 128795055,
+    "likes": 1584519,
+    "published_days_ago": 729,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "MadisonBeerMusicVEVO",
+    "youtube_id": "XFR7v5ix5hU"
+  },
+  {
+    "id": "en_0034",
+    "song_name": "The Weeknd, Madonna, Playboi Carti - Popular (Official Music Video)",
+    "artist": "Popular (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 109624906,
+    "likes": 1505291,
+    "published_days_ago": 791,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "TheWeekndVEVO",
+    "youtube_id": "vt0i6nuqNEo"
+  },
+  {
+    "id": "en_0035",
+    "song_name": "Oh Mama! TETEMA (Song) | Rayvanny, Nora Fatehi | Shreya Ghoshal, Vishal Mishra, Sanjoy | Bhushan K",
+    "artist": "Bhushan K",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 102563326,
+    "likes": 841250,
+    "published_days_ago": 257,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "ge_UgErt4yo"
+  },
+  {
+    "id": "en_0036",
+    "song_name": "Justin Bieber - Baby ft. Ludacris",
+    "artist": "Baby ft. Ludacris",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 3602946471,
+    "likes": 27998655,
+    "published_days_ago": 5908,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "JustinBieberVEVO",
+    "youtube_id": "kffacxfA7G4"
+  },
+  {
+    "id": "en_0037",
+    "song_name": "Jennifer Lopez, Pitbull - On The Floor",
+    "artist": "On The Floor",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 2793060109,
+    "likes": 11784494,
+    "published_days_ago": 5530,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "JenniferLopezVEVO",
+    "youtube_id": "t4H_Zoh7G5A"
+  },
+  {
+    "id": "en_0038",
+    "song_name": "OMI - Cheerleader (Felix Jaehn Remix) [Ultra Records]",
+    "artist": "Cheerleader (Felix Jaehn Remix) (Official Video) [Ultra Reco",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1444372739,
+    "likes": 8147512,
+    "published_days_ago": 4034,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Ultra Records",
+    "youtube_id": "jGflUbPQfW8"
+  },
+  {
+    "id": "en_0039",
+    "song_name": "DHARIA - Sugar & Brownies (by Monoir) [Official Video]",
+    "artist": "Sugar & Brownies (by Monoir) [Official Video]",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 48,
+    "views": 768944253,
+    "likes": 6957982,
+    "published_days_ago": 2738,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.64,
+    "aesthetic_tags": [],
+    "channel": "Thrace Music",
+    "youtube_id": "y2tEPmwWEiI"
+  },
+  {
+    "id": "en_0040",
+    "song_name": "Ellie Goulding - Love Me Like You Do (Vevo Presents: Live in London)",
+    "artist": "Love Me Like You Do (Vevo Presents: Live in London)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 94328716,
+    "likes": 1042028,
+    "published_days_ago": 3650,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "EllieGouldingVEVO",
+    "youtube_id": "KAca7KQ9p-A"
+  },
+  {
+    "id": "en_0041",
+    "song_name": "Ruger, Bnxn - Bae Bae (Live Session) | Vevo ctrl",
+    "artist": "Bae Bae (Live Session) | Vevo ctrl",
+    "mood": [
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 45207334,
+    "likes": 99856,
+    "published_days_ago": 680,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "BNXNVEVO",
+    "youtube_id": "9SM0GM0hTW8"
+  },
+  {
+    "id": "en_0042",
+    "song_name": "Gracie Abrams - I Love You, I'm Sorry (Live) | Vevo Extended Play",
+    "artist": "I Love You, I'm Sorry (Live) | Vevo Extended Play",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 34690925,
+    "likes": 357902,
+    "published_days_ago": 568,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "GracieAbramsVEVO",
+    "youtube_id": "jmzAf54Re8A"
+  },
+  {
+    "id": "en_0043",
+    "song_name": "Top Hits 2026 Playlist ~ Trending Music 2026 🎵 Spotify Mix ~ Best TikTok Songs (Hits Collection)",
+    "artist": "Dynamic Deep House",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 13466358,
+    "likes": 45495,
+    "published_days_ago": 176,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "Dynamic Deep House",
+    "youtube_id": "LuzXr3He9NI"
+  },
+  {
+    "id": "en_0044",
+    "song_name": "Selena Gomez, benny blanco - How Does It Feel To Be Forgotten | Vevo Extended Play",
+    "artist": "How Does It Feel To Be Forgotten | Vevo Extended Play",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 57,
+    "views": 6128694,
+    "likes": 167894,
+    "published_days_ago": 351,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.69,
+    "aesthetic_tags": [],
+    "channel": "SelenaGomezVEVO",
+    "youtube_id": "Yjl3njtAnVQ"
+  },
+  {
+    "id": "en_0045",
+    "song_name": "Top 20 Pop Songs 2025 ♫ Bruno Mars, Lady Gaga, Dua Lipa, Adele, Ed Sheeran, The Weeknd #18",
+    "artist": "Slow Acoustic",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 48,
+    "views": 5914712,
+    "likes": 0,
+    "published_days_ago": 219,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.64,
+    "aesthetic_tags": [],
+    "channel": "Slow Acoustic",
+    "youtube_id": "-CXDKsZY80I"
+  },
+  {
+    "id": "en_0046",
+    "song_name": "Top Hits 2025 - Music 2025 || New Songs  Best English Songs  Best Pop Music Playlist  on Spotify",
+    "artist": "Music 2025 || New Songs  Best English Songs  Best Pop Music ",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 39,
+    "views": 18841809,
+    "likes": 90908,
+    "published_days_ago": 436,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "Top Hite Bhajan ",
+    "youtube_id": "EIUOC3DZdxE"
+  },
+  {
+    "id": "en_0047",
+    "song_name": "check out our live performance of ‘Touch’ out now on vevo 🌟 #DSCVRArtistsToWatch2025 #KATSEYE",
+    "artist": "KATSEYE",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 51,
+    "views": 7244863,
+    "likes": 234455,
+    "published_days_ago": 505,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "KATSEYE",
+    "youtube_id": "f7AE7C1n3Gw"
+  },
+  {
+    "id": "en_0048",
+    "song_name": "Best Music Mix 2025 🎵 EDM Mix of Popular Songs 2025 🎵 EDM Bass Boosted Music Mix 2025",
+    "artist": "RPEDM",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 3499025,
+    "likes": 18458,
+    "published_days_ago": 480,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "RPEDM",
+    "youtube_id": "MzGvZ1zUmUI"
+  },
+  {
+    "id": "en_0049",
+    "song_name": "Top 5 Most popular English songs |lovely|stay|broken angel|जिसे लोग खूब सुनते हैं 😍 #explore #song",
+    "artist": "जिसे लोग खूब सुनते हैं 😍 #explore #song",
+    "mood": [
+      "romantic",
+      "sad",
+      "happy"
+    ],
+    "context": [
+      "party",
+      "travel"
+    ],
+    "trend_score": 59,
+    "views": 5160743,
+    "likes": 141758,
+    "published_days_ago": 320,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.7,
+    "aesthetic_tags": [],
+    "channel": "clip vibe ",
+    "youtube_id": "eZdxo9LttEc"
+  },
+  {
+    "id": "en_0050",
+    "song_name": "FloyyMenor, Cris MJ - The Making of 'Gata Only' (Vevo Footnotes)",
+    "artist": "The Making of 'Gata Only' (Vevo Footnotes)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 3037367,
+    "likes": 35650,
+    "published_days_ago": 626,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "FloyyMenorVEVO",
+    "youtube_id": "TE-wTzRiIA0"
+  },
+  {
+    "id": "en_0051",
+    "song_name": "Always Remember Us This Way - lyrics - Lady Gaga #englishsongs #romanticballad #popmusic",
+    "artist": "Lady Gaga #englishsongs #romanticballad #popmusic",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 45,
+    "views": 2758279,
+    "likes": 63026,
+    "published_days_ago": 522,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "Classic English Songs",
+    "youtube_id": "PoBHDMpY_mU"
+  },
+  {
+    "id": "en_0052",
+    "song_name": "Top 10 most popular English Songs in 2025#shorts#song#viralvideo#englishsongs#trending#2025#ytshorts",
+    "artist": "Factzune",
+    "mood": [
+      "sad"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 48,
+    "views": 792530,
+    "likes": 15775,
+    "published_days_ago": 427,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.64,
+    "aesthetic_tags": [],
+    "channel": "Factzune",
+    "youtube_id": "s4h8ef0LfLg"
+  },
+  {
+    "id": "en_0053",
+    "song_name": "Pop Hits Radio -  Live Radio - Pop Music 2026 - Top Hits 2026 - Best English Songs 2026 Playlist",
+    "artist": "Best English Songs 2026 Playlist",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 290663,
+    "likes": 923,
+    "published_days_ago": 178,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "Radio Hits Music",
+    "youtube_id": "UWc_vMRGxDs"
+  },
+  {
+    "id": "en_0054",
+    "song_name": "DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video)",
+    "artist": "Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music V",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 2790573521,
+    "likes": 20639705,
+    "published_days_ago": 2753,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "DJSnakeVEVO",
+    "youtube_id": "ixkoVwKQaJg"
+  },
+  {
+    "id": "en_0055",
+    "song_name": "Luis Fonsi, Demi Lovato - Échame La Culpa",
+    "artist": "Échame La Culpa",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 2501372247,
+    "likes": 10696246,
+    "published_days_ago": 3080,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "LuisFonsiVEVO",
+    "youtube_id": "TyHvyGVs42U"
+  },
+  {
+    "id": "en_0056",
+    "song_name": "BTS (방탄소년단) 'Dynamite' Official MV",
+    "artist": "HYBE LABELS",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 61,
+    "views": 2077245319,
+    "likes": 39178910,
+    "published_days_ago": 2072,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.71,
+    "aesthetic_tags": [],
+    "channel": "HYBE LABELS",
+    "youtube_id": "gdZLi9oWNZg"
+  },
+  {
+    "id": "en_0057",
+    "song_name": "French Montana - Unforgettable ft. Swae Lee",
+    "artist": "Unforgettable ft. Swae Lee",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 1917839993,
+    "likes": 8926699,
+    "published_days_ago": 3297,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "FrenchMontanaVEVO",
+    "youtube_id": "CTFtOOh47oo"
+  },
+  {
+    "id": "en_0058",
+    "song_name": "Tyga - Taste ft. Offset",
+    "artist": "Taste (Official Video) ft. Offset",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 1772602452,
+    "likes": 8501637,
+    "published_days_ago": 2900,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "TygaVEVO",
+    "youtube_id": "LjxulQ1bEWg"
+  },
+  {
+    "id": "en_0059",
+    "song_name": "Chris Brown - Loyal ft. Lil Wayne, Tyga",
+    "artist": "Loyal (Official Video) ft. Lil Wayne, Tyga",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 1550894625,
+    "likes": 6309241,
+    "published_days_ago": 4413,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "ChrisBrownVEVO",
+    "youtube_id": "JXRN_LkCa_o"
+  },
+  {
+    "id": "en_0060",
+    "song_name": "Rema, Selena Gomez - Calm Down (Official Music Video)",
+    "artist": "Calm Down (Official Music Video)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 1356895895,
+    "likes": 9677323,
+    "published_days_ago": 1324,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "SelenaGomezVEVO",
+    "youtube_id": "WcIcVapfqXw"
+  },
+  {
+    "id": "en_0061",
+    "song_name": "DJ Khaled - Wild Thoughts ft. Rihanna, Bryson Tiller",
+    "artist": "Wild Thoughts (Official Video) ft. Rihanna, Bryson Tiller",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 1326914600,
+    "likes": 6501452,
+    "published_days_ago": 3233,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "DJKhaledVEVO",
+    "youtube_id": "fyaI4-5849w"
+  },
+  {
+    "id": "en_0062",
+    "song_name": "Bruno Mars - Grenade (Official Music Video)",
+    "artist": "Grenade (Official Music Video)",
+    "mood": [
+      "romantic",
+      "sad"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 1259968062,
+    "likes": 6144819,
+    "published_days_ago": 5631,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "Bruno Mars",
+    "youtube_id": "SR6iYWJxHqs"
+  },
+  {
+    "id": "en_0063",
+    "song_name": "Official Video: Humnava Mere Song | Jubin Nautiyal | Manoj Muntashir | Rocky - Shiv | Bhushan Kumar",
+    "artist": "Shiv | Bhushan Kumar",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1257807301,
+    "likes": 8360429,
+    "published_days_ago": 2893,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "TmRgK-pXH9c"
+  },
+  {
+    "id": "en_0064",
+    "song_name": "Full Song: KHAIRIYAT (BONUS TRACK) | CHHICHHORE | Sushant, Shraddha | Pritam, Amitabh B|Arijit Singh",
+    "artist": "Arijit Singh",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 1245809964,
+    "likes": 8370166,
+    "published_days_ago": 2401,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "hoNb6HuNmU0"
+  },
+  {
+    "id": "en_0065",
+    "song_name": "Saad Lamjarred - LM3ALLEM (Exclusive Music Video) |  (سعد لمجرد - لمعلم (فيديو كليب حصري",
+    "artist": "لمعلم (فيديو كليب حصري",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 1230056022,
+    "likes": 8461308,
+    "published_days_ago": 4009,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Saad Lamjarred | سعد لمجرد",
+    "youtube_id": "_Fwf45pIAtM"
+  },
+  {
+    "id": "en_0066",
+    "song_name": "Miley Cyrus - Flowers",
+    "artist": "Flowers (Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 1210676283,
+    "likes": 9123325,
+    "published_days_ago": 1197,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "MileyCyrusVEVO",
+    "youtube_id": "G7KNmW9a75Y"
+  },
+  {
+    "id": "en_0067",
+    "song_name": "Daru Badnaam | Kamal Kahlon & Param Singh | Official Video | Pratik Studio | Latest Punjabi Songs",
+    "artist": "Latest Punjabi Songs",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1209917510,
+    "likes": 6562602,
+    "published_days_ago": 3407,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "VIP Records",
+    "youtube_id": "bzW9fmwcmG4"
+  },
+  {
+    "id": "en_0068",
+    "song_name": "8 Parche | Baani Sandhu | Gur Sidhu | Gurneet Dosanjh | Punjabi Song | Ishtar Punjabi #punjabisong",
+    "artist": "Ishtar Punjabi #punjabisong",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1195902580,
+    "likes": 6557268,
+    "published_days_ago": 2416,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Ishtar Punjabi",
+    "youtube_id": "8WWv5_k8D14"
+  },
+  {
+    "id": "en_0069",
+    "song_name": "Akon - Right Now (Na Na Na)",
+    "artist": "Right Now (Na Na Na) (Official Video)",
+    "mood": [
+      "romantic",
+      "sad",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1177807564,
+    "likes": 7268127,
+    "published_days_ago": 5975,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "AkonVEVO",
+    "youtube_id": "vIaH35-MLsk"
+  },
+  {
+    "id": "en_0070",
+    "song_name": "One Direction - Night Changes",
+    "artist": "Night Changes",
+    "mood": [
+      "calm"
+    ],
+    "context": [
+      "night"
+    ],
+    "trend_score": 54,
+    "views": 1157386665,
+    "likes": 9385707,
+    "published_days_ago": 4171,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "OneDirectionVEVO",
+    "youtube_id": "syFZfO_wfMQ"
+  },
+  {
+    "id": "en_0071",
+    "song_name": "Jaha Tum Rahoge | Maheruh | Amit Dolawat & Drisha More | Altamash Faridi | Kalyan Bhardhan",
+    "artist": "Kalyan Bhardhan",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 50,
+    "views": 1124067640,
+    "likes": 1850239,
+    "published_days_ago": 3094,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "Mi3GdCyzHCY"
+  },
+  {
+    "id": "en_0072",
+    "song_name": "'Chittiyaan Kalaiyaan' FULL VIDEO SONG | Roy | Meet Bros Anjjan, Kanika Kapoor | T-SERIES",
+    "artist": "T-SERIES",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 1016366500,
+    "likes": 4155636,
+    "published_days_ago": 4082,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "zpsVpnvFfZQ"
+  },
+  {
+    "id": "en_0073",
+    "song_name": "CALIFORNIA LOVE Cheema Y | Gur Sidhu | Punjabi Song 2023",
+    "artist": "Punjabi Song 2023",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 362810783,
+    "likes": 1637842,
+    "published_days_ago": 1141,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Brown Town Music",
+    "youtube_id": "rSxTumD4kew"
+  },
+  {
+    "id": "en_0074",
+    "song_name": "WAVY (OFFICIAL VIDEO) KARAN AUJLA | LATEST PUNJABI SONGS 2024",
+    "artist": "LATEST PUNJABI SONGS 2024",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 44,
+    "views": 348543781,
+    "likes": 1698358,
+    "published_days_ago": 524,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "Karan Aujla",
+    "youtube_id": "XTp5jaRU3Ws"
+  },
+  {
+    "id": "en_0075",
+    "song_name": "Old to New-4 | KuHu Gracia | Ft. Abhishek Raina | Bollywood Romantic Songs | The Love Mashup",
+    "artist": "The Love Mashup",
+    "mood": [
+      "romantic",
+      "calm",
+      "nostalgic"
+    ],
+    "context": [
+      "nature"
+    ],
+    "trend_score": 30,
+    "views": 171981174,
+    "likes": 1099582,
+    "published_days_ago": 2374,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "KuHu Gracia Official",
+    "youtube_id": "Fix4uM-gmbY"
+  },
+  {
+    "id": "en_0076",
+    "song_name": "Happy Birthday | Disco Singh | Diljit Dosanjh | Surveen Chawla | Latest Punjabi Songs 2024",
+    "artist": "Latest Punjabi Songs 2024",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 141999401,
+    "likes": 899777,
+    "published_days_ago": 4405,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Speed Records",
+    "youtube_id": "sqkzN2Ye_pk"
+  },
+  {
+    "id": "en_0077",
+    "song_name": "Latest Punjabi Songs 2024 - Lahore (Full Video) Gulab Sidhu | Jang Dhillon | New Punjabi Songs 2024",
+    "artist": "Lahore (Full Video) Gulab Sidhu | Jang Dhillon | New Punjabi",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 85385062,
+    "likes": 389816,
+    "published_days_ago": 520,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Gulab Sidhu Music",
+    "youtube_id": "WGixRvyCR00"
+  },
+  {
+    "id": "en_0078",
+    "song_name": "IDK HOW (MUSIC VIDEO) KARAN AUJLA  | FOUR ME EP  | LATEST PUNJABI SONGS 2024",
+    "artist": "LATEST PUNJABI SONGS 2024",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 66241285,
+    "likes": 539382,
+    "published_days_ago": 666,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Rehaan Records",
+    "youtube_id": "fqTR0UUL-OQ"
+  },
+  {
+    "id": "en_0079",
+    "song_name": "Dean Lewis - With You",
+    "artist": "With You (Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 41,
+    "views": 45393621,
+    "likes": 414707,
+    "published_days_ago": 469,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "DeanLewisVEVO",
+    "youtube_id": "GurljGjfrVs"
+  },
+  {
+    "id": "en_0080",
+    "song_name": "That's the Way It Is - Music Travel Love ft. Bugoy Drilon",
+    "artist": "Music Travel Love ft. Bugoy Drilon",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "travel"
+    ],
+    "trend_score": 31,
+    "views": 42797572,
+    "likes": 142655,
+    "published_days_ago": 589,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Music Travel Love",
+    "youtube_id": "ILJkRQwhDec"
+  },
+  {
+    "id": "en_0081",
+    "song_name": "Ed Sheeran - Perfect (lyrics) || Mix Playlist",
+    "artist": "Perfect (lyrics) || Mix Playlist",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 42212892,
+    "likes": 195630,
+    "published_days_ago": 921,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Yuking Lyrics",
+    "youtube_id": "fTrqoVSrw1Y"
+  },
+  {
+    "id": "en_0082",
+    "song_name": "Boyce Avenue Acoustic Cover Love Songs/Wedding Songs (Connie Talbot, Jennel Garcia, Hannah Trigwell)",
+    "artist": "Boyce Avenue",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 37759225,
+    "likes": 229641,
+    "published_days_ago": 1901,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Boyce Avenue",
+    "youtube_id": "Ji1EI-itIs4"
+  },
+  {
+    "id": "en_0083",
+    "song_name": "Marijuana Movie Songs | En Edhal Oram Video | Rishi Rithvik | Asha Parthalom | Karthick Guru",
+    "artist": "Karthick Guru",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 37416707,
+    "likes": 53587,
+    "published_days_ago": 2258,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "TrendMusic",
+    "youtube_id": "U-BAhcRqihw"
+  },
+  {
+    "id": "en_0084",
+    "song_name": "Boyce Avenue Acoustic Cover Love Songs/Wedding Songs Vol. 3 (Connie Talbot, Alex Goot)",
+    "artist": "Boyce Avenue",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "party",
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 36333626,
+    "likes": 237922,
+    "published_days_ago": 1495,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Boyce Avenue",
+    "youtube_id": "tf7VWiRbGRs"
+  },
+  {
+    "id": "en_0085",
+    "song_name": "Best Of Arijit Singh Romantic Songs |#arijitsingh #romanticsongs #bestofbest Arijit Singh all Sonng",
+    "artist": "#arijitsingh #romanticsongs #bestofbest Arijit Singh all Son",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 30377818,
+    "likes": 165707,
+    "published_days_ago": 708,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Ronak Bhatt",
+    "youtube_id": "IVjl5u4s-mQ"
+  },
+  {
+    "id": "en_0086",
+    "song_name": "#lyrics #song #live #englishsongs #music #musicvideo #songs #lyricvideo #lyricsvideo",
+    "artist": "Lilith Asu",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 28232523,
+    "likes": 759215,
+    "published_days_ago": 736,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Lilith Asu",
+    "youtube_id": "jX30L1IiHlw"
+  },
+  {
+    "id": "en_0087",
+    "song_name": "24 HIT songs from 2024 in 1 Minute",
+    "artist": "Logan Alexandra",
+    "mood": [
+      "sad",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 50,
+    "views": 31830722,
+    "likes": 833967,
+    "published_days_ago": 478,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "Logan Alexandra",
+    "youtube_id": "29zyVX_iyHc"
+  },
+  {
+    "id": "en_0088",
+    "song_name": "Bruno Mars - The Lazy Song (Official Music Video)",
+    "artist": "The Lazy Song (Official Music Video)",
+    "mood": [
+      "sad",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 3198454276,
+    "likes": 16503897,
+    "published_days_ago": 5487,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Bruno Mars",
+    "youtube_id": "fLexgOxsZu0"
+  },
+  {
+    "id": "en_0089",
+    "song_name": "Little Mix - Black Magic",
+    "artist": "Black Magic (Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 1135203649,
+    "likes": 8490868,
+    "published_days_ago": 3983,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "littlemixVEVO",
+    "youtube_id": "MkElfR_NPBI"
+  },
+  {
+    "id": "en_0090",
+    "song_name": "Dua Lipa - Levitating Featuring DaBaby (Official Music Video)",
+    "artist": "Levitating Featuring DaBaby (Official Music Video)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 1095389973,
+    "likes": 8606909,
+    "published_days_ago": 2029,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Dua Lipa",
+    "youtube_id": "TUVcZfQe-Kw"
+  },
+  {
+    "id": "en_0091",
+    "song_name": "Céline Dion - I'm Alive (Official HD Video)",
+    "artist": "I'm Alive (Official HD Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 42,
+    "views": 671624756,
+    "likes": 2375734,
+    "published_days_ago": 4990,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "CelineDionVEVO",
+    "youtube_id": "NJsa6-y4sDs"
+  },
+  {
+    "id": "en_0092",
+    "song_name": "Balam Pichkari (Full Video) | Yeh Jawaani Hai Deewani | Pritam | Ranbir Kapoor, Deepika | Holi Song",
+    "artist": "Holi Song",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 37,
+    "views": 496755012,
+    "likes": 2545070,
+    "published_days_ago": 4688,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "T-Series",
+    "youtube_id": "0WtRNGubWGA"
+  },
+  {
+    "id": "en_0093",
+    "song_name": "Bobby McFerrin - Don't Worry Be Happy (Official Music Video)",
+    "artist": "Don't Worry Be Happy (Official Music Video)",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 39,
+    "views": 462161817,
+    "likes": 4039723,
+    "published_days_ago": 6267,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "BobbyMcFerrinVEVO",
+    "youtube_id": "d-diB65scQU"
+  },
+  {
+    "id": "en_0094",
+    "song_name": "Diana and Roma Happy Birthday Song (Official Music Video)",
+    "artist": "✿ Kids Diana Show",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 357929198,
+    "likes": 925144,
+    "published_days_ago": 1837,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "✿ Kids Diana Show",
+    "youtube_id": "xs62_c-YfRc"
+  },
+  {
+    "id": "en_0095",
+    "song_name": "Kygo - Happy Now ft. Sandro Cavazza",
+    "artist": "Happy Now ft. Sandro Cavazza (Official Video)",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 271370640,
+    "likes": 1023159,
+    "published_days_ago": 2700,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "KygoOfficialVEVO",
+    "youtube_id": "zaIsVnmwdqg"
+  },
+  {
+    "id": "en_0096",
+    "song_name": "Happy Birthday ( Official Video ) Shanky Goswami | New Haryanvi Songs Haryanavi 2023 | Vikram Pannu",
+    "artist": "Vikram Pannu",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 218463754,
+    "likes": 1442635,
+    "published_days_ago": 1895,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Shaira Beats Music",
+    "youtube_id": "wN6DCKCQ7X4"
+  },
+  {
+    "id": "en_0097",
+    "song_name": "Best Happy Birthday To You | Happy Birthday Songs Remix 2026",
+    "artist": "Happy Birthday Songs Remix 2026",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "night"
+    ],
+    "trend_score": 30,
+    "views": 169564881,
+    "likes": 842617,
+    "published_days_ago": 2204,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Happy Birthday Channel",
+    "youtube_id": "O2aQhWwxuyY"
+  },
+  {
+    "id": "en_0098",
+    "song_name": "Harmonize - Happy Birthday ( Official Music Video)",
+    "artist": "Happy Birthday ( Official Music Video)",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 62130445,
+    "likes": 234313,
+    "published_days_ago": 3276,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Harmonize",
+    "youtube_id": "l9O_SFcH4Kk"
+  },
+  {
+    "id": "en_0099",
+    "song_name": "Happy Dance! | Kids Action Songs",
+    "artist": "Kids Action Songs",
+    "mood": [
+      "sad",
+      "happy",
+      "nostalgic"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 33744745,
+    "likes": 15178,
+    "published_days_ago": 796,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Bounce Patrol - Kids Songs",
+    "youtube_id": "CTd-6oldmVM"
+  },
+  {
+    "id": "en_0100",
+    "song_name": "Party Songs Audio Jukebox - Chandigarh Mein, Kala Chashma, Hook Up Song | Happy New Year 2023",
+    "artist": "Chandigarh Mein, Kala Chashma, Hook Up Song | Happy New Year",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 28460104,
+    "likes": 207961,
+    "published_days_ago": 2305,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "ZSNnoMDOgFc"
+  },
+  {
+    "id": "en_0101",
+    "song_name": "Summer songs to dance ~ Best songs that make you dance",
+    "artist": "A.C Vibes",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 27715804,
+    "likes": 144696,
+    "published_days_ago": 1095,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "A.C Vibes",
+    "youtube_id": "hOyn0bCydZo"
+  },
+  {
+    "id": "en_0102",
+    "song_name": "Meghan Trainor - Better When I'm Dancin' (Lyrics)",
+    "artist": "Better When I'm Dancin' (Lyrics)",
+    "mood": [
+      "calm"
+    ],
+    "context": [
+      "nature"
+    ],
+    "trend_score": 30,
+    "views": 26310434,
+    "likes": 91180,
+    "published_days_ago": 832,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Unique Sound",
+    "youtube_id": "zg49cOyfREc"
+  },
+  {
+    "id": "en_0103",
+    "song_name": "70's - 90's UPBEAT MUSIC - Sweetnotes Live @ Hinatuan",
+    "artist": "Sweetnotes Live @ Hinatuan",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 15672046,
+    "likes": 54775,
+    "published_days_ago": 1003,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Sweetnotes Music Official",
+    "youtube_id": "2iYuaV5wfpo"
+  },
+  {
+    "id": "en_0104",
+    "song_name": "Diamond Platnumz - Happy (Official Music Video)",
+    "artist": "Happy (Official Music Video)",
+    "mood": [
+      "happy",
+      "energetic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 66,
+    "views": 12121236,
+    "likes": 163529,
+    "published_days_ago": 33,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.73,
+    "aesthetic_tags": [],
+    "channel": "Diamond Platnumz",
+    "youtube_id": "fBOvfOpR39E"
+  },
+  {
+    "id": "en_0105",
+    "song_name": "Ace of Base - Happy Nation [12\" Version]  (Music Video)",
+    "artist": "Happy Nation [12\" Version]  (Music Video)",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 11341241,
+    "likes": 76666,
+    "published_days_ago": 595,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Ace of Base",
+    "youtube_id": "iXPhGC_oMis"
+  },
+  {
+    "id": "en_0106",
+    "song_name": "ZAYN - Dusk Till Dawn ft. Sia",
+    "artist": "Dusk Till Dawn (Official Video) ft. Sia",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 2383382009,
+    "likes": 16009874,
+    "published_days_ago": 3150,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "ZaynVEVO",
+    "youtube_id": "tt2k8PGm-TI"
+  },
+  {
+    "id": "en_0107",
+    "song_name": "Calum Scott - You Are The Reason",
+    "artist": "You Are The Reason (Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1358586777,
+    "likes": 8020108,
+    "published_days_ago": 3030,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "CalumScottVEVO",
+    "youtube_id": "ShZ978fBl6Y"
+  },
+  {
+    "id": "en_0108",
+    "song_name": "Post Malone - Psycho (Official Music Video) ft. Ty Dolla $ign",
+    "artist": "Psycho (Official Music Video) ft. Ty Dolla $ign",
+    "mood": [
+      "sad"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1172368866,
+    "likes": 6736105,
+    "published_days_ago": 2954,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "PostMaloneVEVO",
+    "youtube_id": "au2n7VVGv_c"
+  },
+  {
+    "id": "en_0109",
+    "song_name": "Disturbed  - The Sound Of Silence (Official Music Video) [4K UPGRADE]",
+    "artist": "The Sound Of Silence (Official Music Video) [4K UPGRADE]",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1170137277,
+    "likes": 6967043,
+    "published_days_ago": 3789,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Disturbed",
+    "youtube_id": "u9Dg-g7t2l4"
+  },
+  {
+    "id": "en_0110",
+    "song_name": "Khalid - Young Dumb & Broke",
+    "artist": "Young Dumb & Broke (Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1072207528,
+    "likes": 6849121,
+    "published_days_ago": 3187,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "KhalidVEVO",
+    "youtube_id": "IPfJnp1guPc"
+  },
+  {
+    "id": "en_0111",
+    "song_name": "Keane - Somewhere Only We Know (Official Music Video)",
+    "artist": "Somewhere Only We Know (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 974446534,
+    "likes": 6118184,
+    "published_days_ago": 6041,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "KeaneVEVO",
+    "youtube_id": "Oextk-If8HQ"
+  },
+  {
+    "id": "en_0112",
+    "song_name": "Prada : Jass Manak Satti Dhillon - Romantic Song - Hit Punjabi Song - Geet MP3",
+    "artist": "Geet MP3",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 937563172,
+    "likes": 6742322,
+    "published_days_ago": 2871,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "Geet MP3",
+    "youtube_id": "PjTU0DmBWiU"
+  },
+  {
+    "id": "en_0113",
+    "song_name": "Anne-Marie & James Arthur - Rewrite The Stars [from The Greatest Showman: Reimagined]",
+    "artist": "Rewrite The Stars [from The Greatest Showman: Reimagined]",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 46,
+    "views": 749302879,
+    "likes": 4842520,
+    "published_days_ago": 2715,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.63,
+    "aesthetic_tags": [],
+    "channel": "Anne-Marie",
+    "youtube_id": "pRfmrE0ToTo"
+  },
+  {
+    "id": "en_0114",
+    "song_name": "Justin Bieber - Ghost",
+    "artist": "Ghost",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 39,
+    "views": 497456058,
+    "likes": 4142071,
+    "published_days_ago": 1659,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "JustinBieberVEVO",
+    "youtube_id": "Fp8msa5uYsc"
+  },
+  {
+    "id": "en_0115",
+    "song_name": "Adele - Easy On Me (Official Lyric Video)",
+    "artist": "Easy On Me (Official Lyric Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 37,
+    "views": 488962296,
+    "likes": 2217205,
+    "published_days_ago": 1617,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "AdeleVEVO",
+    "youtube_id": "X-yIEMduRXk"
+  },
+  {
+    "id": "en_0116",
+    "song_name": "TU SHAYAR BANAAGI | Parry Sidhu x MixSingh",
+    "artist": "Parry Sidhu x MixSingh",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 410568409,
+    "likes": 3032023,
+    "published_days_ago": 1905,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "MixSingh",
+    "youtube_id": "z2AkDCrlm3E"
+  },
+  {
+    "id": "en_0117",
+    "song_name": "Taylor Swift - Lover (Official Music Video)",
+    "artist": "Lover (Official Music Video)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 37,
+    "views": 350398553,
+    "likes": 3964596,
+    "published_days_ago": 2436,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Taylor Swift",
+    "youtube_id": "-BjZmE2gtdo"
+  },
+  {
+    "id": "en_0118",
+    "song_name": "Little Mix - No More Sad Songs ft. Machine Gun Kelly",
+    "artist": "No More Sad Songs (Official Video) ft. Machine Gun Kelly",
+    "mood": [
+      "sad"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 238563943,
+    "likes": 2002445,
+    "published_days_ago": 3312,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "littlemixVEVO",
+    "youtube_id": "HHCC4ndeJyE"
+  },
+  {
+    "id": "en_0119",
+    "song_name": "Pyaar Tune Kya Kiya - Official Theme Song | Love Romance Sad Song | Amjad Nadeem , Jubin Nautiyal",
+    "artist": "Official Theme Song | Love Romance Sad Song | Amjad Nadeem ,",
+    "mood": [
+      "romantic",
+      "sad"
+    ],
+    "context": [
+      "romantic"
+    ],
+    "trend_score": 30,
+    "views": 168337668,
+    "likes": 1090442,
+    "published_days_ago": 4033,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Zee Music Company",
+    "youtube_id": "gC84vJf0xeU"
+  },
+  {
+    "id": "en_0120",
+    "song_name": "One Direction - Story of My Life (Official 4K Video)",
+    "artist": "Story of My Life (Official 4K Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 160642028,
+    "likes": 1640151,
+    "published_days_ago": 2098,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "OneDirectionVEVO",
+    "youtube_id": "PJYpZ4hkXJE"
+  },
+  {
+    "id": "en_0121",
+    "song_name": "Night 🌃 sad 💔songs for sleeping broken heart❤️‍🩹 | slowed + reverb mix | lofi hindi bollywood song",
+    "artist": "lofi hindi bollywood song",
+    "mood": [
+      "romantic",
+      "sad",
+      "happy"
+    ],
+    "context": [
+      "night"
+    ],
+    "trend_score": 31,
+    "views": 150210152,
+    "likes": 1675698,
+    "published_days_ago": 1182,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Fun2s LoFi",
+    "youtube_id": "LGmqw3yT0NE"
+  },
+  {
+    "id": "en_0122",
+    "song_name": "Alone lofi songs || Sad songs 😍 || mind fresh Songs || mashup songs #alone #lofi #songs",
+    "artist": "mashup songs #alone #lofi #songs",
+    "mood": [
+      "romantic",
+      "sad",
+      "calm"
+    ],
+    "context": [
+      "night"
+    ],
+    "trend_score": 30,
+    "views": 95757781,
+    "likes": 821396,
+    "published_days_ago": 721,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "SB...CREATOR",
+    "youtube_id": "yD2Yl6EbPlk"
+  },
+  {
+    "id": "en_0123",
+    "song_name": "Alan Walker - Faded",
+    "artist": "Faded",
+    "mood": [
+      "happy",
+      "motivational"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 3959028084,
+    "likes": 29991893,
+    "published_days_ago": 3794,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Alan Walker",
+    "youtube_id": "60ItHLz5WEA"
+  },
+  {
+    "id": "en_0124",
+    "song_name": "Calvin Harris, Rihanna - This Is What You Came For",
+    "artist": "This Is What You Came For (Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 2931774265,
+    "likes": 11725410,
+    "published_days_ago": 3598,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "CalvinHarrisVEVO",
+    "youtube_id": "kOkQ4T5WO9E"
+  },
+  {
+    "id": "en_0125",
+    "song_name": "Martin Garrix - Animals",
+    "artist": "Animals (Official Video)",
+    "mood": [
+      "sad",
+      "energetic",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 54,
+    "views": 1857800031,
+    "likes": 13022414,
+    "published_days_ago": 4693,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "STMPD RCRDS",
+    "youtube_id": "gCYcHz2k5x0"
+  },
+  {
+    "id": "en_0126",
+    "song_name": "Swedish House Mafia ft. John Martin - Don't You Worry Child",
+    "artist": "Don't You Worry Child (Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 1136796853,
+    "likes": 5521356,
+    "published_days_ago": 4969,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "SHMVEVO",
+    "youtube_id": "1y6smkh6c-0"
+  },
+  {
+    "id": "en_0127",
+    "song_name": "Kygo - Firestone ft. Conrad Sewell",
+    "artist": "Firestone ft. Conrad Sewell (Official Video)",
+    "mood": [
+      "energetic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 986201253,
+    "likes": 3979810,
+    "published_days_ago": 4064,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "KygoOfficialVEVO",
+    "youtube_id": "9Sc-ir2UwGU"
+  },
+  {
+    "id": "en_0128",
+    "song_name": "Jonas Blue - Rise ft. Jack & Jack",
+    "artist": "Rise ft. Jack & Jack (Official Video)",
+    "mood": [
+      "motivational"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 39,
+    "views": 562699957,
+    "likes": 2892756,
+    "published_days_ago": 2869,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "JonasBlueVEVO",
+    "youtube_id": "btrzs54s1Rc"
+  },
+  {
+    "id": "en_0129",
+    "song_name": "David Guetta & Bebe Rexha - I'm Good (Blue) [Official Music Video]",
+    "artist": "I'm Good (Blue) [Official Music Video]",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 385795438,
+    "likes": 3020598,
+    "published_days_ago": 1311,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "David Guetta",
+    "youtube_id": "90RLzVUuXe4"
+  },
+  {
+    "id": "en_0130",
+    "song_name": "David Guetta ft. Zara Larsson - This One's For You (Music Video) (UEFA EURO 2016™ Official Song)",
+    "artist": "This One's For You (Music Video) (UEFA EURO 2016™ Official S",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 35,
+    "views": 346921344,
+    "likes": 2716724,
+    "published_days_ago": 3604,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "David Guetta",
+    "youtube_id": "MoHnffhBwqs"
+  },
+  {
+    "id": "en_0131",
+    "song_name": "David Guetta & Bebe Rexha - I'm Good (Blue) [Live Performance]",
+    "artist": "I'm Good (Blue) [Live Performance]",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 32,
+    "views": 339570275,
+    "likes": 1144913,
+    "published_days_ago": 1277,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "David Guetta",
+    "youtube_id": "kXhBKjDKF84"
+  },
+  {
+    "id": "en_0132",
+    "song_name": "Yellow Claw - Till It Hurts ft. Ayden [Official Music Video]",
+    "artist": "Till It Hurts ft. Ayden [Official Music Video]",
+    "mood": [
+      "energetic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 238757543,
+    "likes": 1147830,
+    "published_days_ago": 4177,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Yellow Claw",
+    "youtube_id": "0tHH0BNH0Sc"
+  },
+  {
+    "id": "en_0133",
+    "song_name": "RÜFÜS DU SOL ●● Innerbloom",
+    "artist": "RÜFÜS DU SOL",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 206327940,
+    "likes": 1341130,
+    "published_days_ago": 3466,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "RÜFÜS DU SOL",
+    "youtube_id": "Tx9zMFodNtA"
+  },
+  {
+    "id": "en_0134",
+    "song_name": "Titanic - My Heart Will Go On  (Laback feat. Alexis Carlier EDM Cover)",
+    "artist": "My Heart Will Go On  (Laback feat. Alexis Carlier EDM Cover)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 149111988,
+    "likes": 587342,
+    "published_days_ago": 676,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "LABACK",
+    "youtube_id": "-sMdatCs4Pc"
+  },
+  {
+    "id": "en_0135",
+    "song_name": "EDM MIX झकोरा मारे झुलनी - #Pramod Premi Yadav - Jhakora Mare Jhulani - #Karishma Kakkar | #Dj #RDX",
+    "artist": "#Karishma Kakkar | #Dj #RDX",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 52919921,
+    "likes": 203494,
+    "published_days_ago": 798,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "R.D.X EDM DROP MIX official ",
+    "youtube_id": "G8ovH37kd-E"
+  },
+  {
+    "id": "en_0136",
+    "song_name": "Forever Young - Alphaville (LABACK EDM Cover)",
+    "artist": "Alphaville (LABACK EDM Cover)",
+    "mood": [
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 51283859,
+    "likes": 166176,
+    "published_days_ago": 541,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "LABACK",
+    "youtube_id": "LwucePphA2c"
+  },
+  {
+    "id": "en_0137",
+    "song_name": "Alan Walker, Dua Lipa, Coldplay, Martin Garrix & Kygo, The Chainsmokers Style 🔥 Summer Vibes #1",
+    "artist": "Deep Board",
+    "mood": [
+      "calm",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 39728729,
+    "likes": 238066,
+    "published_days_ago": 891,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Deep Board",
+    "youtube_id": "dIQq3AZkQqg"
+  },
+  {
+    "id": "en_0138",
+    "song_name": "Gladiator - Now we are free (LABACK feat. Alexis Carlier EDM Cover)",
+    "artist": "Now we are free (LABACK feat. Alexis Carlier EDM Cover)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 34582689,
+    "likes": 174878,
+    "published_days_ago": 723,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "LABACK",
+    "youtube_id": "oFsm7zkVaFE"
+  },
+  {
+    "id": "en_0139",
+    "song_name": "AA GAYA AA GAYA REMIX | DJ SIDAY COME BACK SPACIAL EDM| EXTENDED DANCE MIX | DJ SIDAY REMIX 2024 NEW",
+    "artist": "DJ SIDAY REMIX 2024 NEW",
+    "mood": [
+      "romantic",
+      "happy",
+      "energetic"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 33,
+    "views": 25288575,
+    "likes": 104551,
+    "published_days_ago": 546,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Dj SIDAY DROP MIX",
+    "youtube_id": "iLfvbWdLZNI"
+  },
+  {
+    "id": "en_0140",
+    "song_name": "New Year Music Mix 2025 🎧 Best EDM Music 2024 Party Mix 🎧 Remixes of Popular Songs",
+    "artist": "Magic Club",
+    "mood": [
+      "happy",
+      "nostalgic"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 23108516,
+    "likes": 120436,
+    "published_days_ago": 1212,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Magic Club",
+    "youtube_id": "BhrpaOP2IUM"
+  },
+  {
+    "id": "en_0141",
+    "song_name": "Moonlight Shadow - Mike Oldfield (LABACK EDM Cover)",
+    "artist": "Mike Oldfield (LABACK EDM Cover)",
+    "mood": [
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 20147904,
+    "likes": 89212,
+    "published_days_ago": 517,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "LABACK",
+    "youtube_id": "stqBS3m-3WE"
+  },
+  {
+    "id": "en_0142",
+    "song_name": "Nelly - Dilemma (Official Music Video) ft. Kelly Rowland",
+    "artist": "Dilemma (Official Music Video) ft. Kelly Rowland",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1807105289,
+    "likes": 9225772,
+    "published_days_ago": 6044,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "NellyVEVO",
+    "youtube_id": "8WYHDfJDPDc"
+  },
+  {
+    "id": "en_0143",
+    "song_name": "Bruno Mars - 24K Magic (Official Music Video)",
+    "artist": "24K Magic (Official Music Video)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1789020662,
+    "likes": 9066924,
+    "published_days_ago": 3486,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Bruno Mars",
+    "youtube_id": "UqyT8IEBkvY"
+  },
+  {
+    "id": "en_0144",
+    "song_name": "Akon - Lonely (Official Music Video)",
+    "artist": "Lonely (Official Music Video)",
+    "mood": [
+      "romantic",
+      "sad",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 55,
+    "views": 1331676887,
+    "likes": 11635763,
+    "published_days_ago": 6155,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.68,
+    "aesthetic_tags": [],
+    "channel": "AkonVEVO",
+    "youtube_id": "6EEW-9NDM5k"
+  },
+  {
+    "id": "en_0145",
+    "song_name": "Eminem - When I'm Gone (Official Music Video)",
+    "artist": "When I'm Gone (Official Music Video)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 1069718984,
+    "likes": 6428515,
+    "published_days_ago": 6155,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "EminemVEVO",
+    "youtube_id": "1wYNFfgrXTI"
+  },
+  {
+    "id": "en_0146",
+    "song_name": "Lil Wayne - Mirror ft. Bruno Mars (Official Music Video) ft. Bruno Mars",
+    "artist": "Mirror ft. Bruno Mars (Official Music Video) ft. Bruno Mars",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 961227253,
+    "likes": 5832865,
+    "published_days_ago": 5196,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "LilWayneVEVO",
+    "youtube_id": "OZLUa8JUR18"
+  },
+  {
+    "id": "en_0147",
+    "song_name": "6IX9INE- GOOBA (Official Music Video)",
+    "artist": "Tekashi 6ix9ine",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 55,
+    "views": 928348184,
+    "likes": 12289384,
+    "published_days_ago": 2176,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.68,
+    "aesthetic_tags": [],
+    "channel": "Tekashi 6ix9ine",
+    "youtube_id": "pPw_izFr5PA"
+  },
+  {
+    "id": "en_0148",
+    "song_name": "Sean Kingston, Justin Bieber - Eenie Meenie",
+    "artist": "Eenie Meenie (Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 50,
+    "views": 883803552,
+    "likes": 6109037,
+    "published_days_ago": 5839,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "seankingstonVEVO",
+    "youtube_id": "prmmCg5bKxA"
+  },
+  {
+    "id": "en_0149",
+    "song_name": "Chris Brown - With You (Official HD Video)",
+    "artist": "With You (Official HD Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 47,
+    "views": 827695440,
+    "likes": 3417030,
+    "published_days_ago": 6025,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.64,
+    "aesthetic_tags": [],
+    "channel": "ChrisBrownVEVO",
+    "youtube_id": "nmjdaBaZe8Y"
+  },
+  {
+    "id": "en_0150",
+    "song_name": "Roddy Ricch - The Box [Official Music Video]",
+    "artist": "The Box [Official Music Video]",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 50,
+    "views": 767443610,
+    "likes": 9991354,
+    "published_days_ago": 2246,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "Roddy Ricch",
+    "youtube_id": "UNZqm3dxd2w"
+  },
+  {
+    "id": "en_0151",
+    "song_name": "50 Cent - 21 Questions (Official Music Video) ft. Nate Dogg",
+    "artist": "21 Questions (Official Music Video) ft. Nate Dogg",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 45,
+    "views": 730747280,
+    "likes": 3788678,
+    "published_days_ago": 6155,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "50CentVEVO",
+    "youtube_id": "cDMhlvbOFaM"
+  },
+  {
+    "id": "en_0152",
+    "song_name": "Hungria - Amor e Fé (Official Music Video) #CheiroDoMato",
+    "artist": "Amor e Fé (Official Music Video) #CheiroDoMato",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 45,
+    "views": 729041622,
+    "likes": 3819154,
+    "published_days_ago": 2071,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "Hungria",
+    "youtube_id": "iZq0u3quAqo"
+  },
+  {
+    "id": "en_0153",
+    "song_name": "Lil Wayne - Lollipop (Official Music Video) ft. Static",
+    "artist": "Lollipop (Official Music Video) ft. Static",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 44,
+    "views": 718482377,
+    "likes": 3557772,
+    "published_days_ago": 6155,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "LilWayneVEVO",
+    "youtube_id": "2IH8tNQAzSs"
+  },
+  {
+    "id": "en_0154",
+    "song_name": "Soulja Boy Tell'em - Crank That (Soulja Boy) (Official Music Video)",
+    "artist": "Crank That (Soulja Boy) (Official Music Video)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 44,
+    "views": 645028972,
+    "likes": 5159170,
+    "published_days_ago": 5996,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "SouljaBoyTellemVEVO",
+    "youtube_id": "8UFIYGkROII"
+  },
+  {
+    "id": "en_0155",
+    "song_name": "@SaiAbhyankkar - Katchi Sera (Music Video) | Samyuktha | Ken Royson | Think Indie",
+    "artist": "Katchi Sera (Music Video) | Samyuktha | Ken Royson | Think I",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "travel"
+    ],
+    "trend_score": 32,
+    "views": 262604130,
+    "likes": 1896072,
+    "published_days_ago": 822,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Think Music India",
+    "youtube_id": "VU23OPQ1Pmc"
+  },
+  {
+    "id": "en_0156",
+    "song_name": "Akshath - Nadaaniyan Aisha Ahmed",
+    "artist": "Nadaaniyan (Official Video) Aisha Ahmed",
+    "mood": [
+      "romantic",
+      "happy"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 228553897,
+    "likes": 1706052,
+    "published_days_ago": 667,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Akshath ",
+    "youtube_id": "gPpQNzQP6gE"
+  },
+  {
+    "id": "en_0157",
+    "song_name": "Taylor Swift - Fortnight (feat. Post Malone) (Official Music Video)",
+    "artist": "Fortnight (feat. Post Malone) (Official Music Video)",
+    "mood": [
+      "sad",
+      "calm"
+    ],
+    "context": [
+      "night"
+    ],
+    "trend_score": 32,
+    "views": 173048960,
+    "likes": 2144518,
+    "published_days_ago": 734,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "Taylor Swift",
+    "youtube_id": "q3zqJs7JUCQ"
+  },
+  {
+    "id": "en_0158",
+    "song_name": "sombr - back to friends",
+    "artist": "back to friends (official video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 47,
+    "views": 133686420,
+    "likes": 1119005,
+    "published_days_ago": 385,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.64,
+    "aesthetic_tags": [],
+    "channel": "sombr",
+    "youtube_id": "c8zq4kAn_O0"
+  },
+  {
+    "id": "en_0159",
+    "song_name": "sombr - back to friends (official audio)",
+    "artist": "back to friends (official audio)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 40,
+    "views": 98060408,
+    "likes": 616952,
+    "published_days_ago": 483,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "sombr",
+    "youtube_id": "fOQ_-gZsnYQ"
+  },
+  {
+    "id": "en_0160",
+    "song_name": "Djo - End of Beginning (Official Lyric Video)",
+    "artist": "End of Beginning (Official Lyric Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 42129073,
+    "likes": 454775,
+    "published_days_ago": 786,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Djo Music",
+    "youtube_id": "EoVQ_TQFJy0"
+  },
+  {
+    "id": "en_0161",
+    "song_name": "Djo - End of Beginning (Official Visualiser)",
+    "artist": "End of Beginning (Official Visualiser)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 41703660,
+    "likes": 580430,
+    "published_days_ago": 773,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Djo Music",
+    "youtube_id": "oXSw8DGjf5E"
+  },
+  {
+    "id": "en_0162",
+    "song_name": "Jaane Na Tu (Official Music Video) : Bhoomi | Almost Loved - EP | UR Debut | Latest Hindi Indie Song",
+    "artist": "EP | UR Debut | Latest Hindi Indie Song",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 55,
+    "views": 21429185,
+    "likes": 229681,
+    "published_days_ago": 205,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.68,
+    "aesthetic_tags": [],
+    "channel": "UR DEBUT",
+    "youtube_id": "xeOttl1d2bo"
+  },
+  {
+    "id": "en_0163",
+    "song_name": "Gracie Abrams - Risk (Official Music Video)",
+    "artist": "Risk (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 18772024,
+    "likes": 236881,
+    "published_days_ago": 722,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "GracieAbramsVEVO",
+    "youtube_id": "TiMuT2BhwO0"
+  },
+  {
+    "id": "en_0164",
+    "song_name": "Morni Official Music Video | Darshan Raval | Divyansha K | Siddharth A B| Naushad Khan | Indie Music",
+    "artist": "Indie Music",
+    "mood": [
+      "romantic",
+      "calm"
+    ],
+    "context": [
+      "nature"
+    ],
+    "trend_score": 51,
+    "views": 13742557,
+    "likes": 163948,
+    "published_days_ago": 288,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "Indie Music Label",
+    "youtube_id": "DoaE_6Y2_8I"
+  },
+  {
+    "id": "en_0165",
+    "song_name": "Twenty One Pilots - Midwest Indigo",
+    "artist": "Midwest Indigo (Official Video)",
+    "mood": [
+      "sad",
+      "nostalgic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 12586687,
+    "likes": 190989,
+    "published_days_ago": 700,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "twenty one pilots",
+    "youtube_id": "mREOvIgImmo"
+  },
+  {
+    "id": "en_0166",
+    "song_name": "Road Trip 🚐 - An Indie/Pop/Rock Playlist | Vol. 3",
+    "artist": "An Indie/Pop/Rock Playlist | Vol. 3",
+    "mood": [
+      "sad",
+      "calm",
+      "nostalgic"
+    ],
+    "context": [
+      "travel",
+      "nature"
+    ],
+    "trend_score": 30,
+    "views": 6505397,
+    "likes": 52635,
+    "published_days_ago": 2106,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "alexrainbirdMusic",
+    "youtube_id": "5rqLNx8Lgj0"
+  },
+  {
+    "id": "en_0167",
+    "song_name": "Positive Morning | Comfortable music that makes you feel positive | Indie/Pop/Folk/Acoustic Playlist",
+    "artist": "Indie/Pop/Folk/Acoustic Playlist",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 3753739,
+    "likes": 87938,
+    "published_days_ago": 881,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Indie Sounds",
+    "youtube_id": "_GTqWBq01qI"
+  },
+  {
+    "id": "en_0168",
+    "song_name": "Into The Woods 🌲 - A Mysterious Indie/Folk/Pop Playlist | Vol. 2",
+    "artist": "A Mysterious Indie/Folk/Pop Playlist | Vol. 2",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "travel"
+    ],
+    "trend_score": 32,
+    "views": 1901975,
+    "likes": 25665,
+    "published_days_ago": 657,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "alexrainbirdMusic",
+    "youtube_id": "byfEF0iQPP4"
+  },
+  {
+    "id": "en_0169",
+    "song_name": "Boliviaz  Redeem  Kramix  Indie  Music  REGGAE   Official  Music  Video  720p",
+    "artist": "vicente barrientos jr",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 1815670,
+    "likes": 8322,
+    "published_days_ago": 2018,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "vicente barrientos jr",
+    "youtube_id": "Izc5ZEdGRiY"
+  },
+  {
+    "id": "en_0170",
+    "song_name": "Feeling Good ☕ An Indie/Pop/Folk playlist for positive feelings and energy",
+    "artist": "Travel Love",
+    "mood": [
+      "energetic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 1359142,
+    "likes": 29856,
+    "published_days_ago": 743,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Travel Love ",
+    "youtube_id": "TjHOFFepOjc"
+  },
+  {
+    "id": "en_0171",
+    "song_name": "Barse/Naina (Visualiser) - Rumii, Chayan | #electronica #indiepop #dnb",
+    "artist": "Rumii, Chayan | #electronica #indiepop #dnb",
+    "mood": [
+      "romantic",
+      "sad"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 1334666,
+    "likes": 26243,
+    "published_days_ago": 644,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "Rumii",
+    "youtube_id": "eiGAg0_y5ro"
+  },
+  {
+    "id": "en_0172",
+    "song_name": "Tom The Lion - Amber",
+    "artist": "Amber (Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 45,
+    "views": 1079738,
+    "likes": 35476,
+    "published_days_ago": 631,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.62,
+    "aesthetic_tags": [],
+    "channel": "Tom The Lion",
+    "youtube_id": "z4NQp6fCWMs"
+  },
+  {
+    "id": "en_0173",
+    "song_name": "Mann Bawra| Adarsh Rao| Indie Songs| New Indian Indie Song 2024 |Latest Indie Songs",
+    "artist": "Latest Indie Songs",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 859080,
+    "likes": 8821,
+    "published_days_ago": 498,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "ffs.",
+    "youtube_id": "sz0vrNLFvz0"
+  },
+  {
+    "id": "en_0174",
+    "song_name": "Nelly Furtado - Say It Right (Official Music Video)",
+    "artist": "Say It Right (Official Music Video)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 1268018183,
+    "likes": 5763813,
+    "published_days_ago": 6155,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "NellyFurtadoVEVO",
+    "youtube_id": "6JnGBs88sL0"
+  },
+  {
+    "id": "en_0175",
+    "song_name": "Nelly - Just A Dream (Official Music Video)",
+    "artist": "Just A Dream (Official Music Video)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 52,
+    "views": 999736345,
+    "likes": 4221552,
+    "published_days_ago": 5693,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.66,
+    "aesthetic_tags": [],
+    "channel": "NellyVEVO",
+    "youtube_id": "N6O2ncUKvlg"
+  },
+  {
+    "id": "en_0176",
+    "song_name": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]",
+    "artist": "Leave the Door Open [Official Video]",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 937417115,
+    "likes": 8056608,
+    "published_days_ago": 1876,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "Bruno Mars",
+    "youtube_id": "adLGHcj_fmA"
+  },
+  {
+    "id": "en_0177",
+    "song_name": "Ella Mai - Boo'd Up",
+    "artist": "Boo'd Up",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 42,
+    "views": 655757979,
+    "likes": 3595967,
+    "published_days_ago": 2919,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "EllaMaiVEVO",
+    "youtube_id": "6YNZlXfW6Ho"
+  },
+  {
+    "id": "en_0178",
+    "song_name": "Ne-Yo - Miss Independent [Official Video]",
+    "artist": "Miss Independent [Official Video]",
+    "mood": [
+      "sad",
+      "calm",
+      "nostalgic"
+    ],
+    "context": [
+      "night"
+    ],
+    "trend_score": 42,
+    "views": 650326546,
+    "likes": 2730592,
+    "published_days_ago": 5975,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "NeYoVEVO",
+    "youtube_id": "k6M5C-oKw9k"
+  },
+  {
+    "id": "en_0179",
+    "song_name": "Justin Bieber - Mistletoe (Official Music Video)",
+    "artist": "Mistletoe (Official Music Video)",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 40,
+    "views": 570415634,
+    "likes": 3683933,
+    "published_days_ago": 5301,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.6,
+    "aesthetic_tags": [],
+    "channel": "JustinBieberVEVO",
+    "youtube_id": "LUjn3RpkcKY"
+  },
+  {
+    "id": "en_0180",
+    "song_name": "Chris Brown - New Flame ft. Usher, Rick Ross",
+    "artist": "New Flame (Official Video) ft. Usher, Rick Ross",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 546842565,
+    "likes": 2215185,
+    "published_days_ago": 4270,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "ChrisBrownVEVO",
+    "youtube_id": "HwctEiWLe84"
+  },
+  {
+    "id": "en_0181",
+    "song_name": "Fantasia - When I See U",
+    "artist": "When I See U",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 537492266,
+    "likes": 2212558,
+    "published_days_ago": 6047,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "FantasiaVEVO",
+    "youtube_id": "R8iqEfje7Aw"
+  },
+  {
+    "id": "en_0182",
+    "song_name": "Chris Brown - Under The Influence",
+    "artist": "Under The Influence (Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 39,
+    "views": 528584040,
+    "likes": 3368999,
+    "published_days_ago": 1281,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "ChrisBrownVEVO",
+    "youtube_id": "pfxyk1glEq4"
+  },
+  {
+    "id": "en_0183",
+    "song_name": "Jordin Sparks, Chris Brown - No Air ft. Chris Brown",
+    "artist": "No Air (Official Video) ft. Chris Brown",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 38,
+    "views": 508006284,
+    "likes": 2342690,
+    "published_days_ago": 6047,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.59,
+    "aesthetic_tags": [],
+    "channel": "JordinSparksVEVO",
+    "youtube_id": "WBKnpyoFEBo"
+  },
+  {
+    "id": "en_0184",
+    "song_name": "Jay Sean - Down ft. Lil Wayne (Official Music Video) ft. Lil Wayne",
+    "artist": "Down ft. Lil Wayne (Official Music Video) ft. Lil Wayne",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 436681729,
+    "likes": 2368844,
+    "published_days_ago": 5994,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "JaySeanVEVO",
+    "youtube_id": "oUbpGmR1-QM"
+  },
+  {
+    "id": "en_0185",
+    "song_name": "DaniLeigh - Easy ft. Chris Brown (Remix)",
+    "artist": "Easy ft. Chris Brown (Remix)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 36,
+    "views": 434569339,
+    "likes": 2476965,
+    "published_days_ago": 2508,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.58,
+    "aesthetic_tags": [],
+    "channel": "DaniLeighVEVO",
+    "youtube_id": "7Nbv3reNErw"
+  },
+  {
+    "id": "en_0186",
+    "song_name": "Chris Brown - Forever (Official HD Video)",
+    "artist": "Forever (Official HD Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 421567675,
+    "likes": 1437575,
+    "published_days_ago": 6025,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "ChrisBrownVEVO",
+    "youtube_id": "5sMKX22BHeE"
+  },
+  {
+    "id": "en_0187",
+    "song_name": "The Pussycat Dolls - Stickwitu (Official Music Video) ft. Avant",
+    "artist": "Stickwitu (Official Music Video) ft. Avant",
+    "mood": [
+      "romantic"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 34,
+    "views": 410801307,
+    "likes": 1528575,
+    "published_days_ago": 5996,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "ThePussycatDollsVEVO",
+    "youtube_id": "K1uNjmxJQUo"
+  },
+  {
+    "id": "en_0188",
+    "song_name": "Eminem - Not Afraid",
+    "artist": "Not Afraid",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 53,
+    "views": 2072680835,
+    "likes": 13064959,
+    "published_days_ago": 5802,
+    "verified": true,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.67,
+    "aesthetic_tags": [],
+    "channel": "EminemVEVO",
+    "youtube_id": "j5-yKhDd64s"
+  },
+  {
+    "id": "en_0189",
+    "song_name": "Assault : Manavgeet Gill x Kanji Porh x Sobit | New Punjabi Songs 2024",
+    "artist": "New Punjabi Songs 2024",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 33,
+    "views": 32051211,
+    "likes": 128284,
+    "published_days_ago": 547,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.57,
+    "aesthetic_tags": [],
+    "channel": "Manavgeet Gill",
+    "youtube_id": "TMcrxHi4R5c"
+  },
+  {
+    "id": "en_0190",
+    "song_name": "Happy Birthday Song DJ Remix | Full Bass Party Music | 1 Hour Long Happy Birthday Song",
+    "artist": "1 Hour Long Happy Birthday Song",
+    "mood": [
+      "romantic",
+      "happy",
+      "nostalgic"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 16357704,
+    "likes": 41573,
+    "published_days_ago": 616,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "Happy Birthday",
+    "youtube_id": "h1zDBHVdssU"
+  },
+  {
+    "id": "en_0191",
+    "song_name": "David Guetta & Sia - Beautiful People",
+    "artist": "Beautiful People (Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 43,
+    "views": 61594913,
+    "likes": 365728,
+    "published_days_ago": 406,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.61,
+    "aesthetic_tags": [],
+    "channel": "David Guetta",
+    "youtube_id": "S2fSojJqyNY"
+  },
+  {
+    "id": "en_0192",
+    "song_name": "Tomorrowland 2023 - Best Songs, Remixes & Mashups - Warm Up Mix 2023",
+    "artist": "Warm Up Mix 2023",
+    "mood": [
+      "happy"
+    ],
+    "context": [
+      "party"
+    ],
+    "trend_score": 30,
+    "views": 36928768,
+    "likes": 268347,
+    "published_days_ago": 1257,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "TOBI",
+    "youtube_id": "sjrcO6FWzdE"
+  },
+  {
+    "id": "en_0193",
+    "song_name": "BENNETT - Lullaby (Official Music Video)",
+    "artist": "Lullaby (Official Music Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 30,
+    "views": 32225209,
+    "likes": 160668,
+    "published_days_ago": 727,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.55,
+    "aesthetic_tags": [],
+    "channel": "BENNETT",
+    "youtube_id": "K9JDE-g3lZ4"
+  },
+  {
+    "id": "en_0194",
+    "song_name": "David Guetta live @ Tomorrowland 2024",
+    "artist": "David Guetta",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 31,
+    "views": 28278004,
+    "likes": 246957,
+    "published_days_ago": 633,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.56,
+    "aesthetic_tags": [],
+    "channel": "David Guetta",
+    "youtube_id": "g7O-7rF0Hqk"
+  },
+  {
+    "id": "en_0195",
+    "song_name": "Martin Garrix & Arijit Singh - Angels For Each Other",
+    "artist": "Angels For Each Other (Official Video)",
+    "mood": [
+      "happy",
+      "calm"
+    ],
+    "context": [
+      "aesthetic",
+      "hangout"
+    ],
+    "trend_score": 50,
+    "views": 23788131,
+    "likes": 488457,
+    "published_days_ago": 403,
+    "verified": false,
+    "language": "english",
+    "category": "Music",
+    "bpm": null,
+    "energy": 0.65,
+    "aesthetic_tags": [],
+    "channel": "Martin Garrix",
+    "youtube_id": "OTMQJ656r-M"
+  }
+]
