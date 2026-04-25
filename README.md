@@ -66,3 +66,13 @@ python -m backend.youtube_fetcher --language punjabi --max 200
 ```
 
 Requires `YOUTUBE_API_KEY` environment variable.
+
+## Deployement on Render
+
+```
+This was done as to showcase to my friends of what was made 
+Here is the link that you can visit
+
+https://soulmatch-xqan.onrender.com/
+
+I will work on getting a good domain name in future :)
