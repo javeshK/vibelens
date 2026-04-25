@@ -1,4 +1,4 @@
-# 🎵 VIbeLens
+# 🎵 VibeLens
 
 AI-powered music recommendation engine that analyzes images and suggests songs matching the mood, colors, and aesthetic of the photo.
 
